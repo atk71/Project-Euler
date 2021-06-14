@@ -1,4 +1,5 @@
 import io
+import os.path
 import requests
 from bs4 import BeautifulSoup
 
@@ -36,14 +37,15 @@ def clean_body(dirty_body):
 
 def write_to_py_file(number, title, content, timestamp):
     file_name = f'problem_{number}.py'
-    file = io.open(file_name, 'w', encoding='utf-8')
-    triple_quotes = '"""\n'
-    file.write(triple_quotes)
-    file.write(title)
-    for result in content:
-        file.write(result)
-    file.write(timestamp)
-    file.write(triple_quotes)
+    if not os.path.isfile(file_name):
+        file = io.open(file_name, 'w', encoding='utf-8')
+        triple_quotes = '"""\n'
+        file.write(triple_quotes)
+        file.write(title)
+        for result in content:
+            file.write(result)
+        file.write(timestamp)
+        file.write(triple_quotes)
 
 
 def update_directory(start, end):
@@ -54,6 +56,7 @@ def update_directory(start, end):
         page_content = scrape_body(euler_minimal_url)
         page_timestamp = scrape_timestamp(euler_url)
         write_to_py_file(question_number, page_title, page_content, page_timestamp)
+    print("update complete!")
 
 
 if __name__ == "__main__":
