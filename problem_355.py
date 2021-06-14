@@ -14,3 +14,12 @@ Find Co(200000).
 
 Published on Sunday, 23rd October 2011, 10:00 am; Solved by 494;Difficulty rating: 70%
 """
+
+
+def problem_355():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_355())

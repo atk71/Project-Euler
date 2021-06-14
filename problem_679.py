@@ -14,3 +14,12 @@ Find $f(30)$.
 
 Published on Sunday, 15th September 2019, 01:00 am; Solved by 684;Difficulty rating: 20%
 """
+
+
+def problem_679():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_679())

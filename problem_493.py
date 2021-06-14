@@ -9,3 +9,12 @@ Give your answer with nine digits after the decimal point (a.bcdefghij).
 
 Published on Saturday, 13th December 2014, 04:00 pm; Solved by 5013;Difficulty rating: 10%
 """
+
+
+def problem_493():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_493())

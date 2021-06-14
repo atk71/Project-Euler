@@ -13,3 +13,12 @@ Find S(109).
 
 Published on Saturday, 4th April 2015, 04:00 pm; Solved by 944;Difficulty rating: 30%
 """
+
+
+def problem_510():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_510())

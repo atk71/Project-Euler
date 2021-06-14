@@ -10,3 +10,12 @@ Find $\displaystyle \sum_{k=0}^{10^{18}} M(2^k + 1)$. Give your answer modulo 79
 
 Published on Saturday, 23rd April 2011, 04:00 pm; Solved by 477;Difficulty rating: 65%
 """
+
+
+def problem_335():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_335())

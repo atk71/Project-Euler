@@ -14,5 +14,14 @@ In addition we shall not include misses in considering combinations; for example
 Incredibly there are 42336 distinct ways of checking out in total.
 How many distinct ways can a player checkout with a score less than 100?
 
-Published on Friday, 18th November 2005, 06:00 pm; Solved by 7927;Difficulty rating: 45%
+Published on Friday, 18th November 2005, 06:00 pm; Solved by 7928;Difficulty rating: 45%
 """
+
+
+def problem_109():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_109())

@@ -24,3 +24,12 @@ Find the sum of the first four engineers’ paradises.
 
 Published on Saturday, 7th November 2009, 01:00 am; Solved by 972;Difficulty rating: 75%
 """
+
+
+def problem_263():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_263())

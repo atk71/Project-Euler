@@ -16,3 +16,12 @@ Find F(106, 109).
 
 Published on Sunday, 7th October 2012, 05:00 am; Solved by 250;Difficulty rating: 70%
 """
+
+
+def problem_397():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_397())

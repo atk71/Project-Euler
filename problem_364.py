@@ -11,3 +11,12 @@ Find T(1 000 000) mod 100 000 007.
 
 Published on Saturday, 24th December 2011, 01:00 pm; Solved by 670;Difficulty rating: 50%
 """
+
+
+def problem_364():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_364())

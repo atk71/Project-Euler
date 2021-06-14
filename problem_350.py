@@ -26,3 +26,12 @@ Find f(106, 1012, 1018) mod 1014.
 
 Published on Saturday, 10th September 2011, 07:00 pm; Solved by 443;Difficulty rating: 60%
 """
+
+
+def problem_350():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_350())

@@ -15,5 +15,14 @@ By finding minimal solutions in x for D = {2, 3, 5, 6, 7}, we obtain the followi
 Hence, by considering minimal solutions in x for D ≤ 7, the largest x is obtained when D=5.
 Find the value of D ≤ 1000 in minimal solutions of x for which the largest value of x is obtained.
 
-Published on Friday, 26th March 2004, 06:00 pm; Solved by 19457;Difficulty rating: 25%
+Published on Friday, 26th March 2004, 06:00 pm; Solved by 19458;Difficulty rating: 25%
 """
+
+
+def problem_66():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_66())

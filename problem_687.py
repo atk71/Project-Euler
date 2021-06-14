@@ -11,3 +11,12 @@ Find the probability that the number of perfect ranks is prime. Give your answer
 
 Published on Saturday, 2nd November 2019, 10:00 pm; Solved by 248;Difficulty rating: 45%
 """
+
+
+def problem_687():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_687())

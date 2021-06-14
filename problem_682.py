@@ -14,3 +14,12 @@ Find $f(10^7) \bmod 1\,000\,000\,007$.
 
 Published on Sunday, 6th October 2019, 10:00 am; Solved by 242;Difficulty rating: 50%
 """
+
+
+def problem_682():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_682())

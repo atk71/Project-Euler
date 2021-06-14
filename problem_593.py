@@ -12,3 +12,12 @@ Find $F(10^7, 10^5)$. If the sum is not an integer, use $.5$ to denote a half. O
 
 Published on Saturday, 4th March 2017, 07:00 pm; Solved by 494;Difficulty rating: 35%
 """
+
+
+def problem_593():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_593())

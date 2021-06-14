@@ -14,3 +14,12 @@ Find $S(10\,000)$ modulo $1\,000\,000\,007$.
 
 Published on Saturday, 19th October 2019, 04:00 pm; Solved by 178;Difficulty rating: 65%
 """
+
+
+def problem_685():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_685())

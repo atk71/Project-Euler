@@ -12,3 +12,12 @@ Find the last $8$ digits of $M_{10^8+7}(10^4+7)$.
 
 Published on Sunday, 28th May 2017, 07:00 am; Solved by 762;Difficulty rating: 25%
 """
+
+
+def problem_605():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_605())

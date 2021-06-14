@@ -9,3 +9,12 @@ Find Σ[Pm] for 2 ≤ m ≤ 15.
 
 Published on Friday, 18th April 2008, 10:00 pm; Solved by 3995;Difficulty rating: 50%
 """
+
+
+def problem_190():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_190())

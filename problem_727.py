@@ -13,3 +13,12 @@ Find $\mathbb{E}(d)$, rounded to eight places after the decimal point.
 
 Published on Saturday, 26th September 2020, 11:00 pm; Solved by 365;Difficulty rating: 25%
 """
+
+
+def problem_727():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_727())

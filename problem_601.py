@@ -27,3 +27,12 @@ Find the sum, as $i$ ranges from 1 to 31, of $P(i, 4^i)$.
 
 Published on Saturday, 29th April 2017, 07:00 pm; Solved by 1859;Difficulty rating: 20%
 """
+
+
+def problem_601():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_601())

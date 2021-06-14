@@ -8,3 +8,12 @@ Find the smallest cube for which exactly five permutations of its digits are cub
 
 Published on Friday, 30th January 2004, 06:00 pm; Solved by 31271;Difficulty rating: 15%
 """
+
+
+def problem_62():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_62())

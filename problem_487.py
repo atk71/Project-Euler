@@ -10,3 +10,12 @@ What is ∑ (S10000(1012) mod p) over all primes p between 2 ⋅ 109 and 2 ⋅
 
 Published on Saturday, 1st November 2014, 10:00 pm; Solved by 589;Difficulty rating: 40%
 """
+
+
+def problem_487():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_487())

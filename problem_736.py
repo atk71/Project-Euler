@@ -12,3 +12,12 @@ Find the unique path to equality for $(45,90)$ with smallest odd length. Enter t
 
 Published on Sunday, 29th November 2020, 01:00 am; Solved by 171;Difficulty rating: 50%
 """
+
+
+def problem_736():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_736())

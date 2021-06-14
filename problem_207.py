@@ -23,3 +23,12 @@ Find the smallest m for which P(m) < 1/12345
 
 Published on Saturday, 6th September 2008, 02:00 pm; Solved by 4573;Difficulty rating: 40%
 """
+
+
+def problem_207():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_207())

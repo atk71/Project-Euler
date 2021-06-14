@@ -12,3 +12,12 @@ Find the sum of the terms in the prime factorisation of $\displaystyle \binom {2
 
 Published on Friday, 6th February 2009, 01:00 pm; Solved by 5244;Difficulty rating: 40%
 """
+
+
+def problem_231():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_231())

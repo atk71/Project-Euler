@@ -13,3 +13,12 @@ Find $F(10^{16}) \bmod 1\,000\,004\,321$.
 
 Published on Sunday, 19th May 2019, 01:00 am; Solved by 289;Difficulty rating: 40%
 """
+
+
+def problem_670():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_670())

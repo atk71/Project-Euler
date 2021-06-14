@@ -14,3 +14,12 @@ Find $F(1234567)$.
 
 Published on Sunday, 7th April 2019, 07:00 am; Solved by 170;Difficulty rating: 65%
 """
+
+
+def problem_664():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_664())

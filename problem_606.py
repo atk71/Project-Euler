@@ -18,3 +18,12 @@ Find S(1036), giving the last nine digits of your answer.
 
 Published on Sunday, 4th June 2017, 10:00 am; Solved by 343;Difficulty rating: 50%
 """
+
+
+def problem_606():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_606())

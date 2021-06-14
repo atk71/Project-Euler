@@ -12,3 +12,12 @@ Find T(10100).
 
 Published on Sunday, 18th December 2016, 10:00 am; Solved by 293;Difficulty rating: 50%
 """
+
+
+def problem_582():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_582())

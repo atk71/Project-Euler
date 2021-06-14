@@ -16,3 +16,12 @@ Find ∑ mdrs(n) for 1 < n < 1,000,000.
 
 Published on Saturday, 30th June 2007, 02:00 pm; Solved by 3157;Difficulty rating: 60%
 """
+
+
+def problem_159():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_159())

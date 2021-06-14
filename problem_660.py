@@ -10,3 +10,12 @@ Find the sum of the largest sides of all n-pandigital triangles with $9 \le n \l
 
 Published on Saturday, 9th March 2019, 07:00 pm; Solved by 264;Difficulty rating: 40%
 """
+
+
+def problem_660():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_660())

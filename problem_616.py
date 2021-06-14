@@ -14,3 +14,12 @@ Find the sum of all creative integers less than or equal to $10^{12}$.
 
 Published on Saturday, 16th December 2017, 01:00 pm; Solved by 447;Difficulty rating: 40%
 """
+
+
+def problem_616():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_616())

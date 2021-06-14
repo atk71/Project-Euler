@@ -14,3 +14,12 @@ Find the smallest denominator d, having a resilience R(d) < 15499/94744 .
 
 Published on Saturday, 2nd May 2009, 10:00 am; Solved by 9249;Difficulty rating: 35%
 """
+
+
+def problem_243():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_243())

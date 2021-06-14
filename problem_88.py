@@ -13,3 +13,12 @@ What is the sum of all the minimal product-sum numbers for 2≤k≤12000?
 
 Published on Friday, 4th February 2005, 06:00 pm; Solved by 9866;Difficulty rating: 40%
 """
+
+
+def problem_88():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_88())

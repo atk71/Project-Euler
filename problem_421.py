@@ -13,3 +13,12 @@ Find ∑ s(n,108) for 1 ≤ n ≤ 1011.
 
 Published on Sunday, 31st March 2013, 04:00 am; Solved by 597;Difficulty rating: 50%
 """
+
+
+def problem_421():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_421())

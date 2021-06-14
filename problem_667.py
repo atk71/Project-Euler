@@ -16,3 +16,12 @@ Give your answer rounded to 10 digits after the decimal point (if Jack had choos
 
 Published on Saturday, 27th April 2019, 04:00 pm; Solved by 184;Difficulty rating: 80%
 """
+
+
+def problem_667():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_667())

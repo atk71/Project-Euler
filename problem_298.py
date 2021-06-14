@@ -12,3 +12,12 @@ Denoting Larry's score by L and Robin's score by R, what is the expected value o
 
 Published on Friday, 25th June 2010, 09:00 pm; Solved by 630;Difficulty rating: 60%
 """
+
+
+def problem_298():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_298())

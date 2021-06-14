@@ -13,3 +13,12 @@ For n = 7, the answer would have been: 806236837.
 
 Published on Sunday, 7th April 2013, 07:00 am; Solved by 250;Difficulty rating: 75%
 """
+
+
+def problem_422():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_422())

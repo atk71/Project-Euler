@@ -11,5 +11,14 @@ How many hexadecimal numbers containing at most sixteen hexadecimal digits exist
 Give your answer as a hexadecimal number.
 (A,B,C,D,E and F in upper case, without any leading or trailing code that marks the number as hexadecimal and without leading zeroes , e.g. 1A3F and not: 1a3f and not 0x1a3f and not $1A3F and not #1A3F and not 0000001A3F)
 
-Published on Friday, 5th October 2007, 10:00 pm; Solved by 5165;Difficulty rating: 45%
+Published on Friday, 5th October 2007, 10:00 pm; Solved by 5166;Difficulty rating: 45%
 """
+
+
+def problem_162():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_162())

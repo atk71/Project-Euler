@@ -10,3 +10,12 @@ Find S(108).
 
 Published on Saturday, 30th May 2015, 04:00 pm; Solved by 1490;Difficulty rating: 20%
 """
+
+
+def problem_518():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_518())

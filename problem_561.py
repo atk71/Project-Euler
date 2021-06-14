@@ -18,3 +18,12 @@ Evaluate $Q(10^{12})$.
 
 Published on Saturday, 21st May 2016, 10:00 pm; Solved by 686;Difficulty rating: 30%
 """
+
+
+def problem_561():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_561())

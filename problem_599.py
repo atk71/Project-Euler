@@ -21,3 +21,12 @@ How many essentially distinct colourings are there with 10 different colours ava
 
 Published on Saturday, 15th April 2017, 01:00 pm; Solved by 272;Difficulty rating: 60%
 """
+
+
+def problem_599():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_599())

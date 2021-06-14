@@ -13,3 +13,12 @@ Give the last 18 digits of your answer.
 
 Published on Sunday, 1st April 2012, 07:00 am; Solved by 798;Difficulty rating: 35%
 """
+
+
+def problem_378():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_378())

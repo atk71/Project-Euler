@@ -24,3 +24,12 @@ Find  $\sum_{k=1}^{18}Q(10^k) $.
 
 Published on Sunday, 29th January 2017, 04:00 am; Solved by 390;Difficulty rating: 40%
 """
+
+
+def problem_588():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_588())

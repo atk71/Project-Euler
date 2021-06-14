@@ -13,3 +13,12 @@ Find $F_{10}(10\,004\,003\,002\,001) \bmod 1\,000\,004\,321$.
 
 Published on Sunday, 19th May 2019, 01:00 am; Solved by 143;Difficulty rating: 80%
 """
+
+
+def problem_671():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_671())

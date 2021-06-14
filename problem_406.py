@@ -23,3 +23,12 @@ Let $F_k$ be the Fibonacci numbers: $F_k=F_{k-1}+F_{k-2}$ with base cases $F_1=F
 
 Published on Sunday, 16th December 2012, 07:00 am; Solved by 347;Difficulty rating: 50%
 """
+
+
+def problem_406():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_406())

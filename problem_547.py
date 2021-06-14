@@ -16,3 +16,12 @@ Find S(40) rounded to four digits after the decimal point.
 
 Published on Sunday, 14th February 2016, 04:00 am; Solved by 194;Difficulty rating: 70%
 """
+
+
+def problem_547():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_547())

@@ -10,3 +10,12 @@ What is C(30) mod 108 ?
 
 Published on Saturday, 26th December 2009, 01:00 am; Solved by 608;Difficulty rating: 80%
 """
+
+
+def problem_270():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_270())

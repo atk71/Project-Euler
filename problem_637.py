@@ -24,3 +24,12 @@ Find $g(10^7,10,3)$
 
 Published on Sunday, 23rd September 2018, 01:00 am; Solved by 289;Difficulty rating: 45%
 """
+
+
+def problem_637():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_637())

@@ -14,3 +14,12 @@ Find S(1014) mod 123454321.
 
 Published on Sunday, 8th March 2015, 04:00 am; Solved by 807;Difficulty rating: 30%
 """
+
+
+def problem_506():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_506())

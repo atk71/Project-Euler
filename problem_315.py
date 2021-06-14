@@ -23,3 +23,12 @@ Find the difference between the total number of transitions needed by Sam's cloc
 
 Published on Sunday, 19th December 2010, 10:00 am; Solved by 3225;Difficulty rating: 20%
 """
+
+
+def problem_315():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_315())

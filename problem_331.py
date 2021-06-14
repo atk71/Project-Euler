@@ -16,3 +16,12 @@ Find $\sum \limits_{i = 3}^{31} {T(2^i - i)}$.
 
 Published on Sunday, 3rd April 2011, 08:00 am; Solved by 368;Difficulty rating: 100%
 """
+
+
+def problem_331():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_331())

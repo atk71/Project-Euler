@@ -12,3 +12,12 @@ Note: In your calculations you may assume that a calculated angle is integral if
 
 Published on Friday, 11th January 2008, 09:00 pm; Solved by 1204;Difficulty rating: 80%
 """
+
+
+def problem_177():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_177())

@@ -11,3 +11,12 @@ Find $H(10^9)$ modulo $1\,117\,117\,717$.
 
 Published on Sunday, 26th May 2019, 04:00 am; Solved by 247;Difficulty rating: 50%
 """
+
+
+def problem_672():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_672())

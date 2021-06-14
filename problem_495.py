@@ -12,3 +12,12 @@ Find W(10000!,30) modulo 1 000 000 007.
 
 Published on Saturday, 27th December 2014, 10:00 pm; Solved by 248;Difficulty rating: 100%
 """
+
+
+def problem_495():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_495())

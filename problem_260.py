@@ -17,3 +17,12 @@ Find $\sum (x_i + y_i + z_i)$ where $(x_i, y_i, z_i)$ ranges over the losing con
 
 Published on Friday, 16th October 2009, 01:00 pm; Solved by 1238;Difficulty rating: 70%
 """
+
+
+def problem_260():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_260())

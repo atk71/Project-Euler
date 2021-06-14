@@ -23,3 +23,12 @@ Find $P_{500,10}$, and give your answer rounded to 8 decimal places.
 
 Published on Saturday, 20th April 2019, 01:00 pm; Solved by 239;Difficulty rating: 45%
 """
+
+
+def problem_666():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_666())

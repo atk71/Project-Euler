@@ -24,3 +24,12 @@ Find $S(100)$ and give your answer rounded to 2 decimal places.
 
 Published on Sunday, 5th February 2017, 07:00 am; Solved by 172;Difficulty rating: 95%
 """
+
+
+def problem_589():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_589())

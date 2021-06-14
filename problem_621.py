@@ -14,3 +14,12 @@ Find $G(17 526 \times 10^9)$.
 
 Published on Sunday, 25th February 2018, 04:00 am; Solved by 502;Difficulty rating: 35%
 """
+
+
+def problem_621():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_621())

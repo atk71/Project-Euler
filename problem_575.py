@@ -14,3 +14,12 @@ In order to prove yourself worthy of visiting the great oracle you must calculat
 
 Published on Saturday, 22nd October 2016, 01:00 pm; Solved by 529;Difficulty rating: 35%
 """
+
+
+def problem_575():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_575())

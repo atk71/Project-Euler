@@ -22,3 +22,12 @@ Find C(200).
 
 Published on Sunday, 2nd October 2016, 04:00 am; Solved by 308;Difficulty rating: 50%
 """
+
+
+def problem_572():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_572())

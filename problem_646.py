@@ -21,3 +21,12 @@ Find $S(70!,10^{20}, 10^{60})$ and give your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 9th December 2018, 04:00 am; Solved by 248;Difficulty rating: 40%
 """
+
+
+def problem_646():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_646())

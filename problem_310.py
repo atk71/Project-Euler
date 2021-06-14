@@ -15,3 +15,12 @@ Find the number of losing positions for the next player if 0≤a≤b≤c≤100 0
 
 Published on Saturday, 13th November 2010, 07:00 pm; Solved by 1076;Difficulty rating: 40%
 """
+
+
+def problem_310():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_310())

@@ -36,3 +36,12 @@ Give your answer rounded to six decimal places.
 
 Published on Sunday, 2nd October 2011, 01:00 am; Solved by 568;Difficulty rating: 55%
 """
+
+
+def problem_352():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_352())

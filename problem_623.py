@@ -12,3 +12,12 @@ Find $\Lambda(2000)$. Give the answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 25th March 2018, 10:00 am; Solved by 285;Difficulty rating: 45%
 """
+
+
+def problem_623():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_623())

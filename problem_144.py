@@ -16,3 +16,12 @@ How many times does the beam hit the internal surface of the white cell before e
 
 Published on Friday, 9th March 2007, 05:00 pm; Solved by 6031;Difficulty rating: 50%
 """
+
+
+def problem_144():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_144())

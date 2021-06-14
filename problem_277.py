@@ -29,5 +29,14 @@ In fact, $1004064$ is the smallest possible $a_1 > 10^6$ that begins with the se
 What is the smallest $a_1 > 10^{15}$ that begins with the sequence "UDDDUdddDDUDDddDdDddDDUDDdUUDd"?
 
 
-Published on Saturday, 6th February 2010, 01:00 am; Solved by 3079;Difficulty rating: 35%
+Published on Saturday, 6th February 2010, 01:00 am; Solved by 3080;Difficulty rating: 35%
 """
+
+
+def problem_277():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_277())

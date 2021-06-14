@@ -12,3 +12,12 @@ All computations are assumed to be exact (no rounding), but give your answer rou
 
 Published on Friday, 4th December 2009, 01:00 pm; Solved by 3230;Difficulty rating: 50%
 """
+
+
+def problem_267():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_267())

@@ -16,3 +16,12 @@ Find S(2000) mod 987 898 789.
 
 Published on Sunday, 13th October 2013, 07:00 am; Solved by 344;Difficulty rating: 60%
 """
+
+
+def problem_440():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_440())

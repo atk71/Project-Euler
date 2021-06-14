@@ -11,3 +11,12 @@ Find the sum of all composite integers $1 \lt n \le 2 \times 10^{11}$, for which
 
 Published on Friday, 15th May 2009, 02:00 pm; Solved by 777;Difficulty rating: 80%
 """
+
+
+def problem_245():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_245())

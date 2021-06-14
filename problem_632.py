@@ -9,3 +9,12 @@ Find the product of all non-zero $C_k(10^{16})$. Give the result reduced modulo 
 
 Published on Saturday, 28th July 2018, 01:00 pm; Solved by 423;Difficulty rating: 35%
 """
+
+
+def problem_632():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_632())

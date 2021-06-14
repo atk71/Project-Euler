@@ -12,3 +12,12 @@ Find ∑ U(2,2n+1)k for 2 ≤ n ≤10, where k = 1011.
 
 Published on Friday, 9th November 2007, 01:00 pm; Solved by 1590;Difficulty rating: 75%
 """
+
+
+def problem_167():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_167())

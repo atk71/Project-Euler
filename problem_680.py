@@ -21,3 +21,12 @@ Find $R(10^{18}, 10^6)$ giving your answer modulo $10^9$.
 
 Published on Sunday, 22nd September 2019, 04:00 am; Solved by 167;Difficulty rating: 65%
 """
+
+
+def problem_680():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_680())

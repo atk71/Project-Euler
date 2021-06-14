@@ -24,3 +24,12 @@ Find T(1 000 000 000).
 
 Published on Sunday, 19th May 2013, 01:00 am; Solved by 223;Difficulty rating: 90%
 """
+
+
+def problem_428():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_428())

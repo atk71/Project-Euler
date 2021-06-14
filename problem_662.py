@@ -20,3 +20,12 @@ Find $F(10\,000,10\,000) \bmod 1\,000\,000\,007$.
 
 Published on Sunday, 24th March 2019, 01:00 am; Solved by 647;Difficulty rating: 25%
 """
+
+
+def problem_662():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_662())

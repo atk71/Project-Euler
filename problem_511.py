@@ -24,3 +24,12 @@ Find the last nine digits of Seq(1234567898765,4321).
 
 Published on Saturday, 11th April 2015, 07:00 pm; Solved by 378;Difficulty rating: 55%
 """
+
+
+def problem_511():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_511())

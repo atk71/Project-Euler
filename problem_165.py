@@ -24,3 +24,12 @@ How many distinct true intersection points are found among the 5000 line segment
 
 Published on Saturday, 27th October 2007, 10:00 am; Solved by 2463;Difficulty rating: 65%
 """
+
+
+def problem_165():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_165())

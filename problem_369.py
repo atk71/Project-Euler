@@ -9,3 +9,12 @@ Find ∑ f(n)  for 4 ≤ n ≤ 13.
 
 Published on Sunday, 29th January 2012, 04:00 am; Solved by 435;Difficulty rating: 60%
 """
+
+
+def problem_369():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_369())

@@ -9,3 +9,12 @@ Given that Fk is the first Fibonacci number for which the first nine digits AND 
 
 Published on Friday, 9th September 2005, 06:00 pm; Solved by 15942;Difficulty rating: 25%
 """
+
+
+def problem_104():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_104())

@@ -16,3 +16,12 @@ Find $A(10^{16})$
 
 Published on Sunday, 25th October 2020, 10:00 am; Solved by 367;Difficulty rating: 20%
 """
+
+
+def problem_731():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_731())

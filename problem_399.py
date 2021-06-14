@@ -31,3 +31,12 @@ If it happens that the conjecture is false, then the accepted answer to this pro
 
 Published on Sunday, 21st October 2012, 11:00 am; Solved by 528;Difficulty rating: 45%
 """
+
+
+def problem_399():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_399())

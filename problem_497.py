@@ -15,3 +15,12 @@ Find the last nine digits of ∑1≤n≤10000 E(n,10n,3n,6n,9n).
 
 Published on Sunday, 11th January 2015, 04:00 am; Solved by 469;Difficulty rating: 40%
 """
+
+
+def problem_497():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_497())

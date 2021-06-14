@@ -12,3 +12,12 @@ Find p15(109) and give your answer rounded to 7 decimal places behind the decima
 
 Published on Sunday, 25th January 2015, 10:00 am; Solved by 291;Difficulty rating: 100%
 """
+
+
+def problem_499():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_499())

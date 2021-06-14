@@ -10,3 +10,12 @@ Give your answer rounded to 10 digits after the decimal point.
 
 Published on Sunday, 5th November 2017, 04:00 am; Solved by 1620;Difficulty rating: 20%
 """
+
+
+def problem_613():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_613())

@@ -13,3 +13,12 @@ How many ways are there to write the number 1/2 as a sum of inverse squares usin
 
 Published on Friday, 27th April 2007, 02:00 pm; Solved by 2555;Difficulty rating: 65%
 """
+
+
+def problem_152():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_152())

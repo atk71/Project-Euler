@@ -9,3 +9,12 @@ What is the sum of all positive reachable integers?
 
 Published on Saturday, 10th October 2009, 01:00 pm; Solved by 1417;Difficulty rating: 70%
 """
+
+
+def problem_259():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_259())

@@ -22,3 +22,12 @@ Find $f(200,500)$, rounded to 8 digits after the decimal point.
 
 Published on Saturday, 24th November 2018, 10:00 pm; Solved by 142;Difficulty rating: 90%
 """
+
+
+def problem_644():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_644())

@@ -7,5 +7,14 @@ Euler's Totient function, φ(n) [sometimes called the phi function], is used to 
 It can be seen that n=6 produces a maximum n/φ(n) for n ≤ 10.
 Find the value of n ≤ 1,000,000 for which n/φ(n) is a maximum.
 
-Published on Friday, 7th May 2004, 06:00 pm; Solved by 34599;Difficulty rating: 10%
+Published on Friday, 7th May 2004, 06:00 pm; Solved by 34601;Difficulty rating: 10%
 """
+
+
+def problem_69():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_69())

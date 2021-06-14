@@ -13,3 +13,12 @@ If he plays 105 turns with k = 1, k = 2, k = 3, ..., k = 105, wh
 
 Published on Saturday, 3rd April 2010, 05:00 am; Solved by 1131;Difficulty rating: 55%
 """
+
+
+def problem_285():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_285())

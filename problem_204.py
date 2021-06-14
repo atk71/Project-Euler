@@ -12,3 +12,12 @@ How many generalised Hamming numbers of type 100 are there which don't exceed 10
 
 Published on Saturday, 6th September 2008, 02:00 pm; Solved by 7083;Difficulty rating: 30%
 """
+
+
+def problem_204():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_204())

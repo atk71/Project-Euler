@@ -15,3 +15,12 @@ If someone uses the above Fractran program to solve Project Euler Problem 7 (fin
 
 Published on Saturday, 30th October 2010, 01:00 pm; Solved by 719;Difficulty rating: 60%
 """
+
+
+def problem_308():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_308())

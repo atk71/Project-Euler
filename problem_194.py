@@ -14,3 +14,12 @@ Find the last 8 digits of N(25,75,1984).
 
 Published on Saturday, 17th May 2008, 10:00 am; Solved by 1313;Difficulty rating: 75%
 """
+
+
+def problem_194():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_194())

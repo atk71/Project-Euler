@@ -9,3 +9,12 @@ NOTE: 2, 3, 5, and 7 are not considered to be truncatable primes.
 
 Published on Friday, 14th February 2003, 06:00 pm; Solved by 73863;Difficulty rating: 5%
 """
+
+
+def problem_37():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_37())

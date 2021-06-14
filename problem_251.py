@@ -16,5 +16,14 @@ Find how many Cardano Triplets exist such that a+b+c ≤ 110,000,000.
  
 
 
-Published on Saturday, 20th June 2009, 09:00 am; Solved by 1307;Difficulty rating: 70%
+Published on Saturday, 20th June 2009, 09:00 am; Solved by 1308;Difficulty rating: 70%
 """
+
+
+def problem_251():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_251())

@@ -11,3 +11,12 @@ Find $p(0.5)$. Give your answer rounded to 8 digits after the decimal point.
 
 Published on Sunday, 17th November 2019, 04:00 am; Solved by 202;Difficulty rating: 60%
 """
+
+
+def problem_689():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_689())

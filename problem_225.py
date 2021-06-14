@@ -14,3 +14,12 @@ Find the 124th odd number that does not divide any terms of the above sequence.
 
 Published on Friday, 26th December 2008, 05:00 pm; Solved by 4303;Difficulty rating: 45%
 """
+
+
+def problem_225():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_225())

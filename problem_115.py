@@ -13,3 +13,12 @@ For m = 50, find the least value of n for which the fill-count function first ex
 
 Published on Friday, 24th February 2006, 06:00 pm; Solved by 9654;Difficulty rating: 35%
 """
+
+
+def problem_115():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_115())

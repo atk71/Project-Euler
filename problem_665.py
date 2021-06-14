@@ -16,3 +16,12 @@ Find $f(10^7)$.
 
 Published on Sunday, 14th April 2019, 10:00 am; Solved by 222;Difficulty rating: 55%
 """
+
+
+def problem_665():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_665())

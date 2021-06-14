@@ -18,3 +18,12 @@ Find $F(10^5)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 15th March 2020, 07:00 am; Solved by 418;Difficulty rating: 25%
 """
+
+
+def problem_706():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_706())

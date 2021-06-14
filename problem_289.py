@@ -16,3 +16,12 @@ Find L(6,10) mod 1010.
 
 Published on Friday, 23rd April 2010, 01:00 pm; Solved by 461;Difficulty rating: 90%
 """
+
+
+def problem_289():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_289())

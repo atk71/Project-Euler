@@ -12,3 +12,12 @@ We shall call a positive integer with this property a strong repunit. It can be 
 
 Published on Saturday, 3rd September 2011, 04:00 pm; Solved by 4116;Difficulty rating: 15%
 """
+
+
+def problem_346():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_346())

@@ -17,3 +17,12 @@ Find f(43!).
 
 Published on Saturday, 9th March 2013, 07:00 pm; Solved by 639;Difficulty rating: 40%
 """
+
+
+def problem_418():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_418())

@@ -10,3 +10,12 @@ Find a30.
 
 Published on Friday, 7th April 2006, 06:00 pm; Solved by 12119;Difficulty rating: 30%
 """
+
+
+def problem_119():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_119())

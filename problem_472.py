@@ -17,3 +17,12 @@ Find ∑ f(N) for 1 ≤ N ≤ 1012. Give the last 8 digits of your answer.
 
 Published on Sunday, 18th May 2014, 01:00 am; Solved by 249;Difficulty rating: 60%
 """
+
+
+def problem_472():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_472())

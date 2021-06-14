@@ -18,3 +18,12 @@ Find $q(100)$ rounded to 10 decimal places.
 
 Published on Saturday, 26th December 2020, 01:00 pm; Solved by 157;Difficulty rating: 55%
 """
+
+
+def problem_740():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_740())

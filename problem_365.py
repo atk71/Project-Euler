@@ -15,3 +15,12 @@ Calculate $\displaystyle{\sum M(10^{18},10^9,p\cdot q\cdot r)}$ for $1000\lt p\l
 
 Published on Saturday, 31st December 2011, 04:00 pm; Solved by 1165;Difficulty rating: 40%
 """
+
+
+def problem_365():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_365())

@@ -10,3 +10,12 @@ Find the sum of all positive integers $n \le 10^{18}$ for which $p(n)$ has the f
 
 Published on Saturday, 18th April 2009, 02:00 am; Solved by 882;Difficulty rating: 80%
 """
+
+
+def problem_241():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_241())

@@ -19,3 +19,12 @@ Find F(5000000).
 
 Published on Saturday, 7th January 2017, 07:00 pm; Solved by 159;Difficulty rating: 100%
 """
+
+
+def problem_585():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_585())

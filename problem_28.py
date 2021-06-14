@@ -11,5 +11,14 @@ Starting with the number 1 and moving to the right in a clockwise direction a 5 
 It can be verified that the sum of the numbers on the diagonals is 101.
 What is the sum of the numbers on the diagonals in a 1001 by 1001 spiral formed in the same way?
 
-Published on Friday, 11th October 2002, 06:00 pm; Solved by 108687;Difficulty rating: 5%
+Published on Friday, 11th October 2002, 06:00 pm; Solved by 108688;Difficulty rating: 5%
 """
+
+
+def problem_28():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_28())

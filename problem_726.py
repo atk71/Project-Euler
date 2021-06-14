@@ -25,3 +25,12 @@ Find $S(10^4)$ and give your answer modulo $1\,000\,000\,033$.
 
 Published on Saturday, 19th September 2020, 08:00 pm; Solved by 165;Difficulty rating: 50%
 """
+
+
+def problem_726():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_726())

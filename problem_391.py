@@ -19,3 +19,12 @@ Find $\sum{M(n)^3}$ for $1 \le n \le 1000$.
 
 Published on Saturday, 30th June 2012, 11:00 pm; Solved by 260;Difficulty rating: 75%
 """
+
+
+def problem_391():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_391())

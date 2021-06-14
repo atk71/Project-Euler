@@ -9,3 +9,12 @@ Find the sum of the perimeters of all almost equilateral triangles with integral
 
 Published on Friday, 29th April 2005, 06:00 pm; Solved by 12082;Difficulty rating: 35%
 """
+
+
+def problem_94():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_94())

@@ -19,3 +19,12 @@ Find W(106).
 
 Published on Sunday, 16th February 2014, 10:00 am; Solved by 217;Difficulty rating: 100%
 """
+
+
+def problem_459():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_459())

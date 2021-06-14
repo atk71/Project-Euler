@@ -36,3 +36,12 @@ Give the last 18 digits as your answer.
 
 Published on Sunday, 10th February 2013, 07:00 am; Solved by 252;Difficulty rating: 60%
 """
+
+
+def problem_414():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_414())

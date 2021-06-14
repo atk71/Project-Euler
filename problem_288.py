@@ -23,3 +23,12 @@ Find NF(61,107) mod 6110
 
 Published on Saturday, 17th April 2010, 01:00 pm; Solved by 1561;Difficulty rating: 35%
 """
+
+
+def problem_288():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_288())

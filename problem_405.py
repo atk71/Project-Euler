@@ -21,3 +21,12 @@ Find f(10k) for k = 1018, give your answer modulo 177.
 
 Published on Sunday, 9th December 2012, 04:00 am; Solved by 566;Difficulty rating: 40%
 """
+
+
+def problem_405():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_405())

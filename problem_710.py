@@ -12,3 +12,12 @@ However, your challenge to the "ultimatest" question of life, the universe, and 
 
 Published on Saturday, 11th April 2020, 08:00 pm; Solved by 752;Difficulty rating: 10%
 """
+
+
+def problem_710():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_710())

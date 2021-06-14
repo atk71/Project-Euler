@@ -18,3 +18,12 @@ Find $S(3800)$.
 
 Published on Sunday, 16th October 2016, 10:00 am; Solved by 241;Difficulty rating: 50%
 """
+
+
+def problem_574():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_574())

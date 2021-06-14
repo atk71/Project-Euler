@@ -32,3 +32,12 @@ There is only one cyclic number for which, the eleven leftmost digits are 000000
 
 Published on Saturday, 12th November 2011, 07:00 pm; Solved by 1536;Difficulty rating: 25%
 """
+
+
+def problem_358():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_358())

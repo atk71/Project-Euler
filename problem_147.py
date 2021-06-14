@@ -10,3 +10,12 @@ How many different rectangles could be situated within 47x43 and smaller grids?
 
 Published on Saturday, 31st March 2007, 06:00 am; Solved by 2896;Difficulty rating: 65%
 """
+
+
+def problem_147():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_147())

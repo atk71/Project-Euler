@@ -18,3 +18,12 @@ You are given that S(104) = 884680.  Find S(107).
 
 Published on Saturday, 24th December 2016, 01:00 pm; Solved by 347;Difficulty rating: 45%
 """
+
+
+def problem_583():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_583())

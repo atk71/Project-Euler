@@ -12,3 +12,12 @@ Find $S(10^7)$. Give your answer modulo $1\,000\,000\,007$
 
 Published on Sunday, 4th October 2020, 02:00 am; Solved by 220;Difficulty rating: 35%
 """
+
+
+def problem_728():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_728())

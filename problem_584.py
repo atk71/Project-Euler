@@ -15,3 +15,12 @@ What would be the answer (rounded to eight places after the decimal point) the p
 
 Published on Saturday, 31st December 2016, 04:00 pm; Solved by 173;Difficulty rating: 100%
 """
+
+
+def problem_584():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_584())

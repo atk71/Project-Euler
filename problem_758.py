@@ -27,3 +27,12 @@ Give your answer modulo $1\,000\,000\,007$.
 
 Published on Saturday, 29th May 2021, 08:00 pm; Solved by 134
 """
+
+
+def problem_758():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_758())

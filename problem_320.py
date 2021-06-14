@@ -17,3 +17,12 @@ Find S(1 000 000) mod 1018.
 
 Published on Saturday, 15th January 2011, 10:00 pm; Solved by 806;Difficulty rating: 50%
 """
+
+
+def problem_320():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_320())

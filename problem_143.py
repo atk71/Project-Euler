@@ -11,3 +11,12 @@ Find the sum of all distinct values of p + q + r ≤ 120000 for Torricelli trian
 
 Published on Friday, 2nd March 2007, 09:00 pm; Solved by 2621;Difficulty rating: 65%
 """
+
+
+def problem_143():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_143())

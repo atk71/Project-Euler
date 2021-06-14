@@ -8,3 +8,12 @@ What is the sum of all such integers n below 150 million?
 
 Published on Saturday, 24th March 2007, 09:00 am; Solved by 4847;Difficulty rating: 50%
 """
+
+
+def problem_146():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_146())

@@ -19,3 +19,12 @@ Find the sum of the answers for the 200 puzzles.
 
 Published on Saturday, 20th April 2013, 01:00 pm; Solved by 367;Difficulty rating: 60%
 """
+
+
+def problem_424():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_424())

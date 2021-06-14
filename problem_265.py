@@ -13,3 +13,12 @@ Find S(5).
 
 Published on Saturday, 21st November 2009, 09:00 am; Solved by 4040;Difficulty rating: 40%
 """
+
+
+def problem_265():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_265())

@@ -10,5 +10,14 @@ It can be seen that this sequence (starting at 13 and finishing at 1) contains 1
 Which starting number, under one million, produces the longest chain?
 NOTE: Once the chain starts the terms are allowed to go above one million.
 
-Published on Friday, 5th April 2002, 06:00 pm; Solved by 228370;Difficulty rating: 5%
+Published on Friday, 5th April 2002, 06:00 pm; Solved by 228373;Difficulty rating: 5%
 """
+
+
+def problem_14():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_14())

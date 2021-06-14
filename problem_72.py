@@ -11,3 +11,12 @@ How many elements would be contained in the set of reduced proper fractions for 
 
 Published on Friday, 18th June 2004, 06:00 pm; Solved by 22128;Difficulty rating: 20%
 """
+
+
+def problem_72():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_72())

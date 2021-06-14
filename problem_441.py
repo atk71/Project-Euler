@@ -16,3 +16,12 @@ Find S(107). Give your answer rounded to four decimal places.
 
 Published on Sunday, 20th October 2013, 10:00 am; Solved by 332;Difficulty rating: 65%
 """
+
+
+def problem_441():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_441())

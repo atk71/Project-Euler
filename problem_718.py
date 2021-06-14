@@ -12,3 +12,12 @@ Find $G(6)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Saturday, 30th May 2020, 05:00 pm; Solved by 281;Difficulty rating: 35%
 """
+
+
+def problem_718():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_718())

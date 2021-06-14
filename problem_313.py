@@ -10,3 +10,12 @@ How many grids does S(m,n) = p2, where p < 106 is prime?
 
 Published on Sunday, 5th December 2010, 04:00 am; Solved by 1522;Difficulty rating: 30%
 """
+
+
+def problem_313():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_313())

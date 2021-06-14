@@ -16,3 +16,12 @@ Give your answer using lowercase characters (no punctuation or space).
 
 Published on Sunday, 14th September 2014, 01:00 am; Solved by 531;Difficulty rating: 45%
 """
+
+
+def problem_480():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_480())

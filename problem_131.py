@@ -10,3 +10,12 @@ How many primes below one million have this remarkable property?
 
 Published on Friday, 10th November 2006, 06:00 pm; Solved by 7136;Difficulty rating: 40%
 """
+
+
+def problem_131():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_131())

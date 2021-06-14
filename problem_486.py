@@ -13,3 +13,12 @@ Find D(1018).
 
 Published on Saturday, 25th October 2014, 07:00 pm; Solved by 230;Difficulty rating: 70%
 """
+
+
+def problem_486():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_486())

@@ -15,3 +15,12 @@ whereas when connecting them in series, the overall capacitance is given by: $\d
 
 Published on Saturday, 19th May 2007, 02:00 am; Solved by 3437;Difficulty rating: 60%
 """
+
+
+def problem_155():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_155())

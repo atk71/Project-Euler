@@ -9,3 +9,12 @@ What is the expected number of unoccupied squares after 50 rings of the bell? Gi
 
 Published on Saturday, 18th October 2008, 10:00 am; Solved by 2207;Difficulty rating: 60%
 """
+
+
+def problem_213():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_213())

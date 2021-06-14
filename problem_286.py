@@ -9,3 +9,12 @@ Find q and give your answer rounded to 10 decimal places.
 
 Published on Saturday, 3rd April 2010, 05:00 am; Solved by 2023;Difficulty rating: 50%
 """
+
+
+def problem_286():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_286())

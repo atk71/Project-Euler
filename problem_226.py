@@ -10,3 +10,12 @@ What area under the blancmange curve is enclosed by C?Give your answer rounded t
 
 Published on Friday, 2nd January 2009, 09:00 pm; Solved by 1662;Difficulty rating: 65%
 """
+
+
+def problem_226():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_226())

@@ -10,3 +10,12 @@ There are 964 balanced sculptures of order 10 and 360505 of order 15.How many ba
 
 Published on Friday, 22nd January 2010, 05:00 pm; Solved by 565;Difficulty rating: 85%
 """
+
+
+def problem_275():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_275())

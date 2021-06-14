@@ -8,3 +8,12 @@ Find the least value of n for which p(n) is divisible by one million.
 
 Published on Friday, 10th September 2004, 06:00 pm; Solved by 16633;Difficulty rating: 30%
 """
+
+
+def problem_78():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_78())

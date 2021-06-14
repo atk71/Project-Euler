@@ -16,3 +16,12 @@ Find S(1112) and give your answer mod 109.
 
 Published on Saturday, 29th May 2010, 09:00 am; Solved by 851;Difficulty rating: 45%
 """
+
+
+def problem_294():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_294())

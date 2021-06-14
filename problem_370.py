@@ -10,3 +10,12 @@ How many geometric triangles exist with perimeter ≤ 2.5·1013 ?
 
 Published on Sunday, 5th February 2012, 07:00 am; Solved by 490;Difficulty rating: 65%
 """
+
+
+def problem_370():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_370())

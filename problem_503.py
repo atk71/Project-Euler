@@ -15,3 +15,12 @@ Find F(106). Give your answer rounded to 10 decimal places behind the decimal po
 
 Published on Saturday, 14th February 2015, 07:00 pm; Solved by 288;Difficulty rating: 60%
 """
+
+
+def problem_503():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_503())

@@ -21,3 +21,12 @@ Find $\displaystyle\sum_{n=0}^6 A(n,n)$ and give your answer mod $14^8$.
 
 Published on Friday, 12th March 2010, 05:00 pm; Solved by 939;Difficulty rating: 70%
 """
+
+
+def problem_282():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_282())

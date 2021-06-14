@@ -26,3 +26,12 @@ Find F(107).
 
 Published on Saturday, 27th April 2013, 04:00 pm; Solved by 1358;Difficulty rating: 25%
 """
+
+
+def problem_425():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_425())

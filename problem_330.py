@@ -14,3 +14,12 @@ Find $A(10^9) + B(10^9)$ and give your answer mod 77 777 777.
 
 Published on Sunday, 27th March 2011, 05:00 am; Solved by 484;Difficulty rating: 70%
 """
+
+
+def problem_330():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_330())

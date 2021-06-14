@@ -16,3 +16,12 @@ Find $S(10^{16}) \mod 7^{10}$.
 
 Published on Saturday, 19th February 2011, 01:00 pm; Solved by 561;Difficulty rating: 80%
 """
+
+
+def problem_325():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_325())

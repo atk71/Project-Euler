@@ -11,3 +11,12 @@ Find the sum of $|I_d(BQA_d(\pi,10^{13}))|$ for all  non-square positive integer
 
 Published on Saturday, 18th February 2017, 01:00 pm; Solved by 172;Difficulty rating: 95%
 """
+
+
+def problem_591():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_591())

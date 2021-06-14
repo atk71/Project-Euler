@@ -11,3 +11,12 @@ Find $A(1000)$.
 
 Published on Saturday, 9th January 2021, 07:00 pm; Solved by 132;Difficulty rating: 75%
 """
+
+
+def problem_742():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_742())

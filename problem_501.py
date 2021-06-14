@@ -11,3 +11,12 @@ Find f(1012).
 
 Published on Saturday, 31st January 2015, 01:00 pm; Solved by 1222;Difficulty rating: 40%
 """
+
+
+def problem_501():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_501())

@@ -12,3 +12,12 @@ How many odd-triplets are there with n ≤ 1012 ?
 
 Published on Saturday, 25th April 2009, 06:00 am; Solved by 1003;Difficulty rating: 75%
 """
+
+
+def problem_242():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_242())

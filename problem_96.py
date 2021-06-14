@@ -10,3 +10,12 @@ By solving all fifty puzzles find the sum of the 3-digit numbers found in the to
 
 Published on Friday, 27th May 2005, 06:00 pm; Solved by 16872;Difficulty rating: 25%
 """
+
+
+def problem_96():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_96())

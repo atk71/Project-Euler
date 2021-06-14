@@ -19,3 +19,12 @@ Find $T(10^6)$.
 
 Published on Sunday, 15th December 2013, 07:00 am; Solved by 178;Difficulty rating: 100%
 """
+
+
+def problem_450():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_450())

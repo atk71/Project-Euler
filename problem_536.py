@@ -17,3 +17,12 @@ Find S(1012).
 
 Published on Saturday, 28th November 2015, 07:00 pm; Solved by 262;Difficulty rating: 60%
 """
+
+
+def problem_536():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_536())

@@ -12,3 +12,12 @@ Calculate E(100) rounded to five decimal places.
 
 Published on Sunday, 3rd May 2015, 04:00 am; Solved by 199;Difficulty rating: 90%
 """
+
+
+def problem_514():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_514())

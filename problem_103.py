@@ -13,3 +13,12 @@ NOTE: This problem is related to Problem 105 and Problem 106.
 
 Published on Friday, 26th August 2005, 06:00 pm; Solved by 7816;Difficulty rating: 45%
 """
+
+
+def problem_103():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_103())

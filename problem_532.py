@@ -11,3 +11,12 @@ In order to show off a little with his presents, Bob decides to use just enough 
 
 Published on Sunday, 1st November 2015, 07:00 am; Solved by 285;Difficulty rating: 55%
 """
+
+
+def problem_532():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_532())

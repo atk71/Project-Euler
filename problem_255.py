@@ -26,5 +26,14 @@ Give your answer rounded to 10 decimal places.
 Note: The symbols $\lfloor x \rfloor$ and $\lceil x \rceil$ represent the floor function and ceiling function respectively.
 
 
-Published on Friday, 11th September 2009, 09:00 pm; Solved by 812;Difficulty rating: 75%
+Published on Friday, 11th September 2009, 09:00 pm; Solved by 813;Difficulty rating: 75%
 """
+
+
+def problem_255():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_255())

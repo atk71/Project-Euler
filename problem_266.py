@@ -16,3 +16,12 @@ Find PSR(p) mod 1016.
 
 Published on Saturday, 28th November 2009, 01:00 pm; Solved by 1596;Difficulty rating: 65%
 """
+
+
+def problem_266():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_266())

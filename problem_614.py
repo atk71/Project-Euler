@@ -11,3 +11,12 @@ Find $\displaystyle \sum_{i=1}^{10^7}{P(i)}$. Give the result modulo $10^9+7$.
 
 Published on Sunday, 19th November 2017, 07:00 am; Solved by 282;Difficulty rating: 55%
 """
+
+
+def problem_614():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_614())

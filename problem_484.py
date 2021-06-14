@@ -10,3 +10,12 @@ Note: gcd(x,y) denotes the greatest common divisor of x and y.
 
 Published on Saturday, 11th October 2014, 01:00 pm; Solved by 298;Difficulty rating: 100%
 """
+
+
+def problem_484():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_484())

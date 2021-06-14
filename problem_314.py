@@ -25,3 +25,12 @@ Give your answer rounded to 8 places behind the decimal point in the form abc.de
 
 Published on Sunday, 12th December 2010, 07:00 am; Solved by 480;Difficulty rating: 80%
 """
+
+
+def problem_314():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_314())

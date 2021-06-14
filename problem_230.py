@@ -24,3 +24,12 @@ Find ∑n = 0,1,...,17   10n× DA,B((127+19n)×7n) .
 
 Published on Saturday, 31st January 2009, 01:00 pm; Solved by 2782;Difficulty rating: 50%
 """
+
+
+def problem_230():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_230())

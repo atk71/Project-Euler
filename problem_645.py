@@ -10,3 +10,12 @@ Find $E(10000)$. Give your answer rounded to 4 digits after the decimal point.
 
 Published on Sunday, 2nd December 2018, 01:00 am; Solved by 188;Difficulty rating: 75%
 """
+
+
+def problem_645():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_645())

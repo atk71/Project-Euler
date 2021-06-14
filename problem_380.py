@@ -23,3 +23,12 @@ E.g. if the answer is 1234567891011 then the answer format would be 1.2346e12.
 
 Published on Saturday, 14th April 2012, 02:00 pm; Solved by 468;Difficulty rating: 60%
 """
+
+
+def problem_380():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_380())

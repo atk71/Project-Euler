@@ -15,3 +15,12 @@ Find S(1012) mod 109.
 
 Published on Sunday, 21st June 2015, 01:00 am; Solved by 683;Difficulty rating: 50%
 """
+
+
+def problem_521():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_521())

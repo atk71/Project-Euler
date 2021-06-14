@@ -21,3 +21,12 @@ Find the last 9 digits of F(1018).
 
 Published on Sunday, 9th November 2014, 01:00 am; Solved by 219;Difficulty rating: 80%
 """
+
+
+def problem_488():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_488())

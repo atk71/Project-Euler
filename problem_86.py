@@ -10,3 +10,12 @@ Find the least value of M such that the number of solutions first exceeds one mi
 
 Published on Friday, 7th January 2005, 06:00 pm; Solved by 12483;Difficulty rating: 35%
 """
+
+
+def problem_86():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_86())

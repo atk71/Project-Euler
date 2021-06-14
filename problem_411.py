@@ -24,3 +24,12 @@ Find ∑ S(k5) for 1 ≤ k ≤ 30.
 
 Published on Saturday, 19th January 2013, 10:00 pm; Solved by 591;Difficulty rating: 45%
 """
+
+
+def problem_411():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_411())

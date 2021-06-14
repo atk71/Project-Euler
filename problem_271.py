@@ -15,3 +15,12 @@ Find S(13082761331670030).
 
 Published on Saturday, 2nd January 2010, 05:00 am; Solved by 2254;Difficulty rating: 60%
 """
+
+
+def problem_271():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_271())

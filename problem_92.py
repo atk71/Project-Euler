@@ -10,5 +10,14 @@ For example,
 Therefore any chain that arrives at 1 or 89 will become stuck in an endless loop. What is most amazing is that EVERY starting number will eventually arrive at 1 or 89.
 How many starting numbers below ten million will arrive at 89?
 
-Published on Friday, 1st April 2005, 06:00 pm; Solved by 41379;Difficulty rating: 5%
+Published on Friday, 1st April 2005, 06:00 pm; Solved by 41380;Difficulty rating: 5%
 """
+
+
+def problem_92():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_92())

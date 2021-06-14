@@ -10,3 +10,12 @@ Find $\sum L$ for the twelve smallest isosceles triangles for which $h = b \pm 1
 
 Published on Saturday, 20th January 2007, 11:00 am; Solved by 5611;Difficulty rating: 45%
 """
+
+
+def problem_138():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_138())

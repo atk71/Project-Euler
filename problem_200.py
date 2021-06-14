@@ -11,3 +11,12 @@ Find the 200th prime-proof sqube containing the contiguous sub-string "200".
 
 Published on Saturday, 28th June 2008, 10:00 am; Solved by 2243;Difficulty rating: 65%
 """
+
+
+def problem_200():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_200())

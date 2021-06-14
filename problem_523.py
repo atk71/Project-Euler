@@ -12,3 +12,12 @@ Find E(30). Give your answer rounded to two digits after the decimal point.
 
 Published on Sunday, 6th September 2015, 07:00 am; Solved by 904;Difficulty rating: 30%
 """
+
+
+def problem_523():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_523())

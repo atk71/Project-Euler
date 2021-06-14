@@ -18,3 +18,12 @@ Find $S(2020)$. Give your answer modulo $10^{16}$.
 
 Published on Saturday, 12th September 2020, 05:00 pm; Solved by 673;Difficulty rating: 10%
 """
+
+
+def problem_725():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_725())

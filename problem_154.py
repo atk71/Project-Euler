@@ -13,3 +13,12 @@ How many coefficients in the expansion of (x + y + z)200000 are multiples of 101
 
 Published on Saturday, 12th May 2007, 06:00 am; Solved by 2523;Difficulty rating: 65%
 """
+
+
+def problem_154():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_154())

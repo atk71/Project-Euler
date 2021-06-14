@@ -11,3 +11,12 @@ Find T(1018) mod 1 000 000 007.
 
 Published on Saturday, 10th October 2015, 10:00 pm; Solved by 221;Difficulty rating: 85%
 """
+
+
+def problem_529():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_529())

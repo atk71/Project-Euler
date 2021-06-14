@@ -31,3 +31,12 @@ Find S(1014) mod 109.
 
 Published on Sunday, 23rd November 2014, 07:00 am; Solved by 265;Difficulty rating: 95%
 """
+
+
+def problem_490():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_490())

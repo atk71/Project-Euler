@@ -16,3 +16,12 @@ If b+d < 100 000 000, how many distinct triplets (a,b,d) are there such that p
 
 Published on Saturday, 3rd July 2010, 01:00 am; Solved by 580;Difficulty rating: 60%
 """
+
+
+def problem_299():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_299())

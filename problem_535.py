@@ -14,3 +14,12 @@ Find T(1018). Give the last 9 digits of your answer.
 
 Published on Saturday, 21st November 2015, 04:00 pm; Solved by 263;Difficulty rating: 60%
 """
+
+
+def problem_535():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_535())

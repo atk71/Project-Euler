@@ -13,3 +13,12 @@ Find the 150000th Alexandrian integer.
 
 Published on Saturday, 13th December 2008, 01:00 pm; Solved by 1980;Difficulty rating: 65%
 """
+
+
+def problem_221():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_221())

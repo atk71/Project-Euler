@@ -11,3 +11,12 @@ Find T(107). Give your answer rounded to the nearest integer.
 
 Published on Sunday, 29th May 2016, 01:00 am; Solved by 173;Difficulty rating: 75%
 """
+
+
+def problem_562():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_562())

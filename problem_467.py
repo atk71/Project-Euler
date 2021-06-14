@@ -20,3 +20,12 @@ Find f(10 000) mod 1 000 000 007.
 
 Published on Sunday, 13th April 2014, 10:00 am; Solved by 399;Difficulty rating: 50%
 """
+
+
+def problem_467():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_467())

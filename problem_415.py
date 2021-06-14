@@ -12,3 +12,12 @@ Find T(1011) mod 108.
 
 Published on Sunday, 17th February 2013, 10:00 am; Solved by 281;Difficulty rating: 100%
 """
+
+
+def problem_415():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_415())

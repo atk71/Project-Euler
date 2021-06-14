@@ -12,3 +12,12 @@ Find E(14) rounded to 8 decimal places.
 
 Published on Sunday, 21st September 2014, 04:00 am; Solved by 217;Difficulty rating: 70%
 """
+
+
+def problem_481():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_481())

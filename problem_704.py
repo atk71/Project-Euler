@@ -17,3 +17,12 @@ Find $S(10^{16})$.
 
 Published on Sunday, 1st March 2020, 01:00 am; Solved by 689;Difficulty rating: 20%
 """
+
+
+def problem_704():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_704())

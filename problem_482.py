@@ -19,3 +19,12 @@ Find S(107).
 
 Published on Sunday, 28th September 2014, 07:00 am; Solved by 193;Difficulty rating: 85%
 """
+
+
+def problem_482():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_482())

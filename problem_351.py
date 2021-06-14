@@ -20,3 +20,12 @@ Find H(100 000 000).
 
 Published on Saturday, 17th September 2011, 10:00 pm; Solved by 2428;Difficulty rating: 25%
 """
+
+
+def problem_351():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_351())

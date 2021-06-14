@@ -21,3 +21,12 @@ Find E(10 000 000) mod 118.
 
 Published on Saturday, 30th August 2014, 07:00 pm; Solved by 169;Difficulty rating: 100%
 """
+
+
+def problem_478():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_478())

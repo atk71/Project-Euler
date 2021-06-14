@@ -28,3 +28,12 @@ Consider now $1500$ adjacent bowls containing $b_1, b_2, \ldots, b_{1500}$ beans
 
 Published on Saturday, 23rd April 2011, 04:00 pm; Solved by 445;Difficulty rating: 65%
 """
+
+
+def problem_334():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_334())

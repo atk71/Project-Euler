@@ -15,3 +15,12 @@ In how many ways can you fill a 4x4 grid with the digits d, 0 ≤ d ≤ 9 so tha
 
 Published on Saturday, 3rd November 2007, 01:00 pm; Solved by 3921;Difficulty rating: 50%
 """
+
+
+def problem_166():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_166())

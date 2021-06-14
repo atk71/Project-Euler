@@ -12,3 +12,12 @@ Find $F(30, 10001)\text{ mod }1\,000\,000\,007$.
 
 Published on Saturday, 19th May 2018, 10:00 pm; Solved by 222;Difficulty rating: 60%
 """
+
+
+def problem_627():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_627())

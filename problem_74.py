@@ -18,3 +18,12 @@ How many chains, with a starting number below one million, contain exactly sixty
 
 Published on Friday, 16th July 2004, 06:00 pm; Solved by 26526;Difficulty rating: 15%
 """
+
+
+def problem_74():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_74())

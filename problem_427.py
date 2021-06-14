@@ -13,3 +13,12 @@ Find f(7 500 000) mod 1 000 000 009.
 
 Published on Saturday, 11th May 2013, 10:00 pm; Solved by 281;Difficulty rating: 95%
 """
+
+
+def problem_427():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_427())

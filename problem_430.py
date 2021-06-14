@@ -16,3 +16,12 @@ Give your answer rounded to 2 decimal places behind the decimal point.
 
 Published on Sunday, 2nd June 2013, 07:00 am; Solved by 803;Difficulty rating: 35%
 """
+
+
+def problem_430():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_430())

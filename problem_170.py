@@ -12,3 +12,12 @@ What is the largest 0 to 9 pandigital 10-digit concatenated product of an intege
 
 Published on Saturday, 1st December 2007, 01:00 am; Solved by 1879;Difficulty rating: 70%
 """
+
+
+def problem_170():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_170())

@@ -20,5 +20,14 @@ i.e. (527, 144), (−488, 732), (−454, −947), …
 What is the maximum area for a convex hole on the set containing the first 500 points in the pseudo-random sequence? Specify your answer including one digit after the decimal point.
 
 
-Published on Saturday, 27th June 2009, 01:00 pm; Solved by 787;Difficulty rating: 80%
+Published on Saturday, 27th June 2009, 01:00 pm; Solved by 788;Difficulty rating: 80%
 """
+
+
+def problem_252():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_252())

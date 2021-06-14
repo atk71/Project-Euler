@@ -13,3 +13,12 @@ The sum of the divisibility multipliers for the primes that are coprime to 10 an
 
 Published on Friday, 15th January 2010, 01:00 pm; Solved by 1338;Difficulty rating: 65%
 """
+
+
+def problem_274():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_274())

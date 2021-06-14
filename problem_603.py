@@ -11,3 +11,12 @@ Evaluate $S(C(10^6, 10^{12}))$ mod $(10^9 + 7)$.
 
 Published on Sunday, 14th May 2017, 01:00 am; Solved by 380;Difficulty rating: 45%
 """
+
+
+def problem_603():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_603())

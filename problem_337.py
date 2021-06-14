@@ -12,3 +12,12 @@ Find S(20 000 000) mod 108.
 
 Published on Saturday, 7th May 2011, 10:00 pm; Solved by 482;Difficulty rating: 70%
 """
+
+
+def problem_337():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_337())

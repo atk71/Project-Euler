@@ -23,3 +23,12 @@ Find E(40) rounded to 10 decimal places behind the decimal point.
 
 Published on Saturday, 15th September 2012, 08:00 pm; Solved by 490;Difficulty rating: 55%
 """
+
+
+def problem_394():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_394())

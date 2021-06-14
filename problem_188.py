@@ -12,3 +12,12 @@ Find the last 8 digits of 1777↑↑1855.
 
 Published on Friday, 4th April 2008, 02:00 pm; Solved by 6187;Difficulty rating: 35%
 """
+
+
+def problem_188():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_188())

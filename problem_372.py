@@ -13,3 +13,12 @@ Note: $\lfloor x\rfloor$ represents the floor function.
 
 Published on Saturday, 18th February 2012, 01:00 pm; Solved by 378;Difficulty rating: 60%
 """
+
+
+def problem_372():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_372())

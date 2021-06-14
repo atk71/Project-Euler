@@ -12,3 +12,12 @@ How many numbers below fifty million can be expressed as the sum of a prime squa
 
 Published on Friday, 21st January 2005, 06:00 pm; Solved by 20654;Difficulty rating: 20%
 """
+
+
+def problem_87():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_87())

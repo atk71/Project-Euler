@@ -20,5 +20,14 @@ The "sum of a sub-triangle" is defined as the sum of all the elements it contain
 
 Find the smallest possible sub-triangle sum.
 
-Published on Friday, 13th April 2007, 10:00 pm; Solved by 3812;Difficulty rating: 55%
+Published on Friday, 13th April 2007, 10:00 pm; Solved by 3813;Difficulty rating: 55%
 """
+
+
+def problem_150():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_150())

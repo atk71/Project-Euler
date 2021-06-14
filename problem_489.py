@@ -12,3 +12,12 @@ Find H(18, 1900).
 
 Published on Sunday, 16th November 2014, 04:00 am; Solved by 212;Difficulty rating: 100%
 """
+
+
+def problem_489():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_489())

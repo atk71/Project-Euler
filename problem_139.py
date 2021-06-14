@@ -10,3 +10,12 @@ Given that the perimeter of the right triangle is less than one-hundred million,
 
 Published on Saturday, 27th January 2007, 09:00 am; Solved by 5415;Difficulty rating: 50%
 """
+
+
+def problem_139():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_139())

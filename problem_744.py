@@ -16,3 +16,12 @@ Find $f(10^{11},0.4999)$. Give your answer rounded to 10 places behind the decim
 
 Published on Sunday, 24th January 2021, 01:00 am; Solved by 214;Difficulty rating: 35%
 """
+
+
+def problem_744():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_744())

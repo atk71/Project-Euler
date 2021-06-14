@@ -12,3 +12,12 @@ What is the sum of all semidivisible numbers not exceeding 999966663333 ?
 
 Published on Saturday, 28th February 2009, 01:00 am; Solved by 3148;Difficulty rating: 50%
 """
+
+
+def problem_234():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_234())

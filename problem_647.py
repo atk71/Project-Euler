@@ -21,3 +21,12 @@ Find $\sum_{k} F_k(10^{12})$ where the sum is over all odd $k = 3,5,7,\ldots$
 
 Published on Sunday, 16th December 2018, 07:00 am; Solved by 382;Difficulty rating: 30%
 """
+
+
+def problem_647():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_647())

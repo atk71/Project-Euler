@@ -14,3 +14,12 @@ Find $\sum \limits_{r = 1}^{50} {A(r)}$. Give your answer rounded to six decimal
 
 Published on Sunday, 10th April 2011, 10:00 am; Solved by 557;Difficulty rating: 50%
 """
+
+
+def problem_332():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_332())

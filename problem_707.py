@@ -23,3 +23,12 @@ Find $S(199,199)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 22nd March 2020, 10:00 am; Solved by 192;Difficulty rating: 55%
 """
+
+
+def problem_707():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_707())

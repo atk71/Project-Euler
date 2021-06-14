@@ -17,3 +17,12 @@ Note: According to the four exponentials conjecture the function $\text{log}_m(n
 
 Published on Saturday, 19th January 2019, 10:00 pm; Solved by 150;Difficulty rating: 70%
 """
+
+
+def problem_652():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_652())

@@ -12,3 +12,12 @@ Find ∑ S(N), for all squarefree N only divisible by primes of the form 4k+1 
 
 Published on Saturday, 9th January 2010, 01:00 pm; Solved by 1291;Difficulty rating: 70%
 """
+
+
+def problem_273():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_273())

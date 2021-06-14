@@ -20,3 +20,12 @@ With these pairings, find the number of permutations that satisfy the students' 
 
 Published on Sunday, 2nd June 2019, 07:00 am; Solved by 288;Difficulty rating: 35%
 """
+
+
+def problem_673():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_673())

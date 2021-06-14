@@ -12,3 +12,12 @@ Find $S(10^{10})$.
 
 Published on Saturday, 23rd June 2012, 08:00 pm; Solved by 543;Difficulty rating: 60%
 """
+
+
+def problem_390():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_390())

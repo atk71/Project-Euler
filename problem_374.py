@@ -19,3 +19,12 @@ Give your answer modulo 982451653, the 50 millionth prime.
 
 Published on Saturday, 3rd March 2012, 07:00 pm; Solved by 638;Difficulty rating: 40%
 """
+
+
+def problem_374():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_374())

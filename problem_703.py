@@ -10,3 +10,12 @@ Find $S(20)$. Give your answer modulo $1\,001\,001\,011$.
 
 Published on Saturday, 22nd February 2020, 10:00 pm; Solved by 254;Difficulty rating: 45%
 """
+
+
+def problem_703():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_703())

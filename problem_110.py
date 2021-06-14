@@ -11,3 +11,12 @@ NOTE: This problem is a much more difficult version of Problem 108 and as it is 
 
 Published on Friday, 2nd December 2005, 06:00 pm; Solved by 7874;Difficulty rating: 40%
 """
+
+
+def problem_110():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_110())

@@ -23,3 +23,12 @@ Find S(10 000 000).
 
 Published on Saturday, 3rd September 2011, 04:00 pm; Solved by 4363;Difficulty rating: 15%
 """
+
+
+def problem_347():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_347())

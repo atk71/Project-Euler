@@ -18,3 +18,12 @@ Find the smallest area possible for such a bounding rectangle, and give your ans
 
 Published on Saturday, 22nd September 2012, 11:00 pm; Solved by 650;Difficulty rating: 40%
 """
+
+
+def problem_395():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_395())

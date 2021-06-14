@@ -29,3 +29,12 @@ Give your answer rounded to 10 digits behind the decimal point in the form a.bcd
 
 Published on Sunday, 9th October 2011, 04:00 am; Solved by 447;Difficulty rating: 50%
 """
+
+
+def problem_353():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_353())

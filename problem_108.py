@@ -10,3 +10,12 @@ NOTE: This problem is an easier version of Problem 110; it is strongly advised t
 
 Published on Friday, 4th November 2005, 06:00 pm; Solved by 12390;Difficulty rating: 30%
 """
+
+
+def problem_108():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_108())

@@ -10,3 +10,12 @@ Give your answer with 9 digits after the decimal point.
 
 Published on Friday, 6th June 2008, 10:00 pm; Solved by 4734;Difficulty rating: 45%
 """
+
+
+def problem_197():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_197())

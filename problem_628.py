@@ -21,3 +21,12 @@ Find $f(10^8)$ modulo $1\,008\,691\,207$.
 
 Published on Sunday, 3rd June 2018, 01:00 am; Solved by 707;Difficulty rating: 25%
 """
+
+
+def problem_628():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_628())

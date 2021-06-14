@@ -10,3 +10,12 @@ Find $\log_{10} c$ and give your answer rounded to two places after the decimal 
 
 Published on Sunday, 12th January 2020, 04:00 am; Solved by 451;Difficulty rating: 30%
 """
+
+
+def problem_697():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_697())

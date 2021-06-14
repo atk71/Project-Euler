@@ -11,3 +11,12 @@ Find F(108, 109) + F(109, 108).
 
 Published on Saturday, 12th January 2013, 07:00 pm; Solved by 259;Difficulty rating: 70%
 """
+
+
+def problem_410():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_410())

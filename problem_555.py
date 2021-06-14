@@ -47,3 +47,12 @@ Find $S(10^6, 10^6)$.
 
 Published on Sunday, 10th April 2016, 04:00 am; Solved by 640;Difficulty rating: 30%
 """
+
+
+def problem_555():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_555())

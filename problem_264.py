@@ -14,3 +14,12 @@ Enter as your answer the sum of their perimeters rounded to four decimal places.
 
 Published on Saturday, 14th November 2009, 05:00 am; Solved by 525;Difficulty rating: 85%
 """
+
+
+def problem_264():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_264())

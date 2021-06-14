@@ -8,5 +8,14 @@ Given the positive integers, x, y, and z, are consecutive terms of an arithmetic
 It turns out that n = 1155 is the least value which has exactly ten solutions.
 How many values of n less than one million have exactly ten distinct solutions?
 
-Published on Friday, 29th December 2006, 06:00 pm; Solved by 6163;Difficulty rating: 45%
+Published on Friday, 29th December 2006, 06:00 pm; Solved by 6164;Difficulty rating: 45%
 """
+
+
+def problem_135():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_135())

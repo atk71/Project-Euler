@@ -24,3 +24,12 @@ Find HL(50000). Give your answer modulo 109.
 
 Published on Sunday, 12th February 2017, 10:00 am; Solved by 240;Difficulty rating: 60%
 """
+
+
+def problem_590():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_590())

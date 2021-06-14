@@ -23,3 +23,12 @@ Find the last 9 digits of ∑ G(n) for 1 ≤ n < 16.
 
 Published on Sunday, 30th September 2012, 02:00 am; Solved by 627;Difficulty rating: 40%
 """
+
+
+def problem_396():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_396())

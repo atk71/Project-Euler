@@ -14,3 +14,12 @@ Starting with a grid that is entirely white, how many squares are black after 10
 
 Published on Saturday, 3rd September 2011, 04:00 pm; Solved by 1811;Difficulty rating: 35%
 """
+
+
+def problem_349():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_349())

@@ -23,3 +23,12 @@ When giving your answer, use a lowercase e to separate mantissa and exponent. E.
 
 Published on Saturday, 8th March 2014, 07:00 pm; Solved by 289;Difficulty rating: 60%
 """
+
+
+def problem_462():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_462())

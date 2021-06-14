@@ -13,3 +13,12 @@ Here are base i-1 representations of a few Gaussian integers:
 
 Published on Sunday, 22nd March 2015, 10:00 am; Solved by 213;Difficulty rating: 90%
 """
+
+
+def problem_508():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_508())

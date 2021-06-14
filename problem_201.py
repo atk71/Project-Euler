@@ -34,3 +34,12 @@ Determine the sum of all integers which are the sum of exactly one of the 50-ele
 
 Published on Saturday, 5th July 2008, 02:00 pm; Solved by 2187;Difficulty rating: 65%
 """
+
+
+def problem_201():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_201())

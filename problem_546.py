@@ -9,3 +9,12 @@ Find $(\sum_{k=2}^{10}$ fk(1014)$)$ mod (109+7).
 
 Published on Sunday, 7th February 2016, 01:00 am; Solved by 210;Difficulty rating: 85%
 """
+
+
+def problem_546():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_546())

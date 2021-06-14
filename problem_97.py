@@ -9,3 +9,12 @@ Find the last ten digits of this prime number.
 
 Published on Friday, 10th June 2005, 06:00 pm; Solved by 43002;Difficulty rating: 5%
 """
+
+
+def problem_97():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_97())

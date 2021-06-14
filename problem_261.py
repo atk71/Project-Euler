@@ -10,3 +10,12 @@ Find the sum of all distinct square-pivots ≤ 1010.
 
 Published on Friday, 23rd October 2009, 05:00 pm; Solved by 642;Difficulty rating: 85%
 """
+
+
+def problem_261():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_261())

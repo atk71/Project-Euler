@@ -13,3 +13,12 @@ How many triangles ABC with a perimeter not exceeding 100 000 exist such that BE
 
 Published on Friday, 11th June 2010, 01:00 pm; Solved by 541;Difficulty rating: 60%
 """
+
+
+def problem_296():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_296())

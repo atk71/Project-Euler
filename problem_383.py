@@ -17,3 +17,12 @@ Find T5(1018).
 
 Published on Saturday, 5th May 2012, 11:00 pm; Solved by 452;Difficulty rating: 50%
 """
+
+
+def problem_383():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_383())

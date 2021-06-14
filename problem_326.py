@@ -27,3 +27,12 @@ Find f(1012,106).
 
 Published on Saturday, 26th February 2011, 04:00 pm; Solved by 491;Difficulty rating: 55%
 """
+
+
+def problem_326():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_326())

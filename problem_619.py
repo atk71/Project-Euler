@@ -10,3 +10,12 @@ Find $C(1000000,1234567) \text{ mod } 1000000007$.
 
 Published on Saturday, 27th January 2018, 10:00 pm; Solved by 360;Difficulty rating: 45%
 """
+
+
+def problem_619():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_619())

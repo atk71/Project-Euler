@@ -16,5 +16,14 @@ However, there exist triangles for which some or all of these ratios are integra
 How many triangles ABC with perimeter≤100,000,000 exist so that the ratio area(ABC)/area(AEG) is integral?
 
 
-Published on Saturday, 26th September 2009, 05:00 am; Solved by 641;Difficulty rating: 85%
+Published on Saturday, 26th September 2009, 05:00 am; Solved by 643;Difficulty rating: 85%
 """
+
+
+def problem_257():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_257())

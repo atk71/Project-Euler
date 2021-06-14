@@ -11,3 +11,12 @@ Assuming that Bob plays with an optimal strategy, what is the expected number of
 
 Published on Sunday, 28th October 2018, 10:00 am; Solved by 310;Difficulty rating: 50%
 """
+
+
+def problem_640():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_640())

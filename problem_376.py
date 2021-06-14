@@ -35,3 +35,12 @@ How many are there for N = 30 ?
 
 Published on Sunday, 18th March 2012, 01:00 am; Solved by 256;Difficulty rating: 70%
 """
+
+
+def problem_376():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_376())

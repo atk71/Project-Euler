@@ -14,3 +14,12 @@ Find F(100000).
 
 Published on Sunday, 26th April 2015, 01:00 am; Solved by 284;Difficulty rating: 60%
 """
+
+
+def problem_513():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_513())

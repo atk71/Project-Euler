@@ -11,3 +11,12 @@ Find the sum of the digits of all the n-digit steady squares in the base 14 numb
 
 Published on Saturday, 27th March 2010, 01:00 am; Solved by 1195;Difficulty rating: 55%
 """
+
+
+def problem_284():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_284())

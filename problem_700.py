@@ -10,5 +10,14 @@ For example, the first term is 1504170715041707 which is the first Eulercoin.  T
 The sum of the first 2 Eulercoins is therefore 1513083232796311.
 Find the sum of all Eulercoins.
 
-Published on Saturday, 1st February 2020, 01:00 pm; Solved by 2086;Difficulty rating: 5%
+Published on Saturday, 1st February 2020, 01:00 pm; Solved by 2087;Difficulty rating: 5%
 """
+
+
+def problem_700():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_700())

@@ -23,3 +23,12 @@ Find $t(O_{4,2})$.
 
 Published on Saturday, 11th March 2017, 10:00 pm; Solved by 171;Difficulty rating: 85%
 """
+
+
+def problem_594():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_594())

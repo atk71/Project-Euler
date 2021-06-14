@@ -11,3 +11,12 @@ Find $\sum G(n^3)$ for $1 \le n \lt 10^6$.
 
 Published on Sunday, 5th June 2011, 10:00 am; Solved by 881;Difficulty rating: 45%
 """
+
+
+def problem_341():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_341())

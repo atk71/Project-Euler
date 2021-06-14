@@ -27,3 +27,12 @@ How many Strong Achilles numbers are there below 1018?
 
 Published on Saturday, 18th September 2010, 07:00 pm; Solved by 702;Difficulty rating: 60%
 """
+
+
+def problem_302():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_302())

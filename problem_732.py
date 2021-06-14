@@ -35,3 +35,12 @@ Find $Q(1000)$.
 
 Published on Saturday, 31st October 2020, 01:00 pm; Solved by 174;Difficulty rating: 40%
 """
+
+
+def problem_732():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_732())

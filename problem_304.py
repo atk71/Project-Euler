@@ -29,3 +29,12 @@ Give your answer mod 1234567891011.
 
 Published on Sunday, 3rd October 2010, 01:00 am; Solved by 2044;Difficulty rating: 40%
 """
+
+
+def problem_304():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_304())

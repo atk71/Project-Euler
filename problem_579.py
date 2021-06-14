@@ -20,3 +20,12 @@ Find S(5000) mod 109.
 
 Published on Sunday, 27th November 2016, 01:00 am; Solved by 137;Difficulty rating: 100%
 """
+
+
+def problem_579():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_579())

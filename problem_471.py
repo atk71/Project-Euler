@@ -16,3 +16,12 @@ For G(10) the answer would have been 2.059722222e1.
 
 Published on Saturday, 10th May 2014, 10:00 pm; Solved by 197;Difficulty rating: 75%
 """
+
+
+def problem_471():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_471())

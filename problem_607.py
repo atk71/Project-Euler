@@ -18,3 +18,12 @@ Find the shortest possible time required to travel from point A to B, and give y
 
 Published on Saturday, 10th June 2017, 01:00 pm; Solved by 1557;Difficulty rating: 20%
 """
+
+
+def problem_607():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_607())

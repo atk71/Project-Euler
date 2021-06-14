@@ -9,5 +9,14 @@ If $(n_1,n_2,n_3)$ indicates a Nim position consisting of heaps of size $n_1$, $
 For example $X(1,2,3) = 0$ because, no matter what the current player does, the opponent can respond with a move that leaves two heaps of equal size, at which point every move by the current player can be mirrored by the opponent until no stones remain; so the current player loses. To illustrate:
 For how many positive integers $n \le 2^{30}$ does $X(n,2n,3n) = 0$ ?
 
-Published on Saturday, 11th September 2010, 04:00 pm; Solved by 6176;Difficulty rating: 15%
+Published on Saturday, 11th September 2010, 04:00 pm; Solved by 6177;Difficulty rating: 15%
 """
+
+
+def problem_301():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_301())

@@ -13,3 +13,12 @@ Find (F(1012,100) + F(10000,10000) + F(100,1012)) mod 1 000 000 007.
 
 Published on Saturday, 7th February 2015, 04:00 pm; Solved by 258;Difficulty rating: 100%
 """
+
+
+def problem_502():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_502())

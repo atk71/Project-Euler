@@ -10,3 +10,12 @@ In how many ways can a laser beam enter at vertex C, bounce off 12017639147 surf
 
 Published on Saturday, 5th July 2008, 02:00 pm; Solved by 2412;Difficulty rating: 60%
 """
+
+
+def problem_202():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_202())

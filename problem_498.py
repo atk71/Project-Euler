@@ -12,3 +12,12 @@ Find C(1013, 1012, 104) mod 999999937.
 
 Published on Sunday, 18th January 2015, 07:00 am; Solved by 471;Difficulty rating: 40%
 """
+
+
+def problem_498():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_498())

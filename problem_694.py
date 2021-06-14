@@ -21,3 +21,12 @@ Find $S(10^{18})$.
 
 Published on Saturday, 21st December 2019, 07:00 pm; Solved by 754;Difficulty rating: 15%
 """
+
+
+def problem_694():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_694())

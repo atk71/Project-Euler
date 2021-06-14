@@ -19,3 +19,12 @@ Find the sum of the strong, right truncatable Harshad primes less than 1014.
 
 Published on Sunday, 3rd June 2012, 11:00 am; Solved by 4489;Difficulty rating: 10%
 """
+
+
+def problem_387():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_387())

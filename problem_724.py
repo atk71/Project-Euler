@@ -14,3 +14,12 @@ Find $E(10^8)$. Give your answer rounded to the nearest integer.
 
 Published on Saturday, 5th September 2020, 02:00 pm; Solved by 294;Difficulty rating: 30%
 """
+
+
+def problem_724():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_724())

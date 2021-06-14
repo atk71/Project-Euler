@@ -20,3 +20,12 @@ Find $S(25)$, rounded to 4 decimal places.
 
 Published on Sunday, 11th October 2020, 05:00 am; Solved by 138;Difficulty rating: 60%
 """
+
+
+def problem_729():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_729())

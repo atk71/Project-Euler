@@ -24,3 +24,12 @@ Find $\sum$ GF(t) for 2≤t≤45.
 
 Published on Sunday, 13th May 2012, 02:00 am; Solved by 307;Difficulty rating: 65%
 """
+
+
+def problem_384():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_384())

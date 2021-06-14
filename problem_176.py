@@ -8,3 +8,12 @@ Find the smallest integer that can be the length of a cathetus of exactly 47547 
 
 Published on Friday, 4th January 2008, 05:00 pm; Solved by 1805;Difficulty rating: 70%
 """
+
+
+def problem_176():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_176())

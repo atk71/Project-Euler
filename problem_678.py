@@ -14,3 +14,12 @@ Find $F(10^{18})$.
 
 Published on Saturday, 7th September 2019, 10:00 pm; Solved by 201;Difficulty rating: 55%
 """
+
+
+def problem_678():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_678())

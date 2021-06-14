@@ -20,3 +20,12 @@ Find S(1010).
 
 Published on Sunday, 27th November 2011, 01:00 am; Solved by 560;Difficulty rating: 50%
 """
+
+
+def problem_360():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_360())

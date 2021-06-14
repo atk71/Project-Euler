@@ -14,3 +14,12 @@ Find F(108).
 
 Published on Saturday, 23rd August 2014, 04:00 pm; Solved by 240;Difficulty rating: 65%
 """
+
+
+def problem_477():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_477())

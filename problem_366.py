@@ -32,3 +32,12 @@ Give your answer modulo 108.
 
 Published on Saturday, 7th January 2012, 07:00 pm; Solved by 625;Difficulty rating: 40%
 """
+
+
+def problem_366():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_366())

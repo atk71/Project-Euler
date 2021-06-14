@@ -14,3 +14,12 @@ Find F(105).
 
 Published on Saturday, 30th January 2016, 10:00 pm; Solved by 478;Difficulty rating: 35%
 """
+
+
+def problem_545():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_545())

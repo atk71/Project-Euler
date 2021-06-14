@@ -15,3 +15,12 @@ Find LC(10000, 5000) mod 76543217.
 
 Published on Sunday, 27th January 2013, 01:00 am; Solved by 465;Difficulty rating: 50%
 """
+
+
+def problem_412():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_412())

@@ -21,3 +21,12 @@ Give your answer modulo $1\,000\,000\,007$.
 
 Published on Saturday, 16th November 2013, 10:00 pm; Solved by 345;Difficulty rating: 50%
 """
+
+
+def problem_445():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_445())

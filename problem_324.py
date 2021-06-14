@@ -9,3 +9,12 @@ Find f(1010000) mod 100000007.
 
 Published on Sunday, 13th February 2011, 10:00 am; Solved by 666;Difficulty rating: 50%
 """
+
+
+def problem_324():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_324())

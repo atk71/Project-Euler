@@ -19,3 +19,12 @@ Find $T(10^{14})$.
 
 Published on Sunday, 26th January 2020, 10:00 am; Solved by 158;Difficulty rating: 80%
 """
+
+
+def problem_699():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_699())

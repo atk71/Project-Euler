@@ -15,3 +15,12 @@ Find the sum of the perimeters of all integer sided triangles for which the area
 
 Published on Friday, 19th March 2010, 09:00 pm; Solved by 600;Difficulty rating: 75%
 """
+
+
+def problem_283():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_283())

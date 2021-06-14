@@ -17,3 +17,12 @@ How many sides does S1864 + S1865 + … + S1909 have?
 
 Published on Saturday, 17th January 2009, 05:00 am; Solved by 1263;Difficulty rating: 70%
 """
+
+
+def problem_228():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_228())

@@ -12,3 +12,12 @@ Find g(1015).
 
 Published on Saturday, 2nd November 2013, 04:00 pm; Solved by 1055;Difficulty rating: 30%
 """
+
+
+def problem_443():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_443())

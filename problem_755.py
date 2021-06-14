@@ -22,3 +22,12 @@ Find $\displaystyle S(10^{13})$.
 
 Published on Sunday, 18th April 2021, 11:00 am; Solved by 395
 """
+
+
+def problem_755():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_755())

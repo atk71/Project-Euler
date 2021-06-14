@@ -13,3 +13,12 @@ Find T(36).
 
 Published on Saturday, 13th October 2007, 02:00 am; Solved by 1722;Difficulty rating: 70%
 """
+
+
+def problem_163():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_163())

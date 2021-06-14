@@ -9,3 +9,12 @@ Given that the three characters are always asked for in order, analyse the file 
 
 Published on Friday, 17th September 2004, 06:00 pm; Solved by 40845;Difficulty rating: 5%
 """
+
+
+def problem_79():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_79())

@@ -20,3 +20,12 @@ Give your answer rounded to 10 digits behind the decimal point.
 
 Published on Sunday, 18th December 2011, 10:00 am; Solved by 1028;Difficulty rating: 35%
 """
+
+
+def problem_363():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_363())

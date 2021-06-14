@@ -7,5 +7,14 @@ Some positive integers n have the property that the sum [ n + reverse(n) ] consi
 There are 120 reversible numbers below one-thousand.
 How many reversible numbers are there below one-billion (109)?
 
-Published on Friday, 16th March 2007, 01:00 pm; Solved by 16340;Difficulty rating: 20%
+Published on Friday, 16th March 2007, 01:00 pm; Solved by 16341;Difficulty rating: 20%
 """
+
+
+def problem_145():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_145())

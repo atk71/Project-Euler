@@ -13,3 +13,12 @@ Find the 2011th lexicographic maximix arrangement for eleven carriages.
 
 Published on Saturday, 30th April 2011, 07:00 pm; Solved by 1938;Difficulty rating: 25%
 """
+
+
+def problem_336():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_336())

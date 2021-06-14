@@ -15,3 +15,12 @@ Find $\mathbb{E}(\Delta|\varphi(k),12345678,12345)$ rounded to six places after 
 
 Published on Saturday, 1st May 2021, 02:00 pm; Solved by 210
 """
+
+
+def problem_756():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_756())

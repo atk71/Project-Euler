@@ -23,3 +23,12 @@ Find $F(111\,111\,111\,111\,222\,333)$. Give your answer modulo $123\,123\,123$.
 
 Published on Sunday, 19th January 2020, 07:00 am; Solved by 357;Difficulty rating: 30%
 """
+
+
+def problem_698():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_698())

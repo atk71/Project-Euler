@@ -19,3 +19,12 @@ Find the last nine digits of $\displaystyle\sum_{k=2}^{24}{S(F_k)}$.
 
 Published on Saturday, 13th January 2018, 07:00 pm; Solved by 920;Difficulty rating: 20%
 """
+
+
+def problem_618():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_618())

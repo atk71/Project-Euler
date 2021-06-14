@@ -9,3 +9,12 @@ For the first one hundred natural numbers, find the total of the digital sums of
 
 Published on Friday, 8th October 2004, 06:00 pm; Solved by 19608;Difficulty rating: 20%
 """
+
+
+def problem_80():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_80())

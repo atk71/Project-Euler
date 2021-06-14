@@ -17,3 +17,12 @@ Find ∑ M(C,30) for 3 ≤ C ≤ 40.
 
 Published on Saturday, 5th March 2011, 07:00 pm; Solved by 1072;Difficulty rating: 40%
 """
+
+
+def problem_327():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_327())

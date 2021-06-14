@@ -14,3 +14,12 @@ How many different ways can one hundred be written as a sum of at least two posi
 
 Published on Friday, 13th August 2004, 06:00 pm; Solved by 28398;Difficulty rating: 10%
 """
+
+
+def problem_76():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_76())

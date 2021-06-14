@@ -12,3 +12,12 @@ Find $G(500)$, giving your answer in scientific notation rounded to 9 significan
 
 Published on Saturday, 12th October 2019, 01:00 pm; Solved by 279;Difficulty rating: 40%
 """
+
+
+def problem_683():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_683())

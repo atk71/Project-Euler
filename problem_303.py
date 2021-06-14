@@ -13,3 +13,12 @@ Find $\sum \limits_{n=1}^{10000} {\dfrac{f(n)}{n}}$.
 
 Published on Saturday, 25th September 2010, 10:00 pm; Solved by 3453;Difficulty rating: 35%
 """
+
+
+def problem_303():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_303())

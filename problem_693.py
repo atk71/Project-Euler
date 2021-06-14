@@ -14,3 +14,12 @@ Find $f(3\,000\,000)$.
 
 Published on Saturday, 14th December 2019, 04:00 pm; Solved by 258;Difficulty rating: 40%
 """
+
+
+def problem_693():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_693())

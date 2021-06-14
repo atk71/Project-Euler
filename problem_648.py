@@ -12,3 +12,12 @@ Find $F(1000)$, and give your answer modulo $10^9$.
 
 Published on Sunday, 23rd December 2018, 10:00 am; Solved by 251;Difficulty rating: 45%
 """
+
+
+def problem_648():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_648())

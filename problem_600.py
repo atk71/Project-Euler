@@ -11,3 +11,12 @@ Equiangular hexagons with perimeter not exceeding 12
 
 Published on Saturday, 22nd April 2017, 04:00 pm; Solved by 559;Difficulty rating: 35%
 """
+
+
+def problem_600():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_600())

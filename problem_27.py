@@ -10,5 +10,14 @@ The incredible formula $n^2 - 79n + 1601$ was discovered, which produces 80 prim
 Considering quadratics of the form:
 Find the product of the coefficients, $a$ and $b$, for the quadratic expression that produces the maximum number of primes for consecutive values of $n$, starting with $n = 0$.
 
-Published on Friday, 27th September 2002, 06:00 pm; Solved by 87799;Difficulty rating: 5%
+Published on Friday, 27th September 2002, 06:00 pm; Solved by 87800;Difficulty rating: 5%
 """
+
+
+def problem_27():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_27())

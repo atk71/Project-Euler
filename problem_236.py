@@ -14,3 +14,12 @@ Give your answer as a fraction reduced to its lowest terms, in the form u/v.
 
 Published on Saturday, 14th March 2009, 09:00 am; Solved by 890;Difficulty rating: 80%
 """
+
+
+def problem_236():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_236())

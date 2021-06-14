@@ -23,3 +23,12 @@ Note: We assume that each licence plate seen is equally likely to have any three
 
 Published on Sunday, 12th February 2012, 10:00 am; Solved by 1528;Difficulty rating: 30%
 """
+
+
+def problem_371():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_371())

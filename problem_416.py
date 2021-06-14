@@ -10,3 +10,12 @@ Find the last 9 digits of F(10, 1012).
 
 Published on Saturday, 23rd February 2013, 01:00 pm; Solved by 277;Difficulty rating: 80%
 """
+
+
+def problem_416():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_416())

@@ -13,3 +13,12 @@ Find $S(50)$, rounded to $6$ decimal places.
 
 Published on Sunday, 12th June 2016, 07:00 am; Solved by 217;Difficulty rating: 60%
 """
+
+
+def problem_564():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_564())

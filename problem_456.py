@@ -19,3 +19,12 @@ Find C(2 000 000).
 
 Published on Sunday, 26th January 2014, 01:00 am; Solved by 378;Difficulty rating: 55%
 """
+
+
+def problem_456():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_456())

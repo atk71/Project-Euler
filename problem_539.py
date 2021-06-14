@@ -24,3 +24,12 @@ Find S(1018) mod 987654321.
 
 Published on Sunday, 20th December 2015, 04:00 am; Solved by 750;Difficulty rating: 30%
 """
+
+
+def problem_539():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_539())

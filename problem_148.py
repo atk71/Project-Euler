@@ -9,3 +9,12 @@ Find the number of entries which are not divisible by 7 in the first one billion
 
 Published on Saturday, 7th April 2007, 02:00 am; Solved by 4952;Difficulty rating: 50%
 """
+
+
+def problem_148():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_148())

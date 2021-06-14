@@ -8,3 +8,12 @@ How many barely acute triangles are there with perimeter ≤ 25,000,000?
 
 Published on Friday, 26th December 2008, 05:00 pm; Solved by 1436;Difficulty rating: 70%
 """
+
+
+def problem_223():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_223())

@@ -12,3 +12,12 @@ How many distinct valid colourings are there for the above configuration?
 
 Published on Friday, 11th April 2008, 05:00 pm; Solved by 1946;Difficulty rating: 70%
 """
+
+
+def problem_189():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_189())

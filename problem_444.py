@@ -15,3 +15,12 @@ Find $S_{20}(10^{14})$ and write the answer in scientific notation rounded to 10
 
 Published on Saturday, 9th November 2013, 07:00 pm; Solved by 282;Difficulty rating: 60%
 """
+
+
+def problem_444():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_444())

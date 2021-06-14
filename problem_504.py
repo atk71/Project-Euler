@@ -10,3 +10,12 @@ How many quadrilaterals ABCD strictly contain a square number of lattice points 
 
 Published on Saturday, 21st February 2015, 10:00 pm; Solved by 2867;Difficulty rating: 15%
 """
+
+
+def problem_504():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_504())

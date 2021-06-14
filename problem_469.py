@@ -19,3 +19,12 @@ Find E(1018). Give your answer rounded to fourteen decimal places in the form 0.
 
 Published on Saturday, 26th April 2014, 04:00 pm; Solved by 689;Difficulty rating: 40%
 """
+
+
+def problem_469():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_469())

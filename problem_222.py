@@ -8,3 +8,12 @@ Give your answer in micrometres (10-6 m) rounded to the nearest integer.
 
 Published on Friday, 19th December 2008, 01:00 pm; Solved by 2013;Difficulty rating: 60%
 """
+
+
+def problem_222():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_222())

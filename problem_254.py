@@ -10,5 +10,14 @@ Define sg(i) as the sum of the digits of g(i). So sg(5) = 2 + 5 = 7.
 Further, it can be verified that g(20) is 267 and ∑ sg(i) for 1 ≤ i ≤ 20 is 156.
 What is ∑ sg(i) for 1 ≤ i ≤ 150?
 
-Published on Friday, 4th September 2009, 05:00 pm; Solved by 903;Difficulty rating: 75%
+Published on Friday, 4th September 2009, 05:00 pm; Solved by 904;Difficulty rating: 75%
 """
+
+
+def problem_254():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_254())

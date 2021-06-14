@@ -23,3 +23,12 @@ Find S(100), give your answer modulo 1000000033.
 
 Published on Saturday, 29th June 2013, 07:00 pm; Solved by 318;Difficulty rating: 75%
 """
+
+
+def problem_434():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_434())

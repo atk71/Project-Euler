@@ -10,3 +10,12 @@ Give your answer rounded to 6 decimal places.
 
 Published on Saturday, 27th February 2010, 01:00 pm; Solved by 970;Difficulty rating: 65%
 """
+
+
+def problem_280():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_280())

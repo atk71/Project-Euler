@@ -15,3 +15,12 @@ Find the sum of the first forty terms of this sequence.
 
 Published on Sunday, 23rd January 2011, 01:00 am; Solved by 1639;Difficulty rating: 30%
 """
+
+
+def problem_321():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_321())

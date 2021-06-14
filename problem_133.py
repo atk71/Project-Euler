@@ -10,3 +10,12 @@ Find the sum of all the primes below one-hundred thousand that will never be a f
 
 Published on Friday, 1st December 2006, 06:00 pm; Solved by 5322;Difficulty rating: 50%
 """
+
+
+def problem_133():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_133())

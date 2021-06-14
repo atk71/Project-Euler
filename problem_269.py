@@ -13,3 +13,12 @@ What is Z(1016)?
 
 Published on Saturday, 19th December 2009, 09:00 am; Solved by 643;Difficulty rating: 80%
 """
+
+
+def problem_269():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_269())

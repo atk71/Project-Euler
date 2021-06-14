@@ -17,3 +17,12 @@ Find $g(7^7) + g(8^8)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Saturday, 2nd January 2021, 04:00 pm; Solved by 117;Difficulty rating: 80%
 """
+
+
+def problem_741():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_741())

@@ -15,3 +15,12 @@ Find F(107).
 
 Published on Sunday, 24th March 2013, 01:00 am; Solved by 405;Difficulty rating: 60%
 """
+
+
+def problem_420():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_420())

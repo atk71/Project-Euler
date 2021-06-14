@@ -13,3 +13,12 @@ Find $\displaystyle \sum_{n=3}^{10^7}G(n)$.
 
 Published on Saturday, 17th September 2016, 10:00 pm; Solved by 253;Difficulty rating: 55%
 """
+
+
+def problem_570():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_570())

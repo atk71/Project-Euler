@@ -31,3 +31,12 @@ Find the Matrix Sum of:
 
 Published on Saturday, 3rd September 2011, 04:00 pm; Solved by 5421;Difficulty rating: 15%
 """
+
+
+def problem_345():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_345())

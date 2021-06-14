@@ -14,5 +14,14 @@ Surprisingly, there are palindromic numbers that are themselves Lychrel numbers;
 How many Lychrel numbers are there below ten-thousand?
 NOTE: Wording was modified slightly on 24 April 2007 to emphasise the theoretical nature of Lychrel numbers.
 
-Published on Friday, 24th October 2003, 06:00 pm; Solved by 53788;Difficulty rating: 5%
+Published on Friday, 24th October 2003, 06:00 pm; Solved by 53790;Difficulty rating: 5%
 """
+
+
+def problem_55():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_55())

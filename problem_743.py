@@ -19,3 +19,12 @@ Find $A(10^8,10^{16})$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Saturday, 16th January 2021, 10:00 pm; Solved by 557;Difficulty rating: 10%
 """
+
+
+def problem_743():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_743())

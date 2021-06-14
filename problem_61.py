@@ -7,5 +7,14 @@ Triangle, square, pentagonal, hexagonal, heptagonal, and octagonal numbers are a
 The ordered set of three 4-digit numbers: 8128, 2882, 8281, has three interesting properties.
 Find the sum of the only ordered set of six cyclic 4-digit numbers for which each polygonal type: triangle, square, pentagonal, hexagonal, heptagonal, and octagonal, is represented by a different number in the set.
 
-Published on Friday, 16th January 2004, 06:00 pm; Solved by 25280;Difficulty rating: 20%
+Published on Friday, 16th January 2004, 06:00 pm; Solved by 25281;Difficulty rating: 20%
 """
+
+
+def problem_61():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_61())

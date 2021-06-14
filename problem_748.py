@@ -23,3 +23,12 @@ Find $S(10^{16})$ and give the last 9 digits as your answer.
 
 Published on Saturday, 20th February 2021, 01:00 pm; Solved by 237;Difficulty rating: 40%
 """
+
+
+def problem_748():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_748())

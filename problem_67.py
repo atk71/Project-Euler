@@ -11,5 +11,14 @@ That is, 3 + 7 + 4 + 9 = 23.
 Find the maximum total from top to bottom in triangle.txt (right click and 'Save Link/Target As...'), a 15K text file containing a triangle with one-hundred rows.
 NOTE: This is a much more difficult version of Problem 18. It is not possible to try every route to solve this problem, as there are 299 altogether! If you could check one trillion (1012) routes every second it would take over twenty billion years to check them all. There is an efficient algorithm to solve it. ;o)
 
-Published on Friday, 9th April 2004, 06:00 pm; Solved by 95995;Difficulty rating: 5%
+Published on Friday, 9th April 2004, 06:00 pm; Solved by 95998;Difficulty rating: 5%
 """
+
+
+def problem_67():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_67())

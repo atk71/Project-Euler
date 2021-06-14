@@ -12,3 +12,12 @@ Find $\displaystyle \sum_{k=1}^{50} S_k(10^{12}) \bmod 1\,000\,000\,007$.
 
 Published on Sunday, 21st October 2018, 07:00 am; Solved by 219;Difficulty rating: 70%
 """
+
+
+def problem_639():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_639())

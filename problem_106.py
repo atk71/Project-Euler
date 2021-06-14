@@ -11,3 +11,12 @@ NOTE: This problem is related to Problem 103 and Problem 105.
 
 Published on Friday, 7th October 2005, 06:00 pm; Solved by 6209;Difficulty rating: 50%
 """
+
+
+def problem_106():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_106())

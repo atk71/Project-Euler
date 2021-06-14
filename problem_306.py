@@ -13,3 +13,12 @@ For $1 \le n \le 1 000 000$, how many values of $n$ are there for which the firs
 
 Published on Sunday, 17th October 2010, 07:00 am; Solved by 1109;Difficulty rating: 55%
 """
+
+
+def problem_306():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_306())

@@ -15,3 +15,12 @@ What is Cost(109) ?
 
 Published on Saturday, 29th November 2008, 05:00 am; Solved by 1407;Difficulty rating: 70%
 """
+
+
+def problem_219():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_219())

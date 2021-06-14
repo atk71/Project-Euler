@@ -26,3 +26,12 @@ Find $G(10^6)$.
 
 Published on Sunday, 21st March 2021, 01:00 am; Solved by 338
 """
+
+
+def problem_752():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_752())

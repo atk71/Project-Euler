@@ -11,3 +11,12 @@ Find (∑1≤u≤39 Q(2u)) mod 1 000 000 123.
 
 Published on Saturday, 13th June 2015, 10:00 pm; Solved by 371;Difficulty rating: 45%
 """
+
+
+def problem_520():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_520())

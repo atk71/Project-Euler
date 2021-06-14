@@ -20,5 +20,14 @@ It can be seen that the index of S32 is (1,1) as is the index of S50.
 What is the largest n for which the index of Sn is (3,3)?
 
 
-Published on Friday, 29th May 2009, 09:00 pm; Solved by 1391;Difficulty rating: 65%
+Published on Friday, 29th May 2009, 09:00 pm; Solved by 1392;Difficulty rating: 65%
 """
+
+
+def problem_247():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_247())

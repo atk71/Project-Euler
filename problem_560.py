@@ -11,3 +11,12 @@ Find L(107, 107) mod 1 000 000 007
 
 Published on Saturday, 14th May 2016, 07:00 pm; Solved by 277;Difficulty rating: 75%
 """
+
+
+def problem_560():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_560())

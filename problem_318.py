@@ -35,3 +35,12 @@ Find $\displaystyle \sum N(p,q) \,\, \text{ for } p+q \le 2011$.
 
 Published on Saturday, 1st January 2011, 04:00 pm; Solved by 878;Difficulty rating: 50%
 """
+
+
+def problem_318():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_318())

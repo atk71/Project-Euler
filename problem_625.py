@@ -12,3 +12,12 @@ Find $G(10^{11})$. Give your answer modulo 998244353
 
 Published on Saturday, 21st April 2018, 04:00 pm; Solved by 527;Difficulty rating: 35%
 """
+
+
+def problem_625():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_625())

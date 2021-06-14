@@ -9,3 +9,12 @@ How many solutions has this equation for 1 ≤ n ≤ 9?
 
 Published on Friday, 1st June 2007, 06:00 pm; Solved by 2575;Difficulty rating: 65%
 """
+
+
+def problem_157():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_157())

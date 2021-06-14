@@ -10,3 +10,12 @@ Find E(1018).
 
 Published on Saturday, 26th October 2013, 01:00 pm; Solved by 364;Difficulty rating: 60%
 """
+
+
+def problem_442():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_442())

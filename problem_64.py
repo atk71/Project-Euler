@@ -35,5 +35,14 @@ $\quad \quad \sqrt{13}=[3;(1,1,1,1,6)]$, period=$5$
 Exactly four continued fractions, for $N \le 13$, have an odd period.
 How many continued fractions for $N \le 10\,000$ have an odd period?
 
-Published on Friday, 27th February 2004, 06:00 pm; Solved by 21946;Difficulty rating: 20%
+Published on Friday, 27th February 2004, 06:00 pm; Solved by 21948;Difficulty rating: 20%
 """
+
+
+def problem_64():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_64())

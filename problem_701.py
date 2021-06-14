@@ -18,3 +18,12 @@ Find $E(7, 7)$, rounded to 8 decimal places.
 
 Published on Saturday, 8th February 2020, 04:00 pm; Solved by 274;Difficulty rating: 40%
 """
+
+
+def problem_701():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_701())

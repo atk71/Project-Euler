@@ -13,3 +13,12 @@ Find $\sum_{i=4}^{40} f(i, F_{i-1}, F_i) \bmod 1\,000\,000\,007$, where $F_i$ ar
 
 Published on Saturday, 12th January 2019, 07:00 pm; Solved by 150;Difficulty rating: 70%
 """
+
+
+def problem_651():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_651())

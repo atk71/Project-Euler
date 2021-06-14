@@ -14,3 +14,12 @@ h=( 5000-0.005*(x*x+y*y+x*y)+12.5*(x+y) ) * exp( -abs(0.000001*(x*x+y*y)-0.0015*
 
 Published on Friday, 30th October 2009, 09:00 pm; Solved by 672;Difficulty rating: 80%
 """
+
+
+def problem_262():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_262())

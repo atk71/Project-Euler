@@ -21,3 +21,12 @@ Find g(1012).
 
 Published on Sunday, 8th April 2012, 11:00 am; Solved by 487;Difficulty rating: 70%
 """
+
+
+def problem_379():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_379())

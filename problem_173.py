@@ -9,3 +9,12 @@ Using up to one million tiles how many different square laminae can be formed?
 
 Published on Saturday, 22nd December 2007, 01:00 pm; Solved by 8827;Difficulty rating: 30%
 """
+
+
+def problem_173():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_173())

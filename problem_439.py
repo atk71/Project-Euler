@@ -11,3 +11,12 @@ Find S(1011) mod 109.
 
 Published on Sunday, 6th October 2013, 04:00 am; Solved by 355;Difficulty rating: 100%
 """
+
+
+def problem_439():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_439())

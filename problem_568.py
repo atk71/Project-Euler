@@ -14,3 +14,12 @@ Find the 7 most significant digits of $D(123456789)$ after removing all leading 
 
 Published on Saturday, 3rd September 2016, 04:00 pm; Solved by 249;Difficulty rating: 55%
 """
+
+
+def problem_568():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_568())

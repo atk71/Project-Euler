@@ -14,5 +14,14 @@ Find the volume (in m3) of the region through which the fragments move before re
 Give your answer rounded to four decimal places.
 
 
-Published on Saturday, 1st January 2011, 04:00 pm; Solved by 2509;Difficulty rating: 35%
+Published on Saturday, 1st January 2011, 04:00 pm; Solved by 2510;Difficulty rating: 35%
 """
+
+
+def problem_317():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_317())

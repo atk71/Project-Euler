@@ -29,3 +29,12 @@ Find A(1 000 000 000).
 
 Published on Sunday, 20th May 2012, 05:00 am; Solved by 259;Difficulty rating: 70%
 """
+
+
+def problem_385():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_385())

@@ -16,3 +16,12 @@ Find the sum of the primes q <1000000 such that P(q)=1.
 
 Published on Saturday, 16th April 2011, 01:00 pm; Solved by 1157;Difficulty rating: 35%
 """
+
+
+def problem_333():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_333())

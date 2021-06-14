@@ -16,3 +16,12 @@ Find W(1 000 000, 100) modulo the semiprime 1000 036 000 099 (= 1 000 003 · 1 0
 
 Published on Saturday, 25th June 2011, 07:00 pm; Solved by 293;Difficulty rating: 100%
 """
+
+
+def problem_344():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_344())

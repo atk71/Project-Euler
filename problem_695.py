@@ -9,3 +9,12 @@ Find the expected value of the area of the second biggest of the three rectangle
 
 Published on Saturday, 28th December 2019, 10:00 pm; Solved by 182;Difficulty rating: 70%
 """
+
+
+def problem_695():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_695())

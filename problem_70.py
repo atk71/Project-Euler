@@ -9,3 +9,12 @@ Find the value of n, 1 < n < 107, for which φ(n) is a permutation of n and the 
 
 Published on Friday, 21st May 2004, 06:00 pm; Solved by 22048;Difficulty rating: 20%
 """
+
+
+def problem_70():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_70())

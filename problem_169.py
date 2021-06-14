@@ -13,3 +13,12 @@ What is f(1025)?
 
 Published on Friday, 23rd November 2007, 09:00 pm; Solved by 4849;Difficulty rating: 50%
 """
+
+
+def problem_169():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_169())

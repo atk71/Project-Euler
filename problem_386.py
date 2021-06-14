@@ -13,3 +13,12 @@ Find ∑ N(n) for 1 ≤ n ≤ 108
 
 Published on Sunday, 27th May 2012, 08:00 am; Solved by 683;Difficulty rating: 40%
 """
+
+
+def problem_386():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_386())

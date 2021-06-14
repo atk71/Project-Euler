@@ -9,3 +9,12 @@ Find (∑10 ≤ k ≤ 15 S(10k,k,k)) mod 1 000 000 007.
 
 Published on Saturday, 3rd October 2015, 07:00 pm; Solved by 253;Difficulty rating: 60%
 """
+
+
+def problem_528():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_528())

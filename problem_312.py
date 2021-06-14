@@ -19,3 +19,12 @@ Find C(C(C(10 000))) mod 138.
 
 Published on Sunday, 28th November 2010, 01:00 am; Solved by 792;Difficulty rating: 50%
 """
+
+
+def problem_312():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_312())

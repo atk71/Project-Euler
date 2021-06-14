@@ -14,5 +14,14 @@ Then $S(2) = 110$ and $S(6) = 2562701$.
 Find $S(16)$.
 
 
-Published on Saturday, 27th February 2021, 04:00 pm; Solved by 365;Difficulty rating: 15%
+Published on Saturday, 27th February 2021, 04:00 pm; Solved by 366;Difficulty rating: 15%
 """
+
+
+def problem_749():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_749())

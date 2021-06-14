@@ -17,3 +17,12 @@ Find the sum of FITs for the BOPs.
 
 Published on Friday, 29th July 2005, 06:00 pm; Solved by 11216;Difficulty rating: 35%
 """
+
+
+def problem_101():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_101())

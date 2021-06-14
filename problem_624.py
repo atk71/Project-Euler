@@ -17,3 +17,12 @@ Find $Q(P(10^{18}),1\,000\,000\,009)$.
 
 Published on Saturday, 7th April 2018, 01:00 pm; Solved by 549;Difficulty rating: 30%
 """
+
+
+def problem_624():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_624())

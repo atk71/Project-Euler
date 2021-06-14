@@ -25,3 +25,12 @@ Find  S(5678027) + S(7208785).
 
 Published on Friday, 30th May 2008, 06:00 pm; Solved by 2444;Difficulty rating: 65%
 """
+
+
+def problem_196():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_196())

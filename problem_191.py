@@ -15,3 +15,12 @@ How many "prize" strings exist over a 30-day period?
 
 Published on Saturday, 26th April 2008, 01:00 am; Solved by 6832;Difficulty rating: 35%
 """
+
+
+def problem_191():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_191())

@@ -20,3 +20,12 @@ Find $S(2^{25})$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Saturday, 13th June 2020, 11:00 pm; Solved by 253;Difficulty rating: 35%
 """
+
+
+def problem_720():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_720())

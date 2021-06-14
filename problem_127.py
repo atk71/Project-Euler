@@ -9,5 +9,14 @@ For example, (5, 27, 32) is an abc-hit, because:
 It turns out that abc-hits are quite rare and there are only thirty-one abc-hits for c < 1000, with ∑c = 12523.
 Find ∑c for c < 120000.
 
-Published on Friday, 1st September 2006, 06:00 pm; Solved by 6014;Difficulty rating: 50%
+Published on Friday, 1st September 2006, 06:00 pm; Solved by 6016;Difficulty rating: 50%
 """
+
+
+def problem_127():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_127())

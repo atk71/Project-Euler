@@ -23,3 +23,12 @@ Find $S(10^2,10^8)$
 
 Published on Sunday, 18th October 2020, 08:00 am; Solved by 147;Difficulty rating: 65%
 """
+
+
+def problem_730():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_730())

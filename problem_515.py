@@ -11,3 +11,12 @@ Find D(109,105,105).
 
 Published on Sunday, 10th May 2015, 07:00 am; Solved by 428;Difficulty rating: 40%
 """
+
+
+def problem_515():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_515())

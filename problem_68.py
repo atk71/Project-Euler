@@ -11,3 +11,12 @@ Using the numbers 1 to 10, and depending on arrangements, it is possible to form
 
 Published on Friday, 23rd April 2004, 06:00 pm; Solved by 20541;Difficulty rating: 25%
 """
+
+
+def problem_68():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_68())

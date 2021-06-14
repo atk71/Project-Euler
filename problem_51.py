@@ -9,3 +9,12 @@ Find the smallest prime which, by replacing part of the number (not necessarily 
 
 Published on Friday, 29th August 2003, 06:00 pm; Solved by 33734;Difficulty rating: 15%
 """
+
+
+def problem_51():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_51())

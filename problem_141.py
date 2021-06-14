@@ -11,3 +11,12 @@ Find the sum of all progressive perfect squares below one trillion (1012).
 
 Published on Saturday, 17th February 2007, 05:00 am; Solved by 3764;Difficulty rating: 60%
 """
+
+
+def problem_141():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_141())

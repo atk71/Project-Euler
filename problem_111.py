@@ -11,5 +11,14 @@ In the same way we obtain the following results for 4-digit primes.
 For d = 0 to 9, the sum of all S(4, d) is 273700.
 Find the sum of all S(10, d).
 
-Published on Friday, 16th December 2005, 06:00 pm; Solved by 7000;Difficulty rating: 45%
+Published on Friday, 16th December 2005, 06:00 pm; Solved by 7002;Difficulty rating: 45%
 """
+
+
+def problem_111():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_111())

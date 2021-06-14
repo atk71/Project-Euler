@@ -29,3 +29,12 @@ Find $C(10\,000,20\,000)$ giving your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 17th May 2020, 11:00 am; Solved by 198;Difficulty rating: 45%
 """
+
+
+def problem_716():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_716())

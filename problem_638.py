@@ -12,3 +12,12 @@ You are given that
 
 Published on Sunday, 7th October 2018, 04:00 am; Solved by 333;Difficulty rating: 40%
 """
+
+
+def problem_638():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_638())

@@ -10,3 +10,12 @@ Using network.txt (right click and 'Save Link/Target As...'), a 6K text file con
 
 Published on Friday, 21st October 2005, 06:00 pm; Solved by 10746;Difficulty rating: 35%
 """
+
+
+def problem_107():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_107())

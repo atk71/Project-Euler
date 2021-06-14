@@ -21,3 +21,12 @@ Find S(5 000 000).
 
 Published on Saturday, 30th April 2016, 01:00 pm; Solved by 229;Difficulty rating: 65%
 """
+
+
+def problem_558():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_558())

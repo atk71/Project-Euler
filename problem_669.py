@@ -14,3 +14,12 @@ Find the number of the knight sitting in the $10\,000\,000\,000\,000\,000$th cha
 
 Published on Saturday, 11th May 2019, 10:00 pm; Solved by 282;Difficulty rating: 45%
 """
+
+
+def problem_669():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_669())

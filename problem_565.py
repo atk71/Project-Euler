@@ -23,3 +23,12 @@ Find $S(10^{11} , 2017)$
 
 Published on Sunday, 19th June 2016, 10:00 am; Solved by 563;Difficulty rating: 35%
 """
+
+
+def problem_565():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_565())

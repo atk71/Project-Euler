@@ -12,3 +12,12 @@ Find $G(10^7)$
 
 Published on Saturday, 23rd May 2020, 02:00 pm; Solved by 367;Difficulty rating: 25%
 """
+
+
+def problem_717():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_717())

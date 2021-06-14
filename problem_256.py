@@ -20,5 +20,14 @@ Similarly, we can verify that T(1320) = 5 because there are exactly 5 tatami-fre
 In fact, s = 1320 is the smallest room-size s for which T(s) = 5.
 Find the smallest room-size s for which T(s) = 200.
 
-Published on Saturday, 19th September 2009, 01:00 am; Solved by 692;Difficulty rating: 80%
+Published on Saturday, 19th September 2009, 01:00 am; Solved by 693;Difficulty rating: 80%
 """
+
+
+def problem_256():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_256())

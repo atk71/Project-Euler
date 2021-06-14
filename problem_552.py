@@ -21,3 +21,12 @@ Find S(300000).
 
 Published on Saturday, 19th March 2016, 07:00 pm; Solved by 398;Difficulty rating: 40%
 """
+
+
+def problem_552():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_552())

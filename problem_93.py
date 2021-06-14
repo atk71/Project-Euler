@@ -15,3 +15,12 @@ Find the set of four distinct digits, a < b < c < d, for which the longest set o
 
 Published on Friday, 15th April 2005, 06:00 pm; Solved by 11535;Difficulty rating: 35%
 """
+
+
+def problem_93():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_93())

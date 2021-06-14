@@ -11,3 +11,12 @@ Find the last 9 digits of T(20000).
 
 Published on Saturday, 6th June 2015, 07:00 pm; Solved by 318;Difficulty rating: 50%
 """
+
+
+def problem_519():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_519())

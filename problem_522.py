@@ -15,3 +15,12 @@ Find F(12344321) mod 135707531.
 
 Published on Sunday, 28th June 2015, 04:00 am; Solved by 245;Difficulty rating: 85%
 """
+
+
+def problem_522():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_522())

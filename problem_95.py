@@ -12,3 +12,12 @@ Find the smallest member of the longest amicable chain with no element exceeding
 
 Published on Friday, 13th May 2005, 06:00 pm; Solved by 14013;Difficulty rating: 30%
 """
+
+
+def problem_95():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_95())

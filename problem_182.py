@@ -21,3 +21,12 @@ Find the sum of all values of e, 1<e<φ(1009,3643) and gcd(e,φ)=1, so that the 
 
 Published on Friday, 15th February 2008, 01:00 pm; Solved by 2495;Difficulty rating: 60%
 """
+
+
+def problem_182():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_182())

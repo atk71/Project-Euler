@@ -11,3 +11,12 @@ Find h(1016).
 
 Published on Saturday, 19th September 2015, 01:00 pm; Solved by 280;Difficulty rating: 60%
 """
+
+
+def problem_526():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_526())

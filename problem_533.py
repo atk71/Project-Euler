@@ -11,3 +11,12 @@ Find L(20 000 000). Give the last 9 digits of your answer.
 
 Published on Sunday, 8th November 2015, 10:00 am; Solved by 297;Difficulty rating: 50%
 """
+
+
+def problem_533():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_533())

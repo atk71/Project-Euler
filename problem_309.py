@@ -12,3 +12,12 @@ For integer values x, y, h and 0 < x < y < 1 000 000, how many triplets (x,y,h) 
 
 Published on Saturday, 6th November 2010, 04:00 pm; Solved by 759;Difficulty rating: 50%
 """
+
+
+def problem_309():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_309())

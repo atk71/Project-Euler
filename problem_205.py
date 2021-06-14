@@ -10,3 +10,12 @@ What is the probability that Pyramidal Pete beats Cubic Colin? Give your answer 
 
 Published on Saturday, 6th September 2008, 02:00 pm; Solved by 14590;Difficulty rating: 15%
 """
+
+
+def problem_205():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_205())

@@ -22,3 +22,12 @@ Find $\sum \limits_{n = 1}^{200000} {C(n)}$ .
 
 Published on Saturday, 12th March 2011, 10:00 pm; Solved by 392;Difficulty rating: 95%
 """
+
+
+def problem_328():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_328())

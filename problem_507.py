@@ -27,3 +27,12 @@ Find $\sum_{n=1}^{20000000} S(n)$.
 
 Published on Sunday, 15th March 2015, 07:00 am; Solved by 194;Difficulty rating: 90%
 """
+
+
+def problem_507():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_507())

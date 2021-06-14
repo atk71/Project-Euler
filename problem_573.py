@@ -13,3 +13,12 @@ Find $E_{1000000}$ rounded to 4 digits after the decimal point.
 
 Published on Sunday, 9th October 2016, 07:00 am; Solved by 183;Difficulty rating: 80%
 """
+
+
+def problem_573():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_573())

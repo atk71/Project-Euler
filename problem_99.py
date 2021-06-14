@@ -8,5 +8,14 @@ However, confirming that 632382518061 > 519432525806 would be much more difficul
 Using base_exp.txt (right click and 'Save Link/Target As...'), a 22K text file containing one thousand lines with a base/exponent pair on each line, determine which line number has the greatest numerical value.
 NOTE: The first two lines in the file represent the numbers in the example given above.
 
-Published on Friday, 1st July 2005, 06:00 pm; Solved by 30301;Difficulty rating: 10%
+Published on Friday, 1st July 2005, 06:00 pm; Solved by 30302;Difficulty rating: 10%
 """
+
+
+def problem_99():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_99())

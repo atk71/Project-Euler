@@ -12,3 +12,12 @@ What is the sum of the 10 smallest 12-super-pandigital numbers?
 
 Published on Sunday, 25th September 2016, 01:00 am; Solved by 1001;Difficulty rating: 25%
 """
+
+
+def problem_571():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_571())

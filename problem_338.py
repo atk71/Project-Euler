@@ -17,3 +17,12 @@ Find G(1012). Give your answer modulo 108.
 
 Published on Sunday, 15th May 2011, 01:00 am; Solved by 309;Difficulty rating: 95%
 """
+
+
+def problem_338():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_338())

@@ -12,3 +12,12 @@ Find W(10 000 000) mod 1 000 000 007.
 
 Published on Saturday, 5th January 2013, 04:00 pm; Solved by 428;Difficulty rating: 55%
 """
+
+
+def problem_409():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_409())

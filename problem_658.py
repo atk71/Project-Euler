@@ -18,3 +18,12 @@ Find $S(10^7,10^{12})$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Saturday, 23rd February 2019, 01:00 pm; Solved by 218;Difficulty rating: 55%
 """
+
+
+def problem_658():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_658())

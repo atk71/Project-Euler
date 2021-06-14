@@ -10,3 +10,12 @@ $\begin{array}{ll} x(2)&=3 \\ x(3)&=2 \\ x(4)&=11 \\ y_4(4)&=11 \\ y_4(3)&=2^{60
 
 Published on Sunday, 1st March 2015, 01:00 am; Solved by 192;Difficulty rating: 90%
 """
+
+
+def problem_505():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_505())

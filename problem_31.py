@@ -7,5 +7,14 @@ In the United Kingdom the currency is made up of pound (£) and pence (p). There
 It is possible to make £2 in the following way:
 How many different ways can £2 be made using any number of coins?
 
-Published on Friday, 22nd November 2002, 06:00 pm; Solved by 85499;Difficulty rating: 5%
+Published on Friday, 22nd November 2002, 06:00 pm; Solved by 85502;Difficulty rating: 5%
 """
+
+
+def problem_31():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_31())

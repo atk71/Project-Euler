@@ -13,3 +13,12 @@ The Prime Minister's phone number is 524287. After how many successful calls, no
 
 Published on Saturday, 15th March 2008, 05:00 am; Solved by 2721;Difficulty rating: 60%
 """
+
+
+def problem_186():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_186())

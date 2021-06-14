@@ -26,3 +26,12 @@ Find $F(10^8)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 8th March 2020, 04:00 am; Solved by 357;Difficulty rating: 25%
 """
+
+
+def problem_705():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_705())

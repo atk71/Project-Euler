@@ -15,3 +15,12 @@ Find the millionth number with at least one million prime factors.  Give your an
 
 Published on Sunday, 3rd December 2017, 10:00 am; Solved by 531;Difficulty rating: 35%
 """
+
+
+def problem_615():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_615())

@@ -11,3 +11,12 @@ Find P(120).
 
 Published on Saturday, 15th May 2010, 01:00 am; Solved by 537;Difficulty rating: 65%
 """
+
+
+def problem_292():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_292())

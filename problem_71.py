@@ -11,3 +11,12 @@ By listing the set of reduced proper fractions for d ≤ 1,000,000 in ascending 
 
 Published on Friday, 4th June 2004, 06:00 pm; Solved by 29090;Difficulty rating: 10%
 """
+
+
+def problem_71():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_71())

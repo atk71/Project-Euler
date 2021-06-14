@@ -16,3 +16,12 @@ Find the sum of the numbers n  not exceeding 1016 for which g(n)=n.
 
 Published on Sunday, 21st February 2016, 07:00 am; Solved by 557;Difficulty rating: 35%
 """
+
+
+def problem_548():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_548())

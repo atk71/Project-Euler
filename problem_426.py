@@ -28,3 +28,12 @@ Give as your answer the sum of the squares of the elements of the final state. F
 
 Published on Saturday, 4th May 2013, 07:00 pm; Solved by 237;Difficulty rating: 75%
 """
+
+
+def problem_426():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_426())

@@ -17,3 +17,12 @@ Find $g(5 \times 10^8)$.
 
 Published on Saturday, 18th April 2015, 10:00 pm; Solved by 1398;Difficulty rating: 25%
 """
+
+
+def problem_512():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_512())

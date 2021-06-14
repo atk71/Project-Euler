@@ -21,5 +21,14 @@ $2, 3, \dfrac{8}{3}, \dfrac{11}{4}, \dfrac{19}{7}, \dfrac{87}{32}, \dfrac{106}{3
 The sum of digits in the numerator of the 10th convergent is $1 + 4 + 5 + 7 = 17$.
 Find the sum of digits in the numerator of the 100th convergent of the continued fraction for $e$.
 
-Published on Friday, 12th March 2004, 06:00 pm; Solved by 29680;Difficulty rating: 15%
+Published on Friday, 12th March 2004, 06:00 pm; Solved by 29681;Difficulty rating: 15%
 """
+
+
+def problem_65():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_65())

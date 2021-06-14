@@ -17,3 +17,12 @@ Find R(1212).
 
 Published on Sunday, 6th September 2015, 07:00 am; Solved by 197;Difficulty rating: 75%
 """
+
+
+def problem_524():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_524())

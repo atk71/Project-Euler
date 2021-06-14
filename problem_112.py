@@ -12,3 +12,12 @@ Find the least number for which the proportion of bouncy numbers is exactly 99%.
 
 Published on Friday, 30th December 2005, 06:00 pm; Solved by 24292;Difficulty rating: 15%
 """
+
+
+def problem_112():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_112())

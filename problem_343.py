@@ -25,3 +25,12 @@ Find ∑ f(k3) for 1 ≤ k ≤ 2×106.
 
 Published on Saturday, 18th June 2011, 04:00 pm; Solved by 1332;Difficulty rating: 35%
 """
+
+
+def problem_343():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_343())

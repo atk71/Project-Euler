@@ -18,3 +18,12 @@ Find S(107).
 
 Published on Saturday, 25th February 2012, 04:00 pm; Solved by 315;Difficulty rating: 75%
 """
+
+
+def problem_373():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_373())

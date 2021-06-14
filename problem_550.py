@@ -18,3 +18,12 @@ Find  f(107,1012).Give your answer modulo 987654321.
 
 Published on Saturday, 5th March 2016, 01:00 pm; Solved by 311;Difficulty rating: 55%
 """
+
+
+def problem_550():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_550())

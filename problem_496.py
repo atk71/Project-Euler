@@ -12,3 +12,12 @@ Find F(109).
 
 Published on Sunday, 4th January 2015, 01:00 am; Solved by 281;Difficulty rating: 50%
 """
+
+
+def problem_496():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_496())

@@ -16,3 +16,12 @@ Find p(20 000, 1 000 000) and give your answer rounded to 10 decimal places in t
 
 Published on Sunday, 24th October 2010, 10:00 am; Solved by 1563;Difficulty rating: 40%
 """
+
+
+def problem_307():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_307())

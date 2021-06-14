@@ -26,3 +26,12 @@ E.g. for n = 40 the answer would be 31254,20259,11625
 
 Published on Saturday, 16th March 2013, 10:00 pm; Solved by 451;Difficulty rating: 50%
 """
+
+
+def problem_419():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_419())

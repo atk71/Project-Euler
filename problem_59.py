@@ -11,3 +11,12 @@ Your task has been made easy, as the encryption key consists of three lower case
 
 Published on Friday, 19th December 2003, 06:00 pm; Solved by 41144;Difficulty rating: 5%
 """
+
+
+def problem_59():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_59())

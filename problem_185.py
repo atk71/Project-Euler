@@ -40,3 +40,12 @@ Find the unique 16-digit secret sequence.
 
 Published on Saturday, 8th March 2008, 01:00 am; Solved by 2976;Difficulty rating: 55%
 """
+
+
+def problem_185():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_185())

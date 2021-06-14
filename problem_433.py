@@ -20,3 +20,12 @@ Find S(5·106).
 
 Published on Saturday, 22nd June 2013, 04:00 pm; Solved by 442;Difficulty rating: 65%
 """
+
+
+def problem_433():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_433())

@@ -26,3 +26,12 @@ Find $G(23416728348467685)$.
 
 Published on Saturday, 7th December 2019, 01:00 pm; Solved by 978;Difficulty rating: 10%
 """
+
+
+def problem_692():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_692())

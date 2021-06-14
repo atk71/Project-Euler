@@ -8,3 +8,13 @@ What is the 10 001st prime number?
 
 Published on Friday, 28th December 2001, 06:00 pm; Solved by 424045;Difficulty rating: 5%
 """
+import timeit
+
+
+def problem_7():
+	return None
+
+
+if __name__ == "__main__":
+	problem_7()
+	print(timeit.timeit(stmt=problem_7()))

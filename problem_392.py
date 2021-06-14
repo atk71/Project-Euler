@@ -21,3 +21,12 @@ Give as your answer the area occupied by the red cells rounded to 10 digits behi
 
 Published on Saturday, 1st September 2012, 02:00 pm; Solved by 720;Difficulty rating: 35%
 """
+
+
+def problem_392():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_392())

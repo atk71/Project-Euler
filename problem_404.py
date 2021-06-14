@@ -22,3 +22,12 @@ Find C(1017).
 
 Published on Sunday, 2nd December 2012, 01:00 am; Solved by 301;Difficulty rating: 60%
 """
+
+
+def problem_404():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_404())

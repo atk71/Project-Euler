@@ -12,3 +12,12 @@ Find $\displaystyle \sum_{i=2}^{90} S(f_i)$. Give your answer modulo $1\,000\,00
 
 Published on Saturday, 19th October 2019, 04:00 pm; Solved by 1927;Difficulty rating: 5%
 """
+
+
+def problem_684():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_684())

@@ -10,3 +10,12 @@ Calculate W(32,10).
 
 Published on Friday, 31st October 2008, 01:00 pm; Solved by 3562;Difficulty rating: 50%
 """
+
+
+def problem_215():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_215())

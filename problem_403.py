@@ -20,3 +20,12 @@ Find S(1012). Give your answer mod 108.
 
 Published on Saturday, 24th November 2012, 10:00 pm; Solved by 332;Difficulty rating: 55%
 """
+
+
+def problem_403():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_403())

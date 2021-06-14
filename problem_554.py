@@ -12,3 +12,12 @@ Find $\displaystyle \left( \sum_{i=2}^{90} C(F_i) \right) \text{mod } (10^8+7)$.
 
 Published on Sunday, 3rd April 2016, 01:00 am; Solved by 211;Difficulty rating: 80%
 """
+
+
+def problem_554():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_554())

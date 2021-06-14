@@ -8,3 +8,12 @@ How many squarefree numbers are there below 250?
 
 Published on Saturday, 10th May 2008, 01:00 pm; Solved by 3154;Difficulty rating: 55%
 """
+
+
+def problem_193():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_193())

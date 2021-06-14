@@ -12,3 +12,12 @@ Find $\Psi(10^8)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 14th February 2021, 10:00 am; Solved by 157;Difficulty rating: 60%
 """
+
+
+def problem_747():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_747())

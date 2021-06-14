@@ -12,3 +12,12 @@ Find the sum of the distinct squarefree numbers in the first 51 rows of Pascal's
 
 Published on Saturday, 6th September 2008, 02:00 pm; Solved by 8870;Difficulty rating: 25%
 """
+
+
+def problem_203():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_203())

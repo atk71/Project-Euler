@@ -18,3 +18,12 @@ Find $S(10^{12})$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Saturday, 18th April 2020, 11:00 pm; Solved by 380;Difficulty rating: 25%
 """
+
+
+def problem_712():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_712())

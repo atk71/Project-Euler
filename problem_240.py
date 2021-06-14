@@ -18,3 +18,12 @@ In how many ways can twenty 12-sided dice (sides numbered 1 to 12) be rolled so 
 
 Published on Friday, 10th April 2009, 10:00 pm; Solved by 2088;Difficulty rating: 60%
 """
+
+
+def problem_240():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_240())

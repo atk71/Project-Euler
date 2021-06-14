@@ -9,3 +9,12 @@ Find the sum of all the numbers less than 108 that are both palindromic and can 
 
 Published on Friday, 4th August 2006, 06:00 pm; Solved by 13258;Difficulty rating: 25%
 """
+
+
+def problem_125():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_125())

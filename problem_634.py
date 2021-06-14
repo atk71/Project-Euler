@@ -17,3 +17,12 @@ Find $F(9\times 10^{18})$.
 
 Published on Saturday, 11th August 2018, 04:00 pm; Solved by 534;Difficulty rating: 40%
 """
+
+
+def problem_634():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_634())

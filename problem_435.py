@@ -10,3 +10,12 @@ Let $n = 10^{15}$. Find the sum $\displaystyle{\sum_{x=0}^{100} F_n(x)}$ and giv
 
 Published on Saturday, 7th September 2013, 04:00 pm; Solved by 1017;Difficulty rating: 30%
 """
+
+
+def problem_435():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_435())

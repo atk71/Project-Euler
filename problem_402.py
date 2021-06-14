@@ -24,5 +24,14 @@ Fk = Fk-1 + Fk-2 for k ≥ 2.
 Find the last 9 digits of ∑ S(Fk) for 2 ≤ k ≤ 1234567890123.
 
 
-Published on Saturday, 17th November 2012, 07:00 pm; Solved by 368;Difficulty rating: 55%
+Published on Saturday, 17th November 2012, 07:00 pm; Solved by 369;Difficulty rating: 55%
 """
+
+
+def problem_402():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_402())

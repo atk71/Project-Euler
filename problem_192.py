@@ -10,3 +10,12 @@ Find the sum of all denominators of the best approximations to $\sqrt n$ for the
 
 Published on Saturday, 3rd May 2008, 05:00 am; Solved by 1511;Difficulty rating: 75%
 """
+
+
+def problem_192():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_192())

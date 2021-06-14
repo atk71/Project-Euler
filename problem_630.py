@@ -29,3 +29,12 @@ Find $S(L_{2500})$.
 
 Published on Sunday, 1st July 2018, 07:00 am; Solved by 879;Difficulty rating: 20%
 """
+
+
+def problem_630():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_630())

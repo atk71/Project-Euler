@@ -14,3 +14,12 @@ Find C(1013).
 
 Published on Saturday, 19th November 2016, 10:00 pm; Solved by 207;Difficulty rating: 80%
 """
+
+
+def problem_578():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_578())

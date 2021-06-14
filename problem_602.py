@@ -27,3 +27,12 @@ Find $c(10000000, 4000000) \mod 10^9+7$.
 
 Published on Saturday, 6th May 2017, 10:00 pm; Solved by 449;Difficulty rating: 35%
 """
+
+
+def problem_602():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_602())

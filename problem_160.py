@@ -12,3 +12,12 @@ Find f(1,000,000,000,000)
 
 Published on Friday, 7th September 2007, 02:00 pm; Solved by 3352;Difficulty rating: 60%
 """
+
+
+def problem_160():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_160())

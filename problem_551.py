@@ -10,3 +10,12 @@ Find a1015.
 
 Published on Saturday, 12th March 2016, 04:00 pm; Solved by 433;Difficulty rating: 50%
 """
+
+
+def problem_551():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_551())

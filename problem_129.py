@@ -10,3 +10,12 @@ Find the least value of n for which A(n) first exceeds one-million.
 
 Published on Friday, 27th October 2006, 06:00 pm; Solved by 6070;Difficulty rating: 45%
 """
+
+
+def problem_129():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_129())

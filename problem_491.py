@@ -8,3 +8,12 @@ How many double pandigital numbers are divisible by 11?
 
 Published on Sunday, 30th November 2014, 10:00 am; Solved by 2009;Difficulty rating: 20%
 """
+
+
+def problem_491():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_491())

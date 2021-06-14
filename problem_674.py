@@ -15,3 +15,12 @@ Find the sum of least simultaneous values of all $\mathcal{I}$-expressions pairs
 
 Published on Sunday, 9th June 2019, 10:00 am; Solved by 153;Difficulty rating: 75%
 """
+
+
+def problem_674():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_674())

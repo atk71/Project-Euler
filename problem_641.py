@@ -10,3 +10,12 @@ Find $f(10^{36})$.
 
 Published on Saturday, 3rd November 2018, 01:00 pm; Solved by 408;Difficulty rating: 35%
 """
+
+
+def problem_641():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_641())

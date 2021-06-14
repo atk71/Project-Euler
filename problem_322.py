@@ -13,3 +13,12 @@ Find T(1018, 1012-10).
 
 Published on Sunday, 30th January 2011, 04:00 am; Solved by 432;Difficulty rating: 70%
 """
+
+
+def problem_322():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_322())

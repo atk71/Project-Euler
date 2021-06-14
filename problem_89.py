@@ -18,3 +18,12 @@ Note: You can assume that all the Roman numerals in the file contain no more tha
 
 Published on Friday, 18th February 2005, 06:00 pm; Solved by 20967;Difficulty rating: 20%
 """
+
+
+def problem_89():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_89())

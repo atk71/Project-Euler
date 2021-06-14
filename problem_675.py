@@ -22,3 +22,12 @@ Find $F(10\,000\,000)$. Give your answer modulo  $1\,000\,000\,087$.
 
 Published on Saturday, 15th June 2019, 01:00 pm; Solved by 615;Difficulty rating: 25%
 """
+
+
+def problem_675():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_675())

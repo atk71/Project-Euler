@@ -12,3 +12,12 @@ Find $S(12\,345\,678)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Saturday, 11th April 2020, 08:00 pm; Solved by 277;Difficulty rating: 35%
 """
+
+
+def problem_711():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_711())

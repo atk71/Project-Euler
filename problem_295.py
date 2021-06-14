@@ -26,3 +26,12 @@ Find L(100 000).
 
 Published on Saturday, 5th June 2010, 01:00 pm; Solved by 422;Difficulty rating: 75%
 """
+
+
+def problem_295():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_295())

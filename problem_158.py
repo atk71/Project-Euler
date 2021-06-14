@@ -14,3 +14,12 @@ What is the maximum value of p(n)?
 
 Published on Friday, 15th June 2007, 02:00 pm; Solved by 3470;Difficulty rating: 55%
 """
+
+
+def problem_158():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_158())

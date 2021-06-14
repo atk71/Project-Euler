@@ -10,3 +10,12 @@ Find F(109, 109) mod 1 234 567 891.
 
 Published on Saturday, 28th December 2013, 01:00 pm; Solved by 530;Difficulty rating: 45%
 """
+
+
+def problem_452():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_452())

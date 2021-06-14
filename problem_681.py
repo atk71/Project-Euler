@@ -16,3 +16,12 @@ Find $SP(1\,000\,000)$.
 
 Published on Sunday, 29th September 2019, 07:00 am; Solved by 202;Difficulty rating: 50%
 """
+
+
+def problem_681():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_681())

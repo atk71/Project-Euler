@@ -14,3 +14,12 @@ For 1 ≤ k ≤ 200, find ∑ m(k).
 
 Published on Friday, 2nd June 2006, 06:00 pm; Solved by 7565;Difficulty rating: 40%
 """
+
+
+def problem_122():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_122())

@@ -19,3 +19,12 @@ Find $C(100!)$
 
 Published on Sunday, 9th April 2017, 10:00 am; Solved by 446;Difficulty rating: 40%
 """
+
+
+def problem_598():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_598())

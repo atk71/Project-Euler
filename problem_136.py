@@ -10,3 +10,12 @@ How many values of n less than fifty million have exactly one solution?
 
 Published on Friday, 29th December 2006, 06:00 pm; Solved by 5445;Difficulty rating: 50%
 """
+
+
+def problem_136():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_136())

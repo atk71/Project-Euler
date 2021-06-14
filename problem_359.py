@@ -33,3 +33,12 @@ Find the sum of all P(f, r) for all positive f and r such that f × r = 71328803
 
 Published on Saturday, 19th November 2011, 10:00 pm; Solved by 1450;Difficulty rating: 25%
 """
+
+
+def problem_359():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_359())

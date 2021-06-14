@@ -10,3 +10,12 @@ Find the sum of non-zero $L(k,S_{5000000})$ for $k\ge 1$.
 
 Published on Sunday, 1st December 2019, 10:00 am; Solved by 239;Difficulty rating: 40%
 """
+
+
+def problem_691():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_691())

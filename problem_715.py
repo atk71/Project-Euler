@@ -11,3 +11,12 @@ Find $G(10^{12})\bmod 1\,000\,000\,007$.
 
 Published on Sunday, 10th May 2020, 08:00 am; Solved by 163;Difficulty rating: 60%
 """
+
+
+def problem_715():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_715())

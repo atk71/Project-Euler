@@ -19,3 +19,12 @@ Find D(1010). Give as your answer the first nine digits followed by the last nin
 
 Published on Saturday, 9th June 2012, 02:00 pm; Solved by 530;Difficulty rating: 55%
 """
+
+
+def problem_388():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_388())

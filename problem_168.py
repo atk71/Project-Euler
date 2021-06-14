@@ -10,3 +10,12 @@ Find the last 5 digits of the sum of all integers n, 10 < n < 10100, that have t
 
 Published on Friday, 16th November 2007, 05:00 pm; Solved by 2536;Difficulty rating: 65%
 """
+
+
+def problem_168():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_168())

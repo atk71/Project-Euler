@@ -14,3 +14,12 @@ How many such numbers are there that do not exceed 2×109?
 
 Published on Saturday, 24th January 2009, 09:00 am; Solved by 1402;Difficulty rating: 70%
 """
+
+
+def problem_229():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_229())

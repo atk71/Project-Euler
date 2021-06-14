@@ -13,3 +13,12 @@ Find $G(500)$.
 
 Published on Sunday, 11th February 2018, 01:00 am; Solved by 161;Difficulty rating: 80%
 """
+
+
+def problem_620():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_620())

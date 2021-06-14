@@ -25,3 +25,12 @@ Give your answer rounded to the nearest integer.
 
 Published on Saturday, 14th January 2012, 10:00 pm; Solved by 471;Difficulty rating: 55%
 """
+
+
+def problem_367():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_367())

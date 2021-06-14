@@ -15,3 +15,12 @@ In how many ways can a 9 by 12 grid be tiled in this way by triominoes?
 
 Published on Friday, 21st September 2007, 06:00 pm; Solved by 2003;Difficulty rating: 70%
 """
+
+
+def problem_161():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_161())

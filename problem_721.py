@@ -16,3 +16,12 @@ Find $G(5\,000\,000).$ Give your answer modulo $999\,999\,937$.
 
 Published on Sunday, 21st June 2020, 02:00 am; Solved by 328;Difficulty rating: 30%
 """
+
+
+def problem_721():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_721())

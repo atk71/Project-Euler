@@ -20,3 +20,12 @@ Find S(10000).
 
 Published on Sunday, 24th April 2016, 10:00 am; Solved by 268;Difficulty rating: 55%
 """
+
+
+def problem_557():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_557())

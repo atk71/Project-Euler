@@ -14,3 +14,12 @@ Finally, find the greatest sum of (any number of) adjacent entries in any direct
 
 Published on Friday, 13th April 2007, 10:00 pm; Solved by 4670;Difficulty rating: 50%
 """
+
+
+def problem_149():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_149())

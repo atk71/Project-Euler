@@ -23,3 +23,12 @@ Find f(10000). Give the last 18 digits of your answer.
 
 Published on Saturday, 27th October 2012, 02:00 pm; Solved by 441;Difficulty rating: 55%
 """
+
+
+def problem_400():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_400())

@@ -13,3 +13,12 @@ Calculate F(20), rounded to the nearest integer.
 
 Published on Saturday, 3rd May 2014, 07:00 pm; Solved by 210;Difficulty rating: 65%
 """
+
+
+def problem_470():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_470())

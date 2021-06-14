@@ -12,3 +12,12 @@ Find the least value of n for which C(n) = 1000.
 
 Published on Friday, 18th August 2006, 06:00 pm; Solved by 4541;Difficulty rating: 55%
 """
+
+
+def problem_126():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_126())

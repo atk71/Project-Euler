@@ -13,3 +13,12 @@ Find $f(10^{18}, 40)$ modulo $1\,000\,000\,007$.
 
 Published on Sunday, 15th July 2018, 10:00 am; Solved by 183;Difficulty rating: 65%
 """
+
+
+def problem_631():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_631())

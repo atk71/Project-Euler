@@ -26,3 +26,12 @@ Find f(1014).
 
 Published on Sunday, 17th April 2016, 07:00 am; Solved by 221;Difficulty rating: 85%
 """
+
+
+def problem_556():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_556())

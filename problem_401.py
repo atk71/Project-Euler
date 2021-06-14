@@ -17,3 +17,12 @@ Find SIGMA2(1015) modulo 109.
 
 Published on Saturday, 10th November 2012, 04:00 pm; Solved by 2392;Difficulty rating: 25%
 """
+
+
+def problem_401():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_401())

@@ -17,3 +17,12 @@ Find S(100 000 000,100 000).
 
 Published on Saturday, 18th October 2014, 04:00 pm; Solved by 1064;Difficulty rating: 30%
 """
+
+
+def problem_485():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_485())

@@ -10,3 +10,12 @@ If the product of these four fractions is given in its lowest common terms, find
 
 Published on Friday, 20th December 2002, 06:00 pm; Solved by 71974;Difficulty rating: 5%
 """
+
+
+def problem_33():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_33())

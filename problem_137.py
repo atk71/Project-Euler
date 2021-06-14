@@ -9,5 +9,14 @@ The corresponding values of x for the first five natural numbers are shown below
 We shall call $A_F(x)$ a golden nugget if $x$ is rational, because they become increasingly rarer; for example, the 10th golden nugget is 74049690.
 Find the 15th golden nugget.
 
-Published on Friday, 12th January 2007, 06:00 pm; Solved by 5296;Difficulty rating: 50%
+Published on Friday, 12th January 2007, 06:00 pm; Solved by 5297;Difficulty rating: 50%
 """
+
+
+def problem_137():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_137())

@@ -11,3 +11,12 @@ Find $f(24\,680)$ giving your answer modulo $1\,020\,202\,009$.
 
 Published on Saturday, 4th April 2020, 05:00 pm; Solved by 592;Difficulty rating: 15%
 """
+
+
+def problem_709():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_709())

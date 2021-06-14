@@ -23,3 +23,12 @@ Find ∑ I(n) for 3≤n≤2×107
 
 Published on Sunday, 22nd December 2013, 10:00 am; Solved by 1323;Difficulty rating: 30%
 """
+
+
+def problem_451():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_451())

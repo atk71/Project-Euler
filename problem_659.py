@@ -19,3 +19,12 @@ Find the last 18 digits of $\displaystyle \sum_{k=1}^{10\,000\,000} P(k)$.
 
 Published on Saturday, 2nd March 2019, 04:00 pm; Solved by 771;Difficulty rating: 20%
 """
+
+
+def problem_659():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_659())

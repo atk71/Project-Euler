@@ -15,3 +15,12 @@ Find ∑ D(N) for 5 ≤ N ≤ 10000.
 
 Published on Friday, 22nd February 2008, 05:00 pm; Solved by 4510;Difficulty rating: 45%
 """
+
+
+def problem_183():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_183())

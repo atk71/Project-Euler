@@ -26,3 +26,12 @@ Find g(350) and write the answer in scientific notation rounded to 10 significan
 
 Published on Sunday, 5th October 2014, 10:00 am; Solved by 199;Difficulty rating: 100%
 """
+
+
+def problem_483():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_483())

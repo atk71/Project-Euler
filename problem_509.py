@@ -19,3 +19,12 @@ Find S(123456787654321) modulo 1234567890.
 
 Published on Saturday, 28th March 2015, 01:00 pm; Solved by 519;Difficulty rating: 45%
 """
+
+
+def problem_509():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_509())

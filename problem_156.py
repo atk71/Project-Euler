@@ -23,3 +23,12 @@ Note: if, for some n, f(n,d)=n
 
 Published on Friday, 25th May 2007, 10:00 pm; Solved by 2298;Difficulty rating: 70%
 """
+
+
+def problem_156():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_156())

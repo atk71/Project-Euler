@@ -17,5 +17,14 @@ The concatenation of a sequence of positive integers $a_n$ is a real value denot
 For example, the Fibonacci sequence constructed from $\theta=2.956938891377988...$ yields the concatenation $\tau=2.3581321345589...$ Clearly, $\tau \neq \theta$ for this value of $\theta$.
 Find the only value of $\theta$ for which the generated sequence starts at $a_1=2$ and the concatenation of the generated sequence equals the original value: $\tau = \theta$. Give your answer rounded to 24 places after the decimal point.
 
-Published on Saturday, 13th March 2021, 10:00 pm; Solved by 584
+Published on Saturday, 13th March 2021, 10:00 pm; Solved by 585
 """
+
+
+def problem_751():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_751())

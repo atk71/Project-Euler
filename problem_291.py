@@ -11,3 +11,12 @@ Find how many Panaitopol primes are less than 5×1015.
 
 Published on Friday, 7th May 2010, 09:00 pm; Solved by 1360;Difficulty rating: 45%
 """
+
+
+def problem_291():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_291())

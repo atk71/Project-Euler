@@ -10,3 +10,12 @@ Find the expected value of the number represented by what we have written down w
 
 Published on Saturday, 23rd September 2017, 07:00 pm; Solved by 525;Difficulty rating: 35%
 """
+
+
+def problem_610():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_610())

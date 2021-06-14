@@ -13,3 +13,12 @@ Find $w(10^8, 10^8, 30)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 5th January 2020, 01:00 am; Solved by 134;Difficulty rating: 100%
 """
+
+
+def problem_696():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_696())

@@ -14,3 +14,12 @@ Find T(1017).
 
 Published on Saturday, 9th January 2016, 01:00 pm; Solved by 212;Difficulty rating: 65%
 """
+
+
+def problem_542():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_542())

@@ -9,3 +9,12 @@ Find the sum of the first forty prime factors of R(109).
 
 Published on Friday, 1st December 2006, 06:00 pm; Solved by 6131;Difficulty rating: 45%
 """
+
+
+def problem_132():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_132())

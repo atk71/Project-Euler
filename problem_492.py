@@ -23,3 +23,12 @@ Find B(109, 107, 1015).
 
 Published on Saturday, 6th December 2014, 01:00 pm; Solved by 320;Difficulty rating: 60%
 """
+
+
+def problem_492():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_492())

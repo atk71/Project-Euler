@@ -7,5 +7,14 @@ Consider the consecutive primes p1 = 19 and p2 = 23. It can be verified that 121
 In fact, with the exception of p1 = 3 and p2 = 5, for every pair of consecutive primes, p2 > p1, there exist values of n for which the last digits are formed by p1 and n is divisible by p2. Let S be the smallest of these values of n.
 Find ∑ S for every pair of consecutive primes with 5 ≤ p1 ≤ 1000000.
 
-Published on Friday, 15th December 2006, 06:00 pm; Solved by 6757;Difficulty rating: 45%
+Published on Friday, 15th December 2006, 06:00 pm; Solved by 6758;Difficulty rating: 45%
 """
+
+
+def problem_134():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_134())

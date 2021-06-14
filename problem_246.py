@@ -18,5 +18,14 @@ Let the points where t1 and t2 touch the ellipse be R and S.
 For how many lattice points P is angle RPS greater than 45 degrees?
 
 
-Published on Friday, 22nd May 2009, 05:00 pm; Solved by 749;Difficulty rating: 80%
+Published on Friday, 22nd May 2009, 05:00 pm; Solved by 750;Difficulty rating: 80%
 """
+
+
+def problem_246():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_246())

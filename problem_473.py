@@ -25,3 +25,12 @@ Find the sum of the positive integers not exceeding $10^{10}$ whose phigital rep
 
 Published on Sunday, 25th May 2014, 04:00 am; Solved by 677;Difficulty rating: 35%
 """
+
+
+def problem_473():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_473())

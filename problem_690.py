@@ -33,3 +33,12 @@ Find $T(2019)$ giving your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 24th November 2019, 07:00 am; Solved by 165;Difficulty rating: 60%
 """
+
+
+def problem_690():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_690())

@@ -9,3 +9,12 @@ NOTE: Although the example above does not lend itself to the possibility, in gen
 
 Published on Friday, 17th February 2006, 06:00 pm; Solved by 10577;Difficulty rating: 35%
 """
+
+
+def problem_114():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_114())

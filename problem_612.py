@@ -16,3 +16,12 @@ Find $f(10^{18})$ mod $1000267129$.
 
 Published on Sunday, 22nd October 2017, 01:00 am; Solved by 593;Difficulty rating: 30%
 """
+
+
+def problem_612():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_612())

@@ -10,3 +10,12 @@ How many primitive integer sided triangles exist with a perimeter not exceeding 
 
 Published on Friday, 29th January 2010, 09:00 pm; Solved by 1022;Difficulty rating: 75%
 """
+
+
+def problem_276():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_276())

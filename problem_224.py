@@ -8,3 +8,12 @@ How many barely obtuse triangles are there with perimeter ≤ 75,000,000?
 
 Published on Friday, 26th December 2008, 05:00 pm; Solved by 1163;Difficulty rating: 75%
 """
+
+
+def problem_224():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_224())

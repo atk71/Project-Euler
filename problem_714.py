@@ -13,3 +13,12 @@ Find $D(50\,000)$. Give your answer in scientific notation rounded to 13 signifi
 
 Published on Sunday, 3rd May 2020, 05:00 am; Solved by 560;Difficulty rating: 25%
 """
+
+
+def problem_714():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_714())

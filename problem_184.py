@@ -11,3 +11,12 @@ How many triangles are there containing the origin in the interior and having al
 
 Published on Friday, 29th February 2008, 09:00 pm; Solved by 1547;Difficulty rating: 75%
 """
+
+
+def problem_184():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_184())

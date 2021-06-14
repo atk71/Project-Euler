@@ -14,3 +14,12 @@ Find the sum of the five smallest such palindromic numbers.
 
 Published on Saturday, 3rd September 2011, 04:00 pm; Solved by 2876;Difficulty rating: 25%
 """
+
+
+def problem_348():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_348())

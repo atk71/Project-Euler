@@ -14,3 +14,12 @@ for every divisor d of n, d+n/d is prime.
 
 Published on Saturday, 5th November 2011, 04:00 pm; Solved by 7796;Difficulty rating: 10%
 """
+
+
+def problem_357():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_357())

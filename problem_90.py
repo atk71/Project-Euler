@@ -16,3 +16,12 @@ How many distinct arrangements of the two cubes allow for all of the square numb
 
 Published on Friday, 4th March 2005, 06:00 pm; Solved by 11021;Difficulty rating: 40%
 """
+
+
+def problem_90():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_90())

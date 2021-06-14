@@ -13,3 +13,12 @@ Find T(1012). Give the last 9 digits of your answer.
 
 Published on Sunday, 9th February 2014, 07:00 am; Solved by 864;Difficulty rating: 30%
 """
+
+
+def problem_458():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_458())

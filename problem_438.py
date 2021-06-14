@@ -20,3 +20,12 @@ Find ∑ S(t) for n = 7.
 
 Published on Sunday, 29th September 2013, 01:00 am; Solved by 253;Difficulty rating: 95%
 """
+
+
+def problem_438():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_438())

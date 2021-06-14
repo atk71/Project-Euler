@@ -13,3 +13,12 @@ Find S(123456789), rounded to 8 decimal places.
 
 Published on Saturday, 3rd September 2016, 04:00 pm; Solved by 257;Difficulty rating: 55%
 """
+
+
+def problem_567():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_567())

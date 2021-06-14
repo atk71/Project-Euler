@@ -21,3 +21,12 @@ Find the sum of all distinct pseudo-Fortunate numbers for admissible numbers N l
 
 Published on Saturday, 22nd May 2010, 05:00 am; Solved by 2810;Difficulty rating: 30%
 """
+
+
+def problem_293():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_293())

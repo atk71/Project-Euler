@@ -22,3 +22,12 @@ Find $L(10^7)$.
 
 Published on Sunday, 26th April 2020, 02:00 am; Solved by 524;Difficulty rating: 20%
 """
+
+
+def problem_713():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_713())

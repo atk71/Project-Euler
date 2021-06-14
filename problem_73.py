@@ -9,5 +9,14 @@ If we list the set of reduced proper fractions for d ≤ 8 in ascending order of
 It can be seen that there are 3 fractions between 1/3 and 1/2.
 How many fractions lie between 1/3 and 1/2 in the sorted set of reduced proper fractions for d ≤ 12,000?
 
-Published on Friday, 2nd July 2004, 06:00 pm; Solved by 24836;Difficulty rating: 15%
+Published on Friday, 2nd July 2004, 06:00 pm; Solved by 24837;Difficulty rating: 15%
 """
+
+
+def problem_73():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_73())

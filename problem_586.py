@@ -22,3 +22,12 @@ Find $f(10^{15}, 40)$.
 
 Published on Saturday, 14th January 2017, 10:00 pm; Solved by 200;Difficulty rating: 75%
 """
+
+
+def problem_586():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_586())

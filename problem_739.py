@@ -38,3 +38,12 @@ Find $f(10^8)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 20th December 2020, 10:00 am; Solved by 338;Difficulty rating: 25%
 """
+
+
+def problem_739():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_739())

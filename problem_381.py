@@ -20,3 +20,12 @@ Find ∑ S(p) for 5 ≤ p < 108.
 
 Published on Saturday, 21st April 2012, 05:00 pm; Solved by 4019;Difficulty rating: 15%
 """
+
+
+def problem_381():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_381())

@@ -11,5 +11,14 @@ It can be verified that triangle ABC contains the origin, whereas triangle XYZ d
 Using triangles.txt (right click and 'Save Link/Target As...'), a 27K text file containing the co-ordinates of one thousand "random" triangles, find the number of triangles for which the interior contains the origin.
 NOTE: The first two examples in the file represent the triangles in the example given above.
 
-Published on Friday, 12th August 2005, 06:00 pm; Solved by 21648;Difficulty rating: 15%
+Published on Friday, 12th August 2005, 06:00 pm; Solved by 21649;Difficulty rating: 15%
 """
+
+
+def problem_102():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_102())

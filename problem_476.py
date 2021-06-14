@@ -10,3 +10,12 @@ Find S(1803) rounded to 5 decimal places behind the decimal point.
 
 Published on Saturday, 14th June 2014, 01:00 pm; Solved by 393;Difficulty rating: 45%
 """
+
+
+def problem_476():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_476())

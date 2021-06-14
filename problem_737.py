@@ -27,3 +27,12 @@ Calculate the number of coins needed to loop $2020$ times around the line.
 
 Published on Sunday, 6th December 2020, 04:00 am; Solved by 269;Difficulty rating: 30%
 """
+
+
+def problem_737():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_737())

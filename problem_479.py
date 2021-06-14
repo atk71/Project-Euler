@@ -12,3 +12,12 @@ Find $S(10^6)$ modulo $1\,000\,000\,007$.
 
 Published on Saturday, 6th September 2014, 10:00 pm; Solved by 1198;Difficulty rating: 25%
 """
+
+
+def problem_479():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_479())

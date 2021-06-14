@@ -12,3 +12,12 @@ Find T(1053779).
 
 Published on Friday, 23rd May 2008, 02:00 pm; Solved by 1309;Difficulty rating: 75%
 """
+
+
+def problem_195():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_195())

@@ -11,3 +11,12 @@ Find $c(20)$, and give your answer modulo $1\,001\,001\,011$.
 
 Published on Saturday, 5th May 2018, 07:00 pm; Solved by 204;Difficulty rating: 70%
 """
+
+
+def problem_626():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_626())

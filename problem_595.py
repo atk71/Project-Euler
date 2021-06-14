@@ -18,3 +18,12 @@ Find S(52), and give your answer rounded to 8 decimal places.
 
 Published on Sunday, 19th March 2017, 01:00 am; Solved by 568;Difficulty rating: 35%
 """
+
+
+def problem_595():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_595())

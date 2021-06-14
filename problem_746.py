@@ -12,3 +12,12 @@ Find $S(2021)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 7th February 2021, 07:00 am; Solved by 208;Difficulty rating: 35%
 """
+
+
+def problem_746():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_746())

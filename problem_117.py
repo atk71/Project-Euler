@@ -9,3 +9,12 @@ NOTE: This is related to Problem 116.
 
 Published on Friday, 10th March 2006, 06:00 pm; Solved by 10859;Difficulty rating: 35%
 """
+
+
+def problem_117():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_117())

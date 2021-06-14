@@ -22,3 +22,12 @@ Find t(1010) and give your answer modulo 109.
 
 Published on Saturday, 8th January 2011, 07:00 pm; Solved by 375;Difficulty rating: 90%
 """
+
+
+def problem_319():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_319())

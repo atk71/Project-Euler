@@ -14,5 +14,14 @@ so the most likely value of M is 3 and the average value is 385643⁄113400 = 3.
 The most likely value of M for a forty-piece caterpillar is 11; but what is the average value of M?
 Give your answer rounded to six decimal places.
 
-Published on Friday, 28th August 2009, 01:00 pm; Solved by 965;Difficulty rating: 75%
+Published on Friday, 28th August 2009, 01:00 pm; Solved by 966;Difficulty rating: 75%
 """
+
+
+def problem_253():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_253())

@@ -18,5 +18,14 @@ In fact, $23$ is the largest impossible value of $b$ for $a_1=5$ and $a_2=7$. We
 Find $\displaystyle \sum f( p\, q,p \, r, q \, r)$, where $p$, $q$ and $r$ are prime numbers and $p < q < r < 5000$.
 
 
-Published on Saturday, 13th February 2010, 05:00 am; Solved by 986;Difficulty rating: 50%
+Published on Saturday, 13th February 2010, 05:00 am; Solved by 987;Difficulty rating: 50%
 """
+
+
+def problem_278():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_278())

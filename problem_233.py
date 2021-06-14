@@ -9,3 +9,12 @@ What is the sum of all positive integers N ≤ 1011 such that f(N) = 420
 
 Published on Friday, 20th February 2009, 09:00 pm; Solved by 2186;Difficulty rating: 70%
 """
+
+
+def problem_233():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_233())

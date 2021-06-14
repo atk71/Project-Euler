@@ -15,3 +15,12 @@ Find S(1012). Give your answer modulo 232.
 
 Published on Sunday, 17th May 2015, 10:00 am; Solved by 1452;Difficulty rating: 20%
 """
+
+
+def problem_516():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_516())

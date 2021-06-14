@@ -9,5 +9,14 @@ If t represents the number of tiles used, we shall say that t = 8 is type L(1) a
 Let N(n) be the number of t ≤ 1000000 such that t is type L(n); for example, N(15) = 832.
 What is ∑ N(n) for 1 ≤ n ≤ 10?
 
-Published on Saturday, 22nd December 2007, 01:00 pm; Solved by 5647;Difficulty rating: 40%
+Published on Saturday, 22nd December 2007, 01:00 pm; Solved by 5649;Difficulty rating: 40%
 """
+
+
+def problem_174():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_174())

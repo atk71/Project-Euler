@@ -9,3 +9,12 @@ Find T(108) mod 1000000007.
 
 Published on Sunday, 26th March 2017, 04:00 am; Solved by 329;Difficulty rating: 50%
 """
+
+
+def problem_596():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_596())

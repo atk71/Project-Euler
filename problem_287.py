@@ -15,3 +15,12 @@ What is the length of the minimal sequence describing D24 ?
 
 Published on Saturday, 10th April 2010, 09:00 am; Solved by 1361;Difficulty rating: 40%
 """
+
+
+def problem_287():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_287())

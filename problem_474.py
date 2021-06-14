@@ -16,3 +16,12 @@ Find F(106!, 65432) modulo (1016 + 61).
 
 Published on Sunday, 1st June 2014, 07:00 am; Solved by 379;Difficulty rating: 50%
 """
+
+
+def problem_474():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_474())

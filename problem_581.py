@@ -11,3 +11,12 @@ Find the sum of all indices n such that T(n) is 47-smooth.
 
 Published on Sunday, 11th December 2016, 07:00 am; Solved by 772;Difficulty rating: 30%
 """
+
+
+def problem_581():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_581())

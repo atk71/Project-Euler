@@ -15,3 +15,12 @@ Find  f(10).
 
 Published on Saturday, 8th September 2012, 05:00 pm; Solved by 717;Difficulty rating: 50%
 """
+
+
+def problem_393():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_393())

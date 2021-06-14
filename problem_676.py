@@ -18,3 +18,12 @@ Find $\displaystyle \sum_{k=3}^6 \sum_{l=1}^{k-2}M(10^{16},2^k,2^l)$, giving the
 
 Published on Saturday, 22nd June 2019, 04:00 pm; Solved by 212;Difficulty rating: 50%
 """
+
+
+def problem_676():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_676())

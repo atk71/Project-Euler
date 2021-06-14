@@ -14,3 +14,12 @@ Give your answer in the form x,y with no spaces.
 
 Published on Saturday, 6th December 2008, 09:00 am; Solved by 2117;Difficulty rating: 55%
 """
+
+
+def problem_220():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_220())

@@ -22,3 +22,12 @@ Find $S(20\,000)$ mod $1\,000\,000\,007$.
 
 Published on Saturday, 5th January 2019, 04:00 pm; Solved by 1382;Difficulty rating: 10%
 """
+
+
+def problem_650():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_650())

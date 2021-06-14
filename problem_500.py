@@ -13,3 +13,12 @@ Give your answer modulo 500500507.
 
 Published on Saturday, 31st January 2015, 01:00 pm; Solved by 3748;Difficulty rating: 15%
 """
+
+
+def problem_500():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_500())

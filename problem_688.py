@@ -18,3 +18,12 @@ Find $S(10^{16})$ giving your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 10th November 2019, 01:00 am; Solved by 612;Difficulty rating: 20%
 """
+
+
+def problem_688():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_688())

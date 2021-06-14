@@ -15,3 +15,12 @@ Find $F(1\,000\,000!) \bmod 1\,000\,000\,007$.
 
 Published on Saturday, 8th September 2018, 10:00 pm; Solved by 159;Difficulty rating: 90%
 """
+
+
+def problem_636():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_636())

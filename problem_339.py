@@ -18,3 +18,12 @@ Find E(10 000) and give your answer rounded to 6 places behind the decimal point
 
 Published on Sunday, 22nd May 2011, 04:00 am; Solved by 518;Difficulty rating: 70%
 """
+
+
+def problem_339():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_339())

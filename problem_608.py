@@ -9,3 +9,12 @@ Find $D(200!,10^{12}) \text{ mod } (10^9 + 7)$.
 
 Published on Saturday, 17th June 2017, 04:00 pm; Solved by 275;Difficulty rating: 80%
 """
+
+
+def problem_608():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_608())

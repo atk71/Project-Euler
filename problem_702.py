@@ -13,3 +13,12 @@ Find $S(123456789)$.
 
 Published on Saturday, 15th February 2020, 07:00 pm; Solved by 130;Difficulty rating: 95%
 """
+
+
+def problem_702():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_702())

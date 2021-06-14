@@ -10,5 +10,14 @@ So $p(12, 1) = 7$ and $p(12, 2) = 80$.
 You are also given that $p(123, 45) = 12710$.
 Find $p(123, 678910)$.
 
-Published on Saturday, 26th October 2019, 07:00 pm; Solved by 2430;Difficulty rating: 5%
+Published on Saturday, 26th October 2019, 07:00 pm; Solved by 2432;Difficulty rating: 5%
 """
+
+
+def problem_686():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_686())

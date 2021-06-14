@@ -26,3 +26,12 @@ Find f(90).
 
 Published on Saturday, 20th December 2014, 07:00 pm; Solved by 194;Difficulty rating: 100%
 """
+
+
+def problem_494():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_494())

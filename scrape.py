@@ -35,9 +35,17 @@ def clean_body(dirty_body):
     return cleaned_body
 
 
+def boilerplate_code(number):
+    two_lines = '\n\n'
+    line_w_tab = '\n\t'
+    code = f'{two_lines}def problem_{number}():{line_w_tab}answer = None{line_w_tab}return answer\n' + two_lines
+    main = f'if __name__ == "__main__":{line_w_tab}print(problem_{number}())'
+    return code + main
+
+
 def write_to_py_file(number, title, content, timestamp):
     file_name = f'problem_{number}.py'
-    if not os.path.isfile(file_name):
+    if os.path.isfile(file_name):
         file = io.open(file_name, 'w', encoding='utf-8')
         triple_quotes = '"""\n'
         file.write(triple_quotes)
@@ -46,6 +54,7 @@ def write_to_py_file(number, title, content, timestamp):
             file.write(result)
         file.write(timestamp)
         file.write(triple_quotes)
+        file.write(boilerplate_code(number))
 
 
 def update_directory(start, end):
@@ -59,7 +68,23 @@ def update_directory(start, end):
     print("update complete!")
 
 
-if __name__ == "__main__":
+def ask_user_for_input():
     s = int(input("Enter the number for the first problem:\n"))
     e = int(input("Enter the number for the last problem:\n"))
     update_directory(s, e)
+
+
+def prepend_link(start, end):
+    for question_number in range(start, (end + 1)):
+        file_name = f'problem_{question_number}.py'
+        if os.path.isfile(file_name):
+            file = io.open(file_name, 'r')
+            save = file.read()
+            file = io.open(file_name, 'w', encoding='utf-8')
+            file.write(f'# https://projecteuler.net/problem={question_number}')
+            file = io.open(file_name, 'a', encoding='utf=8')
+            file.write(save)
+
+
+if __name__ == "__main__":
+    prepend_link(1, 759)

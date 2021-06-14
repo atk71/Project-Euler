@@ -17,3 +17,12 @@ Give your answer using as many decimal places as necessary for an exact result.
 
 Published on Saturday, 4th September 2010, 01:00 pm; Solved by 1038;Difficulty rating: 50%
 """
+
+
+def problem_300():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_300())

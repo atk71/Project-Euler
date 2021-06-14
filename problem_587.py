@@ -28,3 +28,12 @@ What is the least value of n for which the concave triangle occupies less than 0
 
 Published on Sunday, 22nd January 2017, 01:00 am; Solved by 2852;Difficulty rating: 20%
 """
+
+
+def problem_587():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_587())

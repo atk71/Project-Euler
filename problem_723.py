@@ -17,3 +17,12 @@ Find $S(1411033124176203125)=S(5^6 \cdot 13^3 \cdot 17^2 \cdot 29 \cdot 37 \cdot
 
 Published on Sunday, 5th July 2020, 08:00 am; Solved by 164;Difficulty rating: 65%
 """
+
+
+def problem_723():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_723())

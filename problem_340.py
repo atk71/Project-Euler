@@ -19,3 +19,12 @@ Find the last 9 digits of S(217, 721, 127).
 
 Published on Sunday, 29th May 2011, 07:00 am; Solved by 1045;Difficulty rating: 30%
 """
+
+
+def problem_340():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_340())

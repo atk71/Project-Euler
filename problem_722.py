@@ -19,3 +19,12 @@ Give the answer in scientific notation rounded to twelve digits after the decima
 
 Published on Sunday, 28th June 2020, 05:00 am; Solved by 378;Difficulty rating: 25%
 """
+
+
+def problem_722():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_722())

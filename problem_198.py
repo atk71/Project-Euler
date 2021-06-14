@@ -10,3 +10,12 @@ How many ambiguous numbers $x=\frac p q, 0 < x < \frac 1 {100}$, are there whose
 
 Published on Saturday, 14th June 2008, 02:00 am; Solved by 1050;Difficulty rating: 80%
 """
+
+
+def problem_198():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_198())

@@ -13,3 +13,12 @@ Find F(1015).
 
 Published on Sunday, 18th October 2015, 01:00 am; Solved by 412;Difficulty rating: 60%
 """
+
+
+def problem_530():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_530())

@@ -13,5 +13,14 @@ $1 + \frac 1 {2 + \frac 1 {2+\frac 1 {2+\frac 1 2}}} = \frac {41}{29} = 1.41379 
 The next three expansions are $\frac {99}{70}$, $\frac {239}{169}$, and $\frac {577}{408}$, but the eighth expansion, $\frac {1393}{985}$, is the first example where the number of digits in the numerator exceeds the number of digits in the denominator.
 In the first one-thousand expansions, how many fractions contain a numerator with more digits than the denominator?
 
-Published on Friday, 21st November 2003, 06:00 pm; Solved by 41526;Difficulty rating: 5%
+Published on Friday, 21st November 2003, 06:00 pm; Solved by 41528;Difficulty rating: 5%
 """
+
+
+def problem_57():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_57())

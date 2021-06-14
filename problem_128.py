@@ -14,3 +14,12 @@ Find the 2000th tile in this sequence.
 
 Published on Friday, 29th September 2006, 06:00 pm; Solved by 4822;Difficulty rating: 55%
 """
+
+
+def problem_128():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_128())

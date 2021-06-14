@@ -14,3 +14,12 @@ If, instead of using two 6-sided dice, two 4-sided dice are used, find the six-d
 
 Published on Friday, 3rd December 2004, 06:00 pm; Solved by 12383;Difficulty rating: 35%
 """
+
+
+def problem_84():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_84())

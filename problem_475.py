@@ -12,3 +12,12 @@ Find f(600) mod 1 000 000 007.
 
 Published on Sunday, 8th June 2014, 10:00 am; Solved by 412;Difficulty rating: 50%
 """
+
+
+def problem_475():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_475())

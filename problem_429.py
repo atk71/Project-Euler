@@ -17,3 +17,12 @@ Find S(100 000 000!) modulo 1 000 000 009.
 
 Published on Sunday, 26th May 2013, 04:00 am; Solved by 2387;Difficulty rating: 20%
 """
+
+
+def problem_429():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_429())

@@ -12,5 +12,14 @@ The game ends when one player has both dice after they have been rolled and pass
 In a game with 100 players, what is the expected number of turns the game lasts?
 Give your answer rounded to ten significant digits.
 
-Published on Saturday, 10th January 2009, 01:00 am; Solved by 2007;Difficulty rating: 65%
+Published on Saturday, 10th January 2009, 01:00 am; Solved by 2008;Difficulty rating: 65%
 """
+
+
+def problem_227():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_227())

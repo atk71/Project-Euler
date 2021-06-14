@@ -16,3 +16,12 @@ What is the sum of all checksums for the paths having the minimal length?
 
 Published on Saturday, 9th May 2009, 02:00 pm; Solved by 1254;Difficulty rating: 70%
 """
+
+
+def problem_244():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_244())

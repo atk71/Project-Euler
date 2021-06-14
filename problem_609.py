@@ -26,3 +26,12 @@ Find $P(10^8)$. Give your answer modulo 1000000007.
 
 Published on Saturday, 9th September 2017, 04:00 pm; Solved by 848;Difficulty rating: 20%
 """
+
+
+def problem_609():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_609())

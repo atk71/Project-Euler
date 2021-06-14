@@ -12,3 +12,12 @@ Find Q(50000) mod 1000000123.
 
 Published on Saturday, 7th May 2016, 04:00 pm; Solved by 172;Difficulty rating: 100%
 """
+
+
+def problem_559():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_559())

@@ -11,3 +11,12 @@ Find the sum of the first thirty golden nuggets.
 
 Published on Saturday, 3rd February 2007, 07:00 am; Solved by 4167;Difficulty rating: 55%
 """
+
+
+def problem_140():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_140())

@@ -13,3 +13,12 @@ How many squarefree Hilbert numbers are there below $10^{16}$?
 
 Published on Sunday, 4th December 2016, 04:00 am; Solved by 219;Difficulty rating: 70%
 """
+
+
+def problem_580():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_580())

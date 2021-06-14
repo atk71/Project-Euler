@@ -10,3 +10,12 @@ If rad(n) is sorted for 1 ≤ n ≤ 100000, find E(10000).
 
 Published on Friday, 14th July 2006, 06:00 pm; Solved by 13433;Difficulty rating: 25%
 """
+
+
+def problem_124():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_124())

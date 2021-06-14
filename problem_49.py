@@ -7,5 +7,14 @@ The arithmetic sequence, 1487, 4817, 8147, in which each of the terms increases 
 There are no arithmetic sequences made up of three 1-, 2-, or 3-digit primes, exhibiting this property, but there is one other 4-digit increasing sequence.
 What 12-digit number do you form by concatenating the three terms in this sequence?
 
-Published on Friday, 1st August 2003, 06:00 pm; Solved by 58013;Difficulty rating: 5%
+Published on Friday, 1st August 2003, 06:00 pm; Solved by 58014;Difficulty rating: 5%
 """
+
+
+def problem_49():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_49())

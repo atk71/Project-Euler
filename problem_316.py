@@ -16,3 +16,12 @@ Given that $\sum \limits_{n = 2}^{999} {g \left ( \left \lfloor \dfrac{10^6}{n} 
 
 Published on Saturday, 25th December 2010, 01:00 pm; Solved by 617;Difficulty rating: 55%
 """
+
+
+def problem_316():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_316())

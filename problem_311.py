@@ -17,3 +17,12 @@ Find B(10 000 000 000).
 
 Published on Saturday, 20th November 2010, 10:00 pm; Solved by 405;Difficulty rating: 70%
 """
+
+
+def problem_311():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_311())

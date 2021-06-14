@@ -11,3 +11,12 @@ How many numbers below a googol (10100) are not bouncy?
 
 Published on Friday, 10th February 2006, 06:00 pm; Solved by 10829;Difficulty rating: 30%
 """
+
+
+def problem_113():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_113())

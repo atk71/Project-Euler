@@ -13,3 +13,12 @@ Note: $\lfloor a \rfloor$ represents the floor function.
 
 Published on Saturday, 29th October 2011, 01:00 pm; Solved by 552;Difficulty rating: 60%
 """
+
+
+def problem_356():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_356())

@@ -12,3 +12,12 @@ Find the sum of all S(F(k)) over 3 ≤ k ≤ 44
 
 Published on Saturday, 16th January 2016, 04:00 pm; Solved by 633;Difficulty rating: 30%
 """
+
+
+def problem_543():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_543())

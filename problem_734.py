@@ -25,3 +25,12 @@ Find $T(10^6,999983)$. Give your answer modulo $1\,000\,000\,007$
 
 Published on Saturday, 14th November 2020, 07:00 pm; Solved by 240;Difficulty rating: 35%
 """
+
+
+def problem_734():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_734())

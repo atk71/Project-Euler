@@ -8,3 +8,12 @@ In how many ways can sixty black objects B and forty white objects W be  thus gr
 
 Published on Saturday, 9th February 2008, 01:00 pm; Solved by 1878;Difficulty rating: 70%
 """
+
+
+def problem_181():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_181())

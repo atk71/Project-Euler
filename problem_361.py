@@ -24,3 +24,12 @@ Find the last 9 digits of $\sum \limits_{k = 1}^{18} {A_{10^k}}$.
 
 Published on Sunday, 4th December 2011, 04:00 am; Solved by 279;Difficulty rating: 90%
 """
+
+
+def problem_361():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_361())

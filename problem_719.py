@@ -21,3 +21,12 @@ Find $T(10^{12})$
 
 Published on Saturday, 6th June 2020, 08:00 pm; Solved by 1771;Difficulty rating: 5%
 """
+
+
+def problem_719():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_719())

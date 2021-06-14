@@ -11,3 +11,12 @@ Find $G(10^8)$. Give your answer modulo $1\,000\,000\,007$.
 
 Published on Sunday, 4th April 2021, 08:00 am; Solved by 349
 """
+
+
+def problem_754():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_754())

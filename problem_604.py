@@ -16,3 +16,12 @@ Find $F(10^{18})$.
 
 Published on Sunday, 21st May 2017, 04:00 am; Solved by 461;Difficulty rating: 40%
 """
+
+
+def problem_604():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_604())

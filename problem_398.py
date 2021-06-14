@@ -18,3 +18,12 @@ Give your answer rounded to 5 decimal places behind the decimal point.
 
 Published on Sunday, 14th October 2012, 08:00 am; Solved by 352;Difficulty rating: 55%
 """
+
+
+def problem_398():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_398())

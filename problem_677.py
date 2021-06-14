@@ -10,3 +10,12 @@ Find $g(10\,000) \bmod 1\,000\,000\,007$.
 
 Published on Saturday, 29th June 2019, 07:00 pm; Solved by 154;Difficulty rating: 90%
 """
+
+
+def problem_677():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_677())

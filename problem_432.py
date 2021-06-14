@@ -14,3 +14,12 @@ Give the last 9 digits of your answer.
 
 Published on Saturday, 15th June 2013, 01:00 pm; Solved by 445;Difficulty rating: 70%
 """
+
+
+def problem_432():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_432())

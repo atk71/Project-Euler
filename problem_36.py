@@ -9,3 +9,12 @@ Find the sum of all numbers, less than one million, which are palindromic in bas
 
 Published on Friday, 31st January 2003, 06:00 pm; Solved by 89207;Difficulty rating: 5%
 """
+
+
+def problem_36():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_36())

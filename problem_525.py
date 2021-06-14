@@ -13,3 +13,12 @@ Find C(1, 4) + C(3, 4). Give your answer rounded to 8 digits behind the decimal 
 
 Published on Sunday, 13th September 2015, 10:00 am; Solved by 455;Difficulty rating: 45%
 """
+
+
+def problem_525():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_525())

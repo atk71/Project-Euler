@@ -10,5 +10,14 @@ It can be seen that eventually there will be an index N such that xi = 232 -1 (a
 Find the expected value of N. 
 Give your answer rounded to 10 digits after the decimal point.
 
-Published on Sunday, 6th February 2011, 07:00 am; Solved by 3693;Difficulty rating: 20%
+Published on Sunday, 6th February 2011, 07:00 am; Solved by 3694;Difficulty rating: 20%
 """
+
+
+def problem_323():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_323())

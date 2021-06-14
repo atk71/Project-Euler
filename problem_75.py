@@ -11,3 +11,12 @@ Given that L is the length of the wire, for how many values of L ≤ 1,500,000 c
 
 Published on Friday, 30th July 2004, 06:00 pm; Solved by 17772;Difficulty rating: 25%
 """
+
+
+def problem_75():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_75())

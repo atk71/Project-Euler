@@ -13,3 +13,12 @@ Give your answer rounded to eight decimal places in the form $0.abcdefgh$.
 
 Published on Friday, 13th February 2009, 05:00 pm; Solved by 1683;Difficulty rating: 65%
 """
+
+
+def problem_232():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_232())

@@ -17,3 +17,12 @@ Find $d(1\,000\,000\,000, 1\,000\,001, 500\,001)$.
 
 Published on Sunday, 27th January 2019, 01:00 am; Solved by 277;Difficulty rating: 45%
 """
+
+
+def problem_653():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_653())

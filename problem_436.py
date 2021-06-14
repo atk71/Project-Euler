@@ -19,3 +19,12 @@ Give your answer rounded to 10 places behind the decimal point in the form 0.abc
 
 Published on Saturday, 14th September 2013, 07:00 pm; Solved by 421;Difficulty rating: 55%
 """
+
+
+def problem_436():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_436())

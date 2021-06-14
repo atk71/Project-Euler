@@ -41,3 +41,12 @@ What is $\sum \limits_{n = 1}^{10^8} {s(n)}$?
 
 Published on Saturday, 5th May 2007, 10:00 am; Solved by 2499;Difficulty rating: 65%
 """
+
+
+def problem_153():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_153())

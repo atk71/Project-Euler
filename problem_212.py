@@ -14,3 +14,12 @@ What is the combined volume of all 50000 cuboids, C1,...,C50000 ?
 
 Published on Saturday, 11th October 2008, 06:00 am; Solved by 1297;Difficulty rating: 70%
 """
+
+
+def problem_212():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_212())

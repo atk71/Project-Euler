@@ -19,3 +19,12 @@ Find S(50 000 000) mod 1 000 000 007.
 
 Published on Sunday, 14th April 2013, 10:00 am; Solved by 451;Difficulty rating: 45%
 """
+
+
+def problem_423():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_423())

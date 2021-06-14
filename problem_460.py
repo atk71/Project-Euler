@@ -28,3 +28,12 @@ Find F(10000). Give your answer rounded to nine decimal places.
 
 Published on Saturday, 22nd February 2014, 01:00 pm; Solved by 304;Difficulty rating: 60%
 """
+
+
+def problem_460():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_460())

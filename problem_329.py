@@ -17,3 +17,12 @@ Given that the frog's starting position is random with the same probability for 
 
 Published on Sunday, 20th March 2011, 01:00 am; Solved by 2374;Difficulty rating: 25%
 """
+
+
+def problem_329():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_329())

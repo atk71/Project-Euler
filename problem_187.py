@@ -10,3 +10,12 @@ How many composite integers, n < 108, have precisely two, not necessarily distin
 
 Published on Saturday, 22nd March 2008, 09:00 am; Solved by 10872;Difficulty rating: 25%
 """
+
+
+def problem_187():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_187())

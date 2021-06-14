@@ -9,5 +9,14 @@ You are given that for all primes, p > 5, that p − 1 is divisible by A(p). For
 However, there are rare composite values for which this is also true; the first five examples being 91, 259, 451, 481, and 703.
 Find the sum of the first twenty-five composite values of n for whichGCD(n, 10) = 1 and n − 1 is divisible by A(n).
 
-Published on Friday, 27th October 2006, 06:00 pm; Solved by 5706;Difficulty rating: 45%
+Published on Friday, 27th October 2006, 06:00 pm; Solved by 5707;Difficulty rating: 45%
 """
+
+
+def problem_130():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_130())

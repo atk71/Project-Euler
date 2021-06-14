@@ -17,3 +17,12 @@ Find the sum of all values of n that satisfy $s(n) = 60$.
 
 Published on Sunday, 11th March 2018, 07:00 am; Solved by 1534;Difficulty rating: 15%
 """
+
+
+def problem_622():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_622())

@@ -12,3 +12,12 @@ What are the last $9$ digits of $M(10\,000\,019, 100)$?
 
 Published on Saturday, 29th December 2018, 01:00 pm; Solved by 347;Difficulty rating: 30%
 """
+
+
+def problem_649():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_649())

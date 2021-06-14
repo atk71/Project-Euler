@@ -12,3 +12,12 @@ Find T(47) mod 315
 
 Published on Friday, 14th November 2008, 09:00 pm; Solved by 1434;Difficulty rating: 70%
 """
+
+
+def problem_217():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_217())

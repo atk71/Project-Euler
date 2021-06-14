@@ -13,3 +13,12 @@ Give your answer rounded to six decimal places using the format x.xxxxxx .
 
 Published on Friday, 20th April 2007, 06:00 pm; Solved by 5322;Difficulty rating: 50%
 """
+
+
+def problem_151():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_151())

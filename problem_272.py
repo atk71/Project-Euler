@@ -14,3 +14,12 @@ Find the sum of the positive numbers n≤1011 for which C(n)=242.
 
 Published on Saturday, 2nd January 2010, 05:00 am; Solved by 903;Difficulty rating: 80%
 """
+
+
+def problem_272():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_272())

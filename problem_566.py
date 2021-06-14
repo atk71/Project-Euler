@@ -17,3 +17,12 @@ Find G(53).
 
 Published on Saturday, 25th June 2016, 01:00 pm; Solved by 144;Difficulty rating: 100%
 """
+
+
+def problem_566():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_566())

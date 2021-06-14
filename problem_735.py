@@ -9,3 +9,12 @@ Find $F(10^{12})$.
 
 Published on Saturday, 21st November 2020, 10:00 pm; Solved by 167;Difficulty rating: 65%
 """
+
+
+def problem_735():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_735())

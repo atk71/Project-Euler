@@ -27,3 +27,12 @@ Note: $G(N)$ is not defined for all values of $N$.
 
 Published on Saturday, 6th March 2021, 07:00 pm; Solved by 234
 """
+
+
+def problem_750():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_750())

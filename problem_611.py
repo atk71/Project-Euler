@@ -10,3 +10,12 @@ Find F(1012).
 
 Published on Saturday, 7th October 2017, 10:00 pm; Solved by 299;Difficulty rating: 60%
 """
+
+
+def problem_611():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_611())

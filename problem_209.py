@@ -9,5 +9,14 @@ How many 6-input binary truth tables, τ, satisfy the formula
 for all 6-bit inputs (a, b, c, d, e, f)?
 
 
-Published on Friday, 19th September 2008, 06:00 pm; Solved by 2405;Difficulty rating: 60%
+Published on Friday, 19th September 2008, 06:00 pm; Solved by 2406;Difficulty rating: 60%
 """
+
+
+def problem_209():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_209())

@@ -10,3 +10,12 @@ Find the sum of all f(m,n) such that f(m,n) ≤ 1015.
 
 Published on Friday, 5th March 2010, 01:00 pm; Solved by 902;Difficulty rating: 55%
 """
+
+
+def problem_281():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_281())

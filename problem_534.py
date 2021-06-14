@@ -12,3 +12,12 @@ Find S(14).
 
 Published on Saturday, 14th November 2015, 01:00 pm; Solved by 269;Difficulty rating: 55%
 """
+
+
+def problem_534():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_534())

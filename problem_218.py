@@ -18,3 +18,12 @@ How many perfect right-angled triangles with c≤1016 exist that are not super-p
 
 Published on Saturday, 22nd November 2008, 01:00 am; Solved by 2930;Difficulty rating: 55%
 """
+
+
+def problem_218():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_218())

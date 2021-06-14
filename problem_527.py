@@ -12,3 +12,12 @@ Find R(1010) − B(1010) rounded to 8 decimal places.
 
 Published on Saturday, 26th September 2015, 04:00 pm; Solved by 673;Difficulty rating: 30%
 """
+
+
+def problem_527():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_527())

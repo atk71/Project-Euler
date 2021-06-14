@@ -10,3 +10,12 @@ NOTE: All anagrams formed must be contained in the given text file.
 
 Published on Friday, 17th June 2005, 06:00 pm; Solved by 11124;Difficulty rating: 35%
 """
+
+
+def problem_98():
+	answer = None
+	return answer
+
+
+if __name__ == "__main__":
+	print(problem_98())
