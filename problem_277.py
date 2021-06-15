@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=277]
+
 The following problem is taken from Project Euler.
 
 A MODIFIED COLLATZ SEQUENCE

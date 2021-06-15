@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=171]
+
 The following problem is taken from Project Euler.
 
 FINDING NUMBERS FOR WHICH THE SUM OF THE SQUARES OF THE DIGITS IS A SQUARE

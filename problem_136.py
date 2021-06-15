@@ -1,10 +1,12 @@
 """
+Link: [https://projecteuler.net/problem=136]
+
 The following problem is taken from Project Euler.
 
 SINGLETON DIFFERENCE
 
-The positive integers, x, y, and z, are consecutive terms of an arithmetic progression. Given that n is a positive integer, the equation, x2 − y2 − z2 = n, has exactly one solution when n = 20:
-132 − 102 − 72 = 20
+The positive integers, x, y, and z, are consecutive terms of an arithmetic progression. Given that n is a positive integer, the equation, x2 âˆ’ y2 âˆ’ z2 = n, has exactly one solution when n = 20:
+132 âˆ’ 102 âˆ’ 72 = 20
 In fact there are twenty-five values of n below one hundred for which the equation has a unique solution.
 How many values of n less than fifty million have exactly one solution?
 

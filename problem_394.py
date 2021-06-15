@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=394]
+
 The following problem is taken from Project Euler.
 
 EATING PIE

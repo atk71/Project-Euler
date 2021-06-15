@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=41]
+
 The following problem is taken from Project Euler.
 
 PANDIGITAL PRIME

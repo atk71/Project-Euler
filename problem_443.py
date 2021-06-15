@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=443]
+
 The following problem is taken from Project Euler.
 
 GCD SEQUENCE

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=566]
+
 The following problem is taken from Project Euler.
 
 CAKE ICING PUZZLE

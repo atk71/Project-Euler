@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=527]
+
 The following problem is taken from Project Euler.
 
 RANDOMIZED BINARY SEARCH

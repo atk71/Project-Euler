@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=256]
+
 The following problem is taken from Project Euler.
 
 TATAMI-FREE ROOMS

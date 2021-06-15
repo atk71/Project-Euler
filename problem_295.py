@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=295]
+
 The following problem is taken from Project Euler.
 
 LENTICULAR HOLES

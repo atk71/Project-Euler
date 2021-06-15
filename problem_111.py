@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=111]
+
 The following problem is taken from Project Euler.
 
 PRIMES WITH RUNS

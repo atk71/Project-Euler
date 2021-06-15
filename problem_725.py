@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=725]
+
 The following problem is taken from Project Euler.
 
 DIGIT SUM NUMBERS

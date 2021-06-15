@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=578]
+
 The following problem is taken from Project Euler.
 
 INTEGERS WITH DECREASING PRIME POWERS

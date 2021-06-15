@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=697]
+
 The following problem is taken from Project Euler.
 
 RANDOMLY DECAYING SEQUENCE

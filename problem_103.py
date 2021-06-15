@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=103]
+
 The following problem is taken from Project Euler.
 
 SPECIAL SUBSET SUMS: OPTIMUM

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=296]
+
 The following problem is taken from Project Euler.
 
 ANGULAR BISECTOR AND TANGENT

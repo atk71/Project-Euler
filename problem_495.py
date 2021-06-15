@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=495]
+
 The following problem is taken from Project Euler.
 
 WRITING N AS THE PRODUCT OF K DISTINCT POSITIVE INTEGERS

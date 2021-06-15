@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=335]
+
 The following problem is taken from Project Euler.
 
 GATHERING THE BEANS

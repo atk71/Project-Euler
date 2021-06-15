@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=474]
+
 The following problem is taken from Project Euler.
 
 LAST DIGITS OF DIVISORS

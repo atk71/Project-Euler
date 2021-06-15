@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=667]
+
 The following problem is taken from Project Euler.
 
 MOVING PENTAGON

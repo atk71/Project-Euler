@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=340]
+
 The following problem is taken from Project Euler.
 
 CRAZY FUNCTION

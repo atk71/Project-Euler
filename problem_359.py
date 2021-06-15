@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=359]
+
 The following problem is taken from Project Euler.
 
 HILBERT'S NEW HOTEL

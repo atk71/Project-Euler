@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=627]
+
 The following problem is taken from Project Euler.
 
 COUNTING PRODUCTS

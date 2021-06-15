@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=184]
+
 The following problem is taken from Project Euler.
 
 TRIANGLES CONTAINING THE ORIGIN

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=621]
+
 The following problem is taken from Project Euler.
 
 EXPRESSING AN INTEGER AS THE SUM OF TRIANGULAR NUMBERS

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=108]
+
 The following problem is taken from Project Euler.
 
 DIOPHANTINE RECIPROCALS I

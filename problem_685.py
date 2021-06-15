@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=685]
+
 The following problem is taken from Project Euler.
 
 INVERSE DIGIT SUM II

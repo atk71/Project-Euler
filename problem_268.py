@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=268]
+
 The following problem is taken from Project Euler.
 
 COUNTING NUMBERS WITH AT LEAST FOUR DISTINCT PRIME FACTORS LESS THAN 100

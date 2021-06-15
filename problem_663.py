@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=663]
+
 The following problem is taken from Project Euler.
 
 SUMS OF SUBARRAYS

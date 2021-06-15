@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=529]
+
 The following problem is taken from Project Euler.
 
 10-SUBSTRINGS

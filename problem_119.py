@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=119]
+
 The following problem is taken from Project Euler.
 
 DIGIT POWER SUM

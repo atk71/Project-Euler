@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=623]
+
 The following problem is taken from Project Euler.
 
 LAMBDA COUNT

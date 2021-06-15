@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=603]
+
 The following problem is taken from Project Euler.
 
 SUBSTRING SUMS OF PRIME CONCATENATIONS

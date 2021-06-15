@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=582]
+
 The following problem is taken from Project Euler.
 
 NEARLY ISOSCELES 120 DEGREE TRIANGLES

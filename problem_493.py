@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=493]
+
 The following problem is taken from Project Euler.
 
 UNDER THE RAINBOW

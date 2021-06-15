@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=324]
+
 The following problem is taken from Project Euler.
 
 BUILDING A TOWER

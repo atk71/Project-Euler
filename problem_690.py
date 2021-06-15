@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=690]
+
 The following problem is taken from Project Euler.
 
 TOM AND JERRY

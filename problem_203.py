@@ -1,10 +1,12 @@
 """
+Link: [https://projecteuler.net/problem=203]
+
 The following problem is taken from Project Euler.
 
 SQUAREFREE BINOMIAL COEFFICIENTS
 
 The binomial coefficients $\displaystyle \binom n k$ can be arranged in triangular form, Pascal's triangle, like this:
-It can be seen that the first eight rows of Pascal's triangle contain twelve distinct numbers: 1, 2, 3, 4, 5, 6, 7, 10, 15, 20, 21 and 35.
+It can be seen that the first eight rows of Pascal's triangle contain twelve distinct numbers: 1,Â 2,Â 3,Â 4,Â 5,Â 6,Â 7,Â 10,Â 15,Â 20,Â 21Â andÂ 35.
 A positive integer n is called squarefree if no square of a prime divides n.
 Of the twelve distinct numbers in the first eight rows of Pascal's triangle, all except 4 and 20 are squarefree.
 The sum of the distinct squarefree numbers in the first eight rows is 105.

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=249]
+
 The following problem is taken from Project Euler.
 
 PRIME SUBSET SUMS

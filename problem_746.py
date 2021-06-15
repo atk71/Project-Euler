@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=746]
+
 The following problem is taken from Project Euler.
 
 A MESSY DINNER
@@ -15,9 +17,9 @@ Published on Sunday, 7th February 2021, 07:00 am; Solved by 208;Difficulty ratin
 
 
 def problem_746():
-	answer = None
-	return answer
+    answer = None
+    return answer
 
 
 if __name__ == "__main__":
-	print(problem_746())
+    print(problem_746())

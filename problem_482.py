@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=482]
+
 The following problem is taken from Project Euler.
 
 THE INCENTER OF A TRIANGLE

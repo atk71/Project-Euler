@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=348]
+
 The following problem is taken from Project Euler.
 
 SUM OF A SQUARE AND A CUBE

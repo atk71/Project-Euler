@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=722]
+
 The following problem is taken from Project Euler.
 
 SLOWLY CONVERGING SERIES

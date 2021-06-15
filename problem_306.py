@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=306]
+
 The following problem is taken from Project Euler.
 
 PAPER-STRIP GAME

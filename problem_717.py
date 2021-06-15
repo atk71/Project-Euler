@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=717]
+
 The following problem is taken from Project Euler.
 
 SUMMATION OF A MODULAR FORMULA

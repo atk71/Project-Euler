@@ -1,9 +1,11 @@
 """
+Link: [https://projecteuler.net/problem=102]
+
 The following problem is taken from Project Euler.
 
 TRIANGLE CONTAINMENT
 
-Three distinct points are plotted at random on a Cartesian plane, for which -1000 ≤ x, y ≤ 1000, such that a triangle is formed.
+Three distinct points are plotted at random on a Cartesian plane, for which -1000 â‰¤ x, y â‰¤ 1000, such that a triangle is formed.
 Consider the following two triangles:
 A(-340,495), B(-153,-910), C(835,-947)
 X(-175,41), Y(-421,-714), Z(574,-645)

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=634]
+
 The following problem is taken from Project Euler.
 
 NUMBERS OF THE FORM $A^2B^3$

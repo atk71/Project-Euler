@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=542]
+
 The following problem is taken from Project Euler.
 
 GEOMETRIC PROGRESSION WITH MAXIMUM SUM

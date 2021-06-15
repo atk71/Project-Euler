@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=50]
+
 The following problem is taken from Project Euler.
 
 CONSECUTIVE PRIME SUM

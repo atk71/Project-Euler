@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=288]
+
 The following problem is taken from Project Euler.
 
 AN ENORMOUS FACTORIAL

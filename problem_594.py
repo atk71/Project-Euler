@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=594]
+
 The following problem is taken from Project Euler.
 
 RHOMBUS TILINGS

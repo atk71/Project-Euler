@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=554]
+
 The following problem is taken from Project Euler.
 
 CENTAURS ON A CHESS BOARD

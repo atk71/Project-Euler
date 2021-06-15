@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=269]
+
 The following problem is taken from Project Euler.
 
 POLYNOMIALS WITH AT LEAST ONE INTEGER ROOT

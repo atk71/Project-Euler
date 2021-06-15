@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=172]
+
 The following problem is taken from Project Euler.
 
 INVESTIGATING NUMBERS WITH FEW REPEATED DIGITS

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=523]
+
 The following problem is taken from Project Euler.
 
 FIRST SORT I

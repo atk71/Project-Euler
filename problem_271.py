@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=271]
+
 The following problem is taken from Project Euler.
 
 MODULAR CUBES, PART 1

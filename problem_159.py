@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=159]
+
 The following problem is taken from Project Euler.
 
 DIGITAL ROOT SUMS OF FACTORISATIONS
@@ -12,7 +14,7 @@ We shall call a Digital Root Sum (DRS) the sum of the digital roots of the indiv
  The chart below demonstrates all of the DRS values for 24.
 The maximum Digital Root Sum  of 24 is 11.
 The function mdrs(n) gives the maximum Digital Root Sum of n. So  mdrs(24)=11.
-Find ∑ mdrs(n) for 1 < n < 1,000,000.
+Find âˆ‘â€‰mdrs(n) for 1 < n < 1,000,000.
 
 Published on Saturday, 30th June 2007, 02:00 pm; Solved by 3157;Difficulty rating: 60%
 """

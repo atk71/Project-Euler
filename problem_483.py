@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=483]
+
 The following problem is taken from Project Euler.
 
 REPEATED PERMUTATION

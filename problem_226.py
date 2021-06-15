@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=226]
+
 The following problem is taken from Project Euler.
 
 A SCOOP OF BLANCMANGE

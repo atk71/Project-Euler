@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=743]
+
 The following problem is taken from Project Euler.
 
 WINDOW INTO A MATRIX

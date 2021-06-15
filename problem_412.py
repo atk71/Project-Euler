@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=412]
+
 The following problem is taken from Project Euler.
 
 GNOMON NUMBERING

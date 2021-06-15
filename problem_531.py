@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=531]
+
 The following problem is taken from Project Euler.
 
 CHINESE LEFTOVERS

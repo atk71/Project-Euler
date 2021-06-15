@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=532]
+
 The following problem is taken from Project Euler.
 
 NANOBOTS ON GEODESICS

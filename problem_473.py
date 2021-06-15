@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=473]
+
 The following problem is taken from Project Euler.
 
 PHIGITAL NUMBER BASE

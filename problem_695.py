@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=695]
+
 The following problem is taken from Project Euler.
 
 RANDOM RECTANGLES

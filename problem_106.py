@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=106]
+
 The following problem is taken from Project Euler.
 
 SPECIAL SUBSET SUMS: META-TESTING

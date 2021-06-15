@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=286]
+
 The following problem is taken from Project Euler.
 
 SCORING PROBABILITIES

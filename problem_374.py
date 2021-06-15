@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=374]
+
 The following problem is taken from Project Euler.
 
 MAXIMUM INTEGER PARTITION PRODUCT

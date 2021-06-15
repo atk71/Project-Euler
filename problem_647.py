@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=647]
+
 The following problem is taken from Project Euler.
 
 LINEAR TRANSFORMATIONS OF POLYGONAL NUMBERS

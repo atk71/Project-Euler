@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=581]
+
 The following problem is taken from Project Euler.
 
 47-SMOOTH TRIANGULAR NUMBERS

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=169]
+
 The following problem is taken from Project Euler.
 
 EXPLORING THE NUMBER OF DIFFERENT WAYS A NUMBER CAN BE EXPRESSED AS A SUM OF POWERS OF 2

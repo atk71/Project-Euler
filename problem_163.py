@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=163]
+
 The following problem is taken from Project Euler.
 
 CROSS-HATCHED TRIANGLES

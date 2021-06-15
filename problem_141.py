@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=141]
+
 The following problem is taken from Project Euler.
 
 INVESTIGATING PROGRESSIVE NUMBERS, N, WHICH ARE ALSO SQUARE

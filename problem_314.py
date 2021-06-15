@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=314]
+
 The following problem is taken from Project Euler.
 
 THE MOUSE ON THE MOON

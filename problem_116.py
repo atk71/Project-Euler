@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=116]
+
 The following problem is taken from Project Euler.
 
 RED, GREEN OR BLUE TILES

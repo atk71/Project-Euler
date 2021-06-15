@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=342]
+
 The following problem is taken from Project Euler.
 
 THE TOTIENT OF A SQUARE IS A CUBE

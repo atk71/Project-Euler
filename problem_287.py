@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=287]
+
 The following problem is taken from Project Euler.
 
 QUADTREE ENCODING (A SIMPLE COMPRESSION ALGORITHM)

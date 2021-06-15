@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=316]
+
 The following problem is taken from Project Euler.
 
 NUMBERS IN DECIMAL EXPANSIONS

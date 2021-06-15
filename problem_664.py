@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=664]
+
 The following problem is taken from Project Euler.
 
 AN INFINITE GAME

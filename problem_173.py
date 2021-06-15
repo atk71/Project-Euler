@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=173]
+
 The following problem is taken from Project Euler.
 
 USING UP TO ONE MILLION TILES HOW MANY DIFFERENT "HOLLOW" SQUARE LAMINAE CAN BE FORMED?

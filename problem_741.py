@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=741]
+
 The following problem is taken from Project Euler.
 
 BINARY GRID COLOURING

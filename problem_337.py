@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=337]
+
 The following problem is taken from Project Euler.
 
 TOTIENT STAIRSTEP SEQUENCES

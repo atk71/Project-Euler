@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=641]
+
 The following problem is taken from Project Euler.
 
 A LONG ROW OF DICE

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=261]
+
 The following problem is taken from Project Euler.
 
 PIVOTAL SQUARE SUMS

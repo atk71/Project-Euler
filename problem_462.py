@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=462]
+
 The following problem is taken from Project Euler.
 
 PERMUTATION OF 3-SMOOTH NUMBERS

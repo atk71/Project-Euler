@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=728]
+
 The following problem is taken from Project Euler.
 
 CIRCLE OF COINS

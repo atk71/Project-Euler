@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=181]
+
 The following problem is taken from Project Euler.
 
 INVESTIGATING IN HOW MANY WAYS OBJECTS OF TWO DIFFERENT COLOURS CAN BE GROUPED

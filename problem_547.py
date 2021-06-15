@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=547]
+
 The following problem is taken from Project Euler.
 
 DISTANCE OF RANDOM POINTS WITHIN HOLLOW SQUARE LAMINAE

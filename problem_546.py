@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=546]
+
 The following problem is taken from Project Euler.
 
 THE FLOOR'S REVENGE

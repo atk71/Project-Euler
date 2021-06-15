@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=361]
+
 The following problem is taken from Project Euler.
 
 SUBSEQUENCE OF THUE-MORSE SEQUENCE

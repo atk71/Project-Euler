@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=492]
+
 The following problem is taken from Project Euler.
 
 EXPLODING SEQUENCE

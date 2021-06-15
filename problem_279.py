@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=279]
+
 The following problem is taken from Project Euler.
 
 TRIANGLES WITH INTEGRAL SIDES AND AN INTEGRAL ANGLE 

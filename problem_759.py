@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=759]
+
 The following problem is taken from Project Euler.
 
 A SQUARED RECURRENCE RELATION

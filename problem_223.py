@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=223]
+
 The following problem is taken from Project Euler.
 
 ALMOST RIGHT-ANGLED TRIANGLES I

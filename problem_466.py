@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=466]
+
 The following problem is taken from Project Euler.
 
 DISTINCT TERMS IN A MULTIPLICATION TABLE

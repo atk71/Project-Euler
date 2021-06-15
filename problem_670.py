@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=670]
+
 The following problem is taken from Project Euler.
 
 COLOURING A STRIP

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=628]
+
 The following problem is taken from Project Euler.
 
 OPEN CHESS POSITIONS

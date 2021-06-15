@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=599]
+
 The following problem is taken from Project Euler.
 
 DISTINCT COLOURINGS OF A RUBIK'S CUBE

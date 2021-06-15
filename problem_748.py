@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=748]
+
 The following problem is taken from Project Euler.
 
 UPSIDE DOWN DIOPHANTINE EQUATION

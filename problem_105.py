@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=105]
+
 The following problem is taken from Project Euler.
 
 SPECIAL SUBSET SUMS: TESTING

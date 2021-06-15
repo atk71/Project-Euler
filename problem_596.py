@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=596]
+
 The following problem is taken from Project Euler.
 
 NUMBER OF LATTICE POINTS IN A HYPERBALL

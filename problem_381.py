@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=381]
+
 The following problem is taken from Project Euler.
 
 (PRIME-K) FACTORIAL

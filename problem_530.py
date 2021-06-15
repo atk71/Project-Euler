@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=530]
+
 The following problem is taken from Project Euler.
 
 GCD OF DIVISORS

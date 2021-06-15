@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=384]
+
 The following problem is taken from Project Euler.
 
 RUDIN-SHAPIRO SEQUENCE

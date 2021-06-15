@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=735]
+
 The following problem is taken from Project Euler.
 
 DIVISORS OF $2N^2$

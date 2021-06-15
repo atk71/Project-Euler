@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=557]
+
 The following problem is taken from Project Euler.
 
 CUTTING TRIANGLES

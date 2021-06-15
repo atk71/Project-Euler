@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=592]
+
 The following problem is taken from Project Euler.
 
 FACTORIAL TRAILING DIGITS 2

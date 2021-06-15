@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=43]
+
 The following problem is taken from Project Euler.
 
 SUB-STRING DIVISIBILITY

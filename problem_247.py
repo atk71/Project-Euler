@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=247]
+
 The following problem is taken from Project Euler.
 
 SQUARES UNDER A HYPERBOLA

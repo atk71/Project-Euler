@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=732]
+
 The following problem is taken from Project Euler.
 
 STANDING ON THE SHOULDERS OF TROLLS

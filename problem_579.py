@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=579]
+
 The following problem is taken from Project Euler.
 
 LATTICE POINTS IN LATTICE CUBES

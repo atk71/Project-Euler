@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=734]
+
 The following problem is taken from Project Euler.
 
 A BIT OF PRIME

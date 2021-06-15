@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=151]
+
 The following problem is taken from Project Euler.
 
 PAPER SHEETS OF STANDARD SIZES: AN EXPECTED-VALUE PROBLEM

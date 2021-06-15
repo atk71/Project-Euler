@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=729]
+
 The following problem is taken from Project Euler.
 
 RANGE OF PERIODIC SEQUENCE

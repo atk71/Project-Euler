@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=300]
+
 The following problem is taken from Project Euler.
 
 PROTEIN FOLDING

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=147]
+
 The following problem is taken from Project Euler.
 
 RECTANGLES IN CROSS-HATCHED GRIDS

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=303]
+
 The following problem is taken from Project Euler.
 
 MULTIPLES WITH SMALL DIGITS

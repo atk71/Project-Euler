@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=302]
+
 The following problem is taken from Project Euler.
 
 STRONG ACHILLES NUMBERS

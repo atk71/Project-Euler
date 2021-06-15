@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=176]
+
 The following problem is taken from Project Euler.
 
 RIGHT-ANGLED TRIANGLES THAT SHARE A CATHETUS

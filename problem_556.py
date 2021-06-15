@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=556]
+
 The following problem is taken from Project Euler.
 
 SQUAREFREE GAUSSIAN INTEGERS

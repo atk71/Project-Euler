@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=508]
+
 The following problem is taken from Project Euler.
 
 INTEGERS IN BASE I-1

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=48]
+
 The following problem is taken from Project Euler.
 
 SELF POWERS

@@ -78,13 +78,14 @@ def prepend_link(start, end):
     for question_number in range(start, (end + 1)):
         file_name = f'problem_{question_number}.py'
         if os.path.isfile(file_name):
-            file = io.open(file_name, 'r')
+            file = io.open(file_name, 'r', encoding='utf-8')
+            next(file)
             save = file.read()
             file = io.open(file_name, 'w', encoding='utf-8')
-            file.write(f'# https://projecteuler.net/problem={question_number}')
+            file.write(f'"""\nLink: [https://projecteuler.net/problem={question_number}]\n\n')
             file = io.open(file_name, 'a', encoding='utf=8')
             file.write(save)
 
 
 if __name__ == "__main__":
-    prepend_link(1, 759)
+    prepend_link(206, 759)

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=649]
+
 The following problem is taken from Project Euler.
 
 LOW-PRIME CHESSBOARD NIM

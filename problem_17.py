@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=17]
+
 The following problem is taken from Project Euler.
 
 NUMBER LETTER COUNTS
@@ -11,10 +13,32 @@ Published on Friday, 17th May 2002, 06:00 pm; Solved by 152573;Difficulty rating
 """
 
 
-def problem_17():
-	answer = None
-	return answer
+def number_to_words(number: int) -> str:
+	ones = {0: 'zero', 1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five', 6: 'six', 7: 'seven', 8: 'eight', 9: 'nine'}
+	teens = {0: 'ten', 1: 'eleven', 2: 'twelve', 3: 'thirteen', 4: 'fourteen', 5: 'fifteen', 6: 'sixteen', 7: 'seventeen', 8: 'eighteen', 9: 'nineteen'}
+	tens = {0: ones, 1: teens, 2: 'twenty', 3: 'thirty', 4: 'forty', 5: 'fifty', 6: 'sixty', 7: 'seventy', 8: 'eighty', 9: 'ninety'}
+	hundred = 'hundred'
+	thousand = 'thousand'
+	and_symbol = 'and'
+	words = teens[(number % 5)]
+	print(words)
+
+	return words
+
+
+def count_letters_in_words(number: int) -> int:
+	words = number_to_words(number)
+	return len(words.replace('-', '').replace(' ', ''))
+
+
+def number_letter_counts() -> int:
+	start = 1
+	end = 1000
+	letter_count = 0
+	for i in range(start, end + 1):
+		letter_count += count_letters_in_words(i)
+	return letter_count
 
 
 if __name__ == "__main__":
-	print(problem_17())
+	print(number_letter_counts())

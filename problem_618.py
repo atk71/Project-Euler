@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=618]
+
 The following problem is taken from Project Euler.
 
 NUMBERS WITH A GIVEN PRIME FACTOR SUM

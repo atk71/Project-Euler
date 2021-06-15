@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=417]
+
 The following problem is taken from Project Euler.
 
 RECIPROCAL CYCLES II

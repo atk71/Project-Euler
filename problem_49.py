@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=49]
+
 The following problem is taken from Project Euler.
 
 PRIME PERMUTATIONS

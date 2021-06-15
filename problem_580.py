@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=580]
+
 The following problem is taken from Project Euler.
 
 SQUAREFREE HILBERT NUMBERS

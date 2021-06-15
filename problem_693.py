@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=693]
+
 The following problem is taken from Project Euler.
 
 FINITE SEQUENCE GENERATOR

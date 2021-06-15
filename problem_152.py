@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=152]
+
 The following problem is taken from Project Euler.
 
 WRITING 1/2 AS A SUM OF INVERSE SQUARES

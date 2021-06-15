@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=691]
+
 The following problem is taken from Project Euler.
 
 LONG SUBSTRING WITH MANY REPETITIONS

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=358]
+
 The following problem is taken from Project Euler.
 
 CYCLIC NUMBERS

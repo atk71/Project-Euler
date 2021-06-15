@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=677]
+
 The following problem is taken from Project Euler.
 
 COLOURED GRAPHS

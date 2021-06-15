@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=140]
+
 The following problem is taken from Project Euler.
 
 MODIFIED FIBONACCI GOLDEN NUGGETS

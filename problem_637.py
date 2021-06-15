@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=637]
+
 The following problem is taken from Project Euler.
 
 FLEXIBLE DIGIT SUM

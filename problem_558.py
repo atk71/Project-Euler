@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=558]
+
 The following problem is taken from Project Euler.
 
 IRRATIONAL BASE

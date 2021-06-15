@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=560]
+
 The following problem is taken from Project Euler.
 
 COPRIME NIM

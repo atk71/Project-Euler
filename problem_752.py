@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=752]
+
 The following problem is taken from Project Euler.
 
 POWERS OF $1+\SQRT 7$

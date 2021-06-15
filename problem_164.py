@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=164]
+
 The following problem is taken from Project Euler.
 
 NUMBERS FOR WHICH NO THREE CONSECUTIVE DIGITS HAVE A SUM GREATER THAN A GIVEN VALUE

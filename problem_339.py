@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=339]
+
 The following problem is taken from Project Euler.
 
 PEREDUR FAB EFRAWG

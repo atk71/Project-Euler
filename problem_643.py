@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=643]
+
 The following problem is taken from Project Euler.
 
 2-FRIENDLY

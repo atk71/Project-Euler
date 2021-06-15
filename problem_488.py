@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=488]
+
 The following problem is taken from Project Euler.
 
 UNBALANCED NIM

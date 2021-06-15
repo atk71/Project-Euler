@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=284]
+
 The following problem is taken from Project Euler.
 
 STEADY SQUARES

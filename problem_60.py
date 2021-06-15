@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=60]
+
 The following problem is taken from Project Euler.
 
 PRIME PAIR SETS

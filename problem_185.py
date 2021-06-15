@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=185]
+
 The following problem is taken from Project Euler.
 
 NUMBER MIND

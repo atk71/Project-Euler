@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=55]
+
 The following problem is taken from Project Euler.
 
 LYCHREL NUMBERS

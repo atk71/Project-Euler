@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=754]
+
 The following problem is taken from Project Euler.
 
 PRODUCT OF GAUSS FACTORIALS

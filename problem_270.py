@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=270]
+
 The following problem is taken from Project Euler.
 
 CUTTING SQUARES

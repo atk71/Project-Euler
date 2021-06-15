@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=626]
+
 The following problem is taken from Project Euler.
 
 COUNTING BINARY MATRICES

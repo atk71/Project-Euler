@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=387]
+
 The following problem is taken from Project Euler.
 
 HARSHAD NUMBERS

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=511]
+
 The following problem is taken from Project Euler.
 
 SEQUENCES WITH NICE DIVISIBILITY PROPERTIES

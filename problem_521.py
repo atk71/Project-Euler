@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=521]
+
 The following problem is taken from Project Euler.
 
 SMALLEST PRIME FACTOR

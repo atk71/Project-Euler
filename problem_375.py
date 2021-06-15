@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=375]
+
 The following problem is taken from Project Euler.
 
 MINIMUM OF SUBSEQUENCES

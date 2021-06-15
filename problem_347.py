@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=347]
+
 The following problem is taken from Project Euler.
 
 LARGEST INTEGER DIVISIBLE BY TWO PRIMES

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=669]
+
 The following problem is taken from Project Euler.
 
 THE KING'S BANQUET

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=99]
+
 The following problem is taken from Project Euler.
 
 LARGEST EXPONENTIAL

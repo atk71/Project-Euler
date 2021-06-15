@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=756]
+
 The following problem is taken from Project Euler.
 
 APPROXIMATING A SUM

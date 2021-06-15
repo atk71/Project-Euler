@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=636]
+
 The following problem is taken from Project Euler.
 
 RESTRICTED FACTORISATIONS

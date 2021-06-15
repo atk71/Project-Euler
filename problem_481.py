@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=481]
+
 The following problem is taken from Project Euler.
 
 CHEF SHOWDOWN

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=683]
+
 The following problem is taken from Project Euler.
 
 THE CHASE II

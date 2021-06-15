@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=222]
+
 The following problem is taken from Project Euler.
 
 SPHERE PACKING

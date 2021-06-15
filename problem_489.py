@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=489]
+
 The following problem is taken from Project Euler.
 
 COMMON FACTORS BETWEEN TWO SEQUENCES

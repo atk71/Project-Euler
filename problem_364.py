@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=364]
+
 The following problem is taken from Project Euler.
 
 COMFORTABLE DISTANCE

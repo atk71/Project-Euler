@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=204]
+
 The following problem is taken from Project Euler.
 
 GENERALISED HAMMING NUMBERS

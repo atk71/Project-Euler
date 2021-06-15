@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=745]
+
 The following problem is taken from Project Euler.
 
 SUM OF SQUARES

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=499]
+
 The following problem is taken from Project Euler.
 
 ST. PETERSBURG LOTTERY

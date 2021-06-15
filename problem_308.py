@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=308]
+
 The following problem is taken from Project Euler.
 
 AN AMAZING PRIME-GENERATING AUTOMATON

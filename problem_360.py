@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=360]
+
 The following problem is taken from Project Euler.
 
 SCARY SPHERE

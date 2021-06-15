@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=624]
+
 The following problem is taken from Project Euler.
 
 TWO HEADS ARE BETTER THAN ONE

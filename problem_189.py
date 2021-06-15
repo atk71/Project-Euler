@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=189]
+
 The following problem is taken from Project Euler.
 
 TRI-COLOURING A TRIANGULAR GRID

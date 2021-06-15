@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=652]
+
 The following problem is taken from Project Euler.
 
 DISTINCT VALUES OF A PROTO-LOGARITHMIC FUNCTION

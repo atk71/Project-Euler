@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=422]
+
 The following problem is taken from Project Euler.
 
 SEQUENCE OF POINTS ON A HYPERBOLA

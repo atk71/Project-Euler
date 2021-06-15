@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=138]
+
 The following problem is taken from Project Euler.
 
 SPECIAL ISOSCELES TRIANGLES

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=235]
+
 The following problem is taken from Project Euler.
 
 AN ARITHMETIC GEOMETRIC SEQUENCE

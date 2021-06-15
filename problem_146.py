@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=146]
+
 The following problem is taken from Project Euler.
 
 INVESTIGATING A PRIME PATTERN 

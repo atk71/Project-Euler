@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=512]
+
 The following problem is taken from Project Euler.
 
 SUMS OF TOTIENTS OF POWERS

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=536]
+
 The following problem is taken from Project Euler.
 
 MODULO POWER IDENTITY 

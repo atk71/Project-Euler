@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=293]
+
 The following problem is taken from Project Euler.
 
 PSEUDO-FORTUNATE NUMBERS

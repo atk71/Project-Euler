@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=234]
+
 The following problem is taken from Project Euler.
 
 SEMIDIVISIBLE NUMBERS

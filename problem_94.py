@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=94]
+
 The following problem is taken from Project Euler.
 
 ALMOST EQUILATERAL TRIANGLES

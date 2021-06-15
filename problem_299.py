@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=299]
+
 The following problem is taken from Project Euler.
 
 THREE SIMILAR TRIANGLES

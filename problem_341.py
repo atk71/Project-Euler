@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=341]
+
 The following problem is taken from Project Euler.
 
 GOLOMB'S SELF-DESCRIBING SEQUENCE

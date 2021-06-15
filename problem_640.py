@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=640]
+
 The following problem is taken from Project Euler.
 
 SHUT THE BOX

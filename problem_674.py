@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=674]
+
 The following problem is taken from Project Euler.
 
 SOLVING $\MATHCAL{I}$-EQUATIONS

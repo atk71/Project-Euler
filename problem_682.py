@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=682]
+
 The following problem is taken from Project Euler.
 
 5-SMOOTH PAIRS

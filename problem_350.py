@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=350]
+
 The following problem is taken from Project Euler.
 
 CONSTRAINING THE LEAST GREATEST AND THE GREATEST LEAST

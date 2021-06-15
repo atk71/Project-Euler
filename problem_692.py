@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=692]
+
 The following problem is taken from Project Euler.
 
 SIEGBERT AND JO

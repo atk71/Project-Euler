@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=376]
+
 The following problem is taken from Project Euler.
 
 NONTRANSITIVE SETS OF DICE

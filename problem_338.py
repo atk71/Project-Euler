@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=338]
+
 The following problem is taken from Project Euler.
 
 CUTTING RECTANGULAR GRID PAPER

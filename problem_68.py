@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=68]
+
 The following problem is taken from Project Euler.
 
 MAGIC 5-GON RING

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=289]
+
 The following problem is taken from Project Euler.
 
 EULERIAN CYCLES

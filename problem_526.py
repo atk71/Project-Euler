@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=526]
+
 The following problem is taken from Project Euler.
 
 LARGEST PRIME FACTORS OF CONSECUTIVE NUMBERS

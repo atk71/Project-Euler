@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=396]
+
 The following problem is taken from Project Euler.
 
 WEAK GOODSTEIN SEQUENCE

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=730]
+
 The following problem is taken from Project Euler.
 
 SHIFTED PYTHAGOREAN TRIPLES

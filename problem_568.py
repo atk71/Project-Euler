@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=568]
+
 The following problem is taken from Project Euler.
 
 RECIPROCAL GAMES II

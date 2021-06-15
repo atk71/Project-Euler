@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=210]
+
 The following problem is taken from Project Euler.
 
 OBTUSE ANGLED TRIANGLES

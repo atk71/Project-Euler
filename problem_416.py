@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=416]
+
 The following problem is taken from Project Euler.
 
 A FROG'S TRIP

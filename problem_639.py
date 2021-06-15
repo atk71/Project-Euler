@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=639]
+
 The following problem is taken from Project Euler.
 
 SUMMING A MULTIPLICATIVE FUNCTION

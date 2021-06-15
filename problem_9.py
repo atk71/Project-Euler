@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=9]
+
 The following problem is taken from Project Euler.
 
 SPECIAL PYTHAGOREAN TRIPLET
@@ -9,13 +11,11 @@ There exists exactly one Pythagorean triplet for which a + b + c = 1000.Find the
 
 Published on Friday, 25th January 2002, 06:00 pm; Solved by 360093;Difficulty rating: 5%
 """
-import timeit
 
 
-def problem_9():
+def special_pythagorean_triplet():
 	return None
 
 
 if __name__ == "__main__":
-	problem_9()
-	print(timeit.timeit(stmt=problem_9()))
+	special_pythagorean_triplet()

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=686]
+
 The following problem is taken from Project Euler.
 
 POWERS OF TWO

@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=200]
+
 The following problem is taken from Project Euler.
 
 FIND THE 200TH PRIME-PROOF SQUBE CONTAINING THE CONTIGUOUS SUB-STRING "200"

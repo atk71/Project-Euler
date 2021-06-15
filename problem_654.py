@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=654]
+
 The following problem is taken from Project Euler.
 
 NEIGHBOURLY CONSTRAINTS

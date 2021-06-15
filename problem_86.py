@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=86]
+
 The following problem is taken from Project Euler.
 
 CUBOID ROUTE

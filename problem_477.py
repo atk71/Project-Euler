@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=477]
+
 The following problem is taken from Project Euler.
 
 NUMBER SEQUENCE GAME

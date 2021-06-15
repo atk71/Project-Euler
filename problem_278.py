@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=278]
+
 The following problem is taken from Project Euler.
 
 LINEAR COMBINATIONS OF SEMIPRIMES

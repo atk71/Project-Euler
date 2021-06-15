@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=332]
+
 The following problem is taken from Project Euler.
 
 SPHERICAL TRIANGLES

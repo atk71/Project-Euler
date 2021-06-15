@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=154]
+
 The following problem is taken from Project Euler.
 
 EXPLORING PASCAL'S PYRAMID

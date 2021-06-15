@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=330]
+
 The following problem is taken from Project Euler.
 
 EULER'S NUMBER

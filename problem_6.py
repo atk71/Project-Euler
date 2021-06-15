@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=6]
+
 The following problem is taken from Project Euler.
 
 SUM SQUARE DIFFERENCE

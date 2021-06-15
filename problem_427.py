@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=427]
+
 The following problem is taken from Project Euler.
 
 N-SEQUENCES

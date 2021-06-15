@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=368]
+
 The following problem is taken from Project Euler.
 
 A KEMPNER-LIKE SERIES

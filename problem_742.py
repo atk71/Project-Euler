@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=742]
+
 The following problem is taken from Project Euler.
 
 MINIMUM AREA OF A CONVEX GRID POLYGON

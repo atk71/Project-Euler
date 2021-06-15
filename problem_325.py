@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=325]
+
 The following problem is taken from Project Euler.
 
 STONE GAME II

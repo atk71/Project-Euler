@@ -1,4 +1,6 @@
 """
+Link: [https://projecteuler.net/problem=61]
+
 The following problem is taken from Project Euler.
 
 CYCLICAL FIGURATE NUMBERS
